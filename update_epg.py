@@ -124,6 +124,20 @@ def extract_tvg_urls(m3u_text):
     return out
 
 
+def guess_provider_epg_urls(m3u_url):
+    """
+    If M3U looks like Xtream Codes get.php, also try xmltv.php with same query.
+    """
+    urls = []
+    if "get.php" in m3u_url:
+        urls.append(m3u_url.replace("get.php", "xmltv.php"))
+    # Some panels use player_api / get.php variants
+    if "type=m3u" in m3u_url and "xmltv.php" not in m3u_url:
+        # already handled by get.php swap when present
+        pass
+    return urls
+
+
 def get_playlist_data(m3u_url, label):
     """Download M3U and return tvg-ids + embedded EPG urls."""
     print(f"[{label}] Downloading M3U...")
@@ -135,8 +149,13 @@ def get_playlist_data(m3u_url, label):
 
         text = response.text
         tvg_urls = extract_tvg_urls(text)
+        for u in guess_provider_epg_urls(m3u_url):
+            if u not in tvg_urls:
+                tvg_urls.append(u)
+                print(f"[{label}] Also trying provider EPG guess: {u}")
+
         if tvg_urls:
-            print(f"[{label}] Found {len(tvg_urls)} EPG url(s) in M3U header:")
+            print(f"[{label}] Found {len(tvg_urls)} EPG url(s) from M3U/provider:")
             for u in tvg_urls:
                 print(f"[{label}]   - {u}")
         else:
