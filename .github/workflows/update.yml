@@ -31,11 +31,11 @@ jobs:
         env:
           # ONE SECRET = ONE EPG FILE
           # Secret name: M3U_<FILENAME>   Value: m3u URL
-          # Example: M3U_HOME -> epgs/home-epg.xml.gz
-          #
-          # Add a new line here whenever you create a new secret:
-          # Secret M3U_US -> epgs/us-epg.xml.gz
+          # Example: M3U_US -> epgs/us-epg.xml.gz
           M3U_US: ${{ secrets.M3U_US }}
+          # Optional: extra EPG xml/xml.gz URLs (comma or newline separated)
+          # Use this if your M3U has no url-tvg and default sources don't match ids
+          EPG_URLS: ${{ secrets.EPG_URLS }}
           # M3U_HOME: ${{ secrets.M3U_HOME }}
           # M3U_SPORTS: ${{ secrets.M3U_SPORTS }}
           # M3U_KIDS: ${{ secrets.M3U_KIDS }}
