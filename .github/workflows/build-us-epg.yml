@@ -1,12 +1,11 @@
 name: Build US EPG (iptv-org)
 
-# Free-tier friendly: every 12 hours + manual.
-# Builds 2-day guides with batched site grabs, splits if >40MB, then filters by M3U.
-# Output layout: epgs/<CATEGORY>/  e.g. M3U_US -> epgs/US/
+# Every 12 hours + manual.
+# Optional grabber (secret EPG_GRABBER=true|false), then filter URLs, write reports, merge.
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'   # every 12 hours (00:00 and 12:00 UTC)
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,7 +25,9 @@ jobs:
       EPG_MAX_CONNECTIONS: '2'
       EPG_CATEGORY: US
       M3U_US: ${{ secrets.M3U_US }}
-      M3U_URL: ${{ secrets.M3U_US }}
+      PLAYLIST_URL: ${{ secrets.M3U_US }}
+      EPG_GRABBER: ${{ secrets.EPG_GRABBER }}
+      EPG_URLS: ${{ secrets.EPG_URLS }}
 
     steps:
       - name: Checkout Repository
@@ -34,12 +35,26 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Resolve grabber flag
+        id: flags
+        run: |
+          v="${EPG_GRABBER:-true}"
+          v=$(echo "$v" | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')
+          if [[ "$v" == "false" || "$v" == "0" || "$v" == "no" || "$v" == "off" ]]; then
+            echo "grabber=false" >> "$GITHUB_OUTPUT"
+            echo "Grabber DISABLED (EPG_GRABBER=$EPG_GRABBER)"
+          else
+            echo "grabber=true" >> "$GITHUB_OUTPUT"
+            echo "Grabber ENABLED (EPG_GRABBER=${EPG_GRABBER:-true})"
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Set up Node
+        if: steps.flags.outputs.grabber == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -48,52 +63,65 @@ jobs:
         run: pip install --upgrade pip requests lxml
 
       - name: Clone iptv-org/epg (shallow)
+        if: steps.flags.outputs.grabber == 'true'
         run: |
           rm -rf iptv-org-epg
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git iptv-org-epg
 
       - name: Install iptv-org/epg deps
+        if: steps.flags.outputs.grabber == 'true'
         working-directory: iptv-org-epg
         run: npm install --no-fund --no-audit
 
       - name: Build filtered channels.xml from playlist
+        if: steps.flags.outputs.grabber == 'true'
         run: python build_us_channels.py
 
       - name: Split channels by site
+        if: steps.flags.outputs.grabber == 'true'
         run: python split_channels_by_site.py
 
       - name: Grab EPG by site (2 days, batched)
+        if: steps.flags.outputs.grabber == 'true'
         run: |
           chmod +x run_batched_grab.sh
           ./run_batched_grab.sh
 
-      - name: Publish guides to epgs/US/ (merge + split if large)
+      - name: Publish grabber-raw-guide to epgs/US/
+        if: steps.flags.outputs.grabber == 'true'
         env:
           EPG_CATEGORY: US
         run: python publish_guides.py
 
-      - name: Filter playlist EPG -> epgs/US/epg.xml.gz + reports
+      - name: Filter grabber + URLs, write reports, merge
         env:
           M3U_US: ${{ secrets.M3U_US }}
           EPG_URLS: ${{ secrets.EPG_URLS }}
+          EPG_GRABBER: ${{ secrets.EPG_GRABBER }}
           EPG_USE_DEFAULTS: '0'
         run: python update_epg.py
 
-      - name: Show output sizes and report summary
+      - name: Show output layout
         run: |
           ls -lhR epgs/US || true
-          echo "----- summary -----"
-          cat epgs/US/reports/summary.txt || true
-          echo "----- unmatched count -----"
-          wc -l epgs/US/reports/unmatched.txt || true
-          echo "----- duplicates count -----"
-          wc -l epgs/US/reports/duplicates.txt || true
+          echo "----- grabber summary -----"
+          cat epgs/US/reports/grabber-summary.txt || true
+          echo "----- urls summary -----"
+          cat epgs/US/reports/urls-summary.txt || true
+          echo "----- merge summary -----"
+          cat epgs/US/reports/merge-summary.txt || true
 
-      - name: Commit and Force Push
+      - name: Commit and push (no amend / no force)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           date -u > last_run.txt
           git add epgs/ last_run.txt
-          git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
-          git push --force
+          if git diff --staged --quiet; then
+            echo "No EPG file changes to commit."
+            exit 0
+          fi
+          git commit -m "Fresh EPG Update: $(date -u)"
+          # Rebase onto latest main so README/code commits are not overwritten
+          git pull --rebase origin main
+          git push origin HEAD:main

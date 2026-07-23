@@ -1,6 +1,9 @@
 """
-Merge site guides and publish to epgs/.
-If compressed size exceeds MAX_GZ_BYTES, split into multiple part files.
+Merge site guides from the iptv-org grabber and publish under epgs/<CATEGORY>/.
+
+Output names (self-describing):
+  grabber-raw-guide.xml.gz
+  grabber-raw-guide-part-01.xml.gz  (if gz > 40MB)
 """
 from __future__ import annotations
 
@@ -17,7 +20,6 @@ EPGS = ROOT / "epgs"
 CATEGORY = (os.environ.get("EPG_CATEGORY") or os.environ.get("M3U_CATEGORY") or "US").strip()
 CATEGORY_DIR = EPGS / CATEGORY
 
-# Keep under GitHub soft limit with room to spare
 MAX_GZ_BYTES = 40 * 1024 * 1024
 
 CHANNEL_RE = re.compile(rb"<channel\b.*?</channel>", re.DOTALL)
@@ -77,25 +79,31 @@ def collect_from_files(files: list[Path]):
     return channels, programmes
 
 
+def clean_old_guides() -> None:
+    patterns = (
+        "grabber-raw-guide*.xml.gz",
+        "iptvorg-guide*.xml.gz",
+    )
+    for pat in patterns:
+        for old in CATEGORY_DIR.glob(pat):
+            old.unlink()
+    for old in EPGS.glob("us-iptvorg-guide*.xml.gz"):
+        old.unlink()
+
+
 def main() -> None:
     CATEGORY_DIR.mkdir(parents=True, exist_ok=True)
     WORK.mkdir(exist_ok=True)
-    print(f"Publishing guides for category={CATEGORY} -> {CATEGORY_DIR}", flush=True)
+    print(f"Publishing grabber raw guides for category={CATEGORY} -> {CATEGORY_DIR}", flush=True)
 
-    # Remove old generated iptvorg parts in this category
-    for old in CATEGORY_DIR.glob("iptvorg-guide*.xml.gz"):
-        old.unlink()
-    # Also clean legacy root files
-    for old in EPGS.glob("us-iptvorg-guide*.xml.gz"):
-        old.unlink()
+    clean_old_guides()
 
     files = sorted(IN_DIR.glob("*.xml.gz"))
     if not files:
         raise SystemExit(f"No site guides in {IN_DIR}")
 
-    # Try single file first
     channels, programmes = collect_from_files(files)
-    out = CATEGORY_DIR / "iptvorg-guide.xml.gz"
+    out = CATEGORY_DIR / "grabber-raw-guide.xml.gz"
     c, p, size = write_guide(channels, programmes, out)
     print(f"single file: channels={c} programmes={p} size={size}", flush=True)
 
@@ -124,13 +132,13 @@ def main() -> None:
 
     for i, pack in enumerate(packs, start=1):
         ch, pr = collect_from_files(pack)
-        part = CATEGORY_DIR / f"iptvorg-guide-{i:02d}.xml.gz"
+        part = CATEGORY_DIR / f"grabber-raw-guide-part-{i:02d}.xml.gz"
         c, p, size = write_guide(ch, pr, part)
         print(f"part {i}: files={[x.name for x in pack]} channels={c} programmes={p} size={size}", flush=True)
         if size > MAX_GZ_BYTES:
             print(f"WARNING: part {i} still large ({size}); consider fewer sites/days", flush=True)
 
-    print(f"Wrote {len(packs)} split guide file(s) under {CATEGORY_DIR}", flush=True)
+    print(f"Wrote {len(packs)} grabber-raw-guide part(s) under {CATEGORY_DIR}", flush=True)
 
 
 if __name__ == "__main__":

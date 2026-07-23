@@ -2,6 +2,7 @@ import copy
 import csv
 import glob
 import gzip
+import io
 import os
 import re
 import xml.etree.ElementTree as ET
@@ -19,6 +20,9 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 EPGS_ROOT = os.path.join(BASE_DIR, "epgs")
 os.makedirs(EPGS_ROOT, exist_ok=True)
 
+# Keep under GitHub soft file-size limit with room to spare
+MAX_GZ_BYTES = 40 * 1024 * 1024
+
 DEFAULT_URLS = [
     "https://iptv-epg.org/files/epg-xdbezrvvbu.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
@@ -26,6 +30,20 @@ DEFAULT_URLS = [
     "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_WHALETVPLUS1.xml.gz",
 ]
+
+# Env aliases used by grab scripts — not playlist category secrets
+RESERVED_M3U_KEYS = {"M3U_URL"}
+
+
+def env_bool(name: str, default: bool = True) -> bool:
+    raw = (os.getenv(name) or "").strip().lower()
+    if not raw:
+        return default
+    if raw in {"1", "true", "yes", "on"}:
+        return True
+    if raw in {"0", "false", "no", "off"}:
+        return False
+    return default
 
 
 def category_from_secret_key(key: str) -> str:
@@ -63,6 +81,8 @@ def load_playlists():
     playlists = []
     for key, value in sorted(os.environ.items()):
         if not key.startswith("M3U_"):
+            continue
+        if key in RESERVED_M3U_KEYS:
             continue
         url = (value or "").strip()
         if not url:
@@ -208,17 +228,17 @@ def fetch_and_parse(url):
         return None
 
 
-def local_iptvorg_sources(category: str | None = None):
-    patterns = []
-    if category:
-        patterns.append(os.path.join(EPGS_ROOT, category, "iptvorg-guide*.xml.gz"))
-        patterns.append(os.path.join(EPGS_ROOT, category, "*-iptvorg-guide*.xml.gz"))
-    patterns.append(os.path.join(EPGS_ROOT, "us-iptvorg-guide*.xml.gz"))
-    patterns.append(os.path.join(EPGS_ROOT, "*", "iptvorg-guide*.xml.gz"))
+def local_grabber_sources(category: str):
+    """Raw guides produced by the iptv-org grabber for this category."""
+    patterns = [
+        os.path.join(EPGS_ROOT, category, "grabber-raw-guide*.xml.gz"),
+        # Legacy names (pre-rename)
+        os.path.join(EPGS_ROOT, category, "iptvorg-guide*.xml.gz"),
+        os.path.join(EPGS_ROOT, "us-iptvorg-guide*.xml.gz"),
+    ]
     paths = []
     for pat in patterns:
         paths.extend(glob.glob(pat))
-    # unique preserve order
     seen, out = set(), []
     for p in sorted(set(paths)):
         ap = os.path.abspath(p)
@@ -226,6 +246,15 @@ def local_iptvorg_sources(category: str | None = None):
             seen.add(ap)
             out.append(f"file://{ap}")
     return out
+
+
+def load_sources(urls):
+    sources = []
+    for url in urls:
+        root = fetch_and_parse(url)
+        if root is not None:
+            sources.append((source_label(url), root))
+    return sources
 
 
 def iter_children(root, tag_name):
@@ -265,11 +294,8 @@ def build_filtered_epg(epg_sources, playlist_ids):
     master_root = ET.Element("tv", {"generator-info-name": "EPG-LIST-GEN-Multi"})
     alias_map, slug_map = build_alias_maps(playlist_ids)
 
-    # playlist_id -> first winning source
     chosen_source = {}
-    # playlist_id -> [sources that also matched]
     duplicate_sources = {}
-    # playlist_id -> epg channel id used for first match
     chosen_epg_id = {}
     programme_count = 0
     channel_count = 0
@@ -298,8 +324,10 @@ def build_filtered_epg(epg_sources, playlist_ids):
             playlist_id = resolve_playlist_id(epg_id, alias_map, slug_map)
             if not playlist_id:
                 continue
-            # Only keep programmes for channels we accepted, from any matched source id
             if playlist_id not in chosen_source:
+                continue
+            # Only keep programmes from the winning (first) source for this channel
+            if chosen_source[playlist_id] != src_label:
                 continue
             node = copy.deepcopy(prog)
             node.set("channel", playlist_id)
@@ -339,11 +367,12 @@ def build_filtered_epg(epg_sources, playlist_ids):
     }
 
 
-def write_reports(category_dir: str, stats: dict):
+def write_reports(category_dir: str, stats: dict, prefix: str):
+    """Write reports/<prefix>-matched.csv etc."""
     reports = Path(category_dir) / "reports"
     reports.mkdir(parents=True, exist_ok=True)
 
-    matched_csv = reports / "matched.csv"
+    matched_csv = reports / f"{prefix}-matched.csv"
     with matched_csv.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(
             f, fieldnames=["tvg_id", "epg_id_matched", "source", "duplicate_sources"]
@@ -351,22 +380,23 @@ def write_reports(category_dir: str, stats: dict):
         writer.writeheader()
         writer.writerows(stats["matched"])
 
-    unmatched_txt = reports / "unmatched.txt"
+    unmatched_txt = reports / f"{prefix}-unmatched.txt"
     unmatched_txt.write_text(
         "\n".join(stats["unmatched"]) + ("\n" if stats["unmatched"] else ""),
         encoding="utf-8",
     )
 
-    dup_txt = reports / "duplicates.txt"
+    dup_txt = reports / f"{prefix}-duplicates.txt"
     lines = []
     for pid, info in stats["duplicates"].items():
         lines.append(f"{pid}\tprimary={info['primary']}\talso_in={';'.join(info['also_in'])}")
     dup_txt.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
 
-    summary = reports / "summary.txt"
+    summary = reports / f"{prefix}-summary.txt"
     summary.write_text(
         "\n".join(
             [
+                f"kind={prefix}",
                 f"matched_channels={len(stats['matched'])}",
                 f"unmatched_channels={len(stats['unmatched'])}",
                 f"duplicate_channels={len(stats['duplicates'])}",
@@ -378,10 +408,187 @@ def write_reports(category_dir: str, stats: dict):
         encoding="utf-8",
     )
 
-    print(f"Reports written to {reports}")
-    print(f"  matched:   {matched_csv}")
-    print(f"  unmatched: {unmatched_txt} ({len(stats['unmatched'])})")
-    print(f"  duplicates:{dup_txt} ({len(stats['duplicates'])})")
+    print(f"[{prefix}] Reports under {reports}")
+    print(f"  {matched_csv.name}")
+    print(f"  {unmatched_txt.name} ({len(stats['unmatched'])} unmatched)")
+    print(f"  {dup_txt.name} ({len(stats['duplicates'])} duplicates)")
+    print(f"  {summary.name}")
+
+
+def root_to_gzip_bytes(root: ET.Element) -> bytes:
+    buf = io.BytesIO()
+    tree = ET.ElementTree(root)
+    raw = io.BytesIO()
+    tree.write(raw, encoding="utf-8", xml_declaration=True)
+    with gzip.GzipFile(fileobj=buf, mode="wb", compresslevel=6) as gz:
+        gz.write(raw.getvalue())
+    return buf.getvalue()
+
+
+def split_root_by_channels(root: ET.Element, max_parts_hint: int = 2) -> list[ET.Element]:
+    channels = list(iter_children(root, "channel"))
+    programmes = list(iter_children(root, "programme"))
+    if not channels:
+        return [root]
+
+    # Binary-search-ish: grow part count until each part gz fits (cap at 20)
+    for n_parts in range(1, 21):
+        if n_parts == 1:
+            parts_channels = [channels]
+        else:
+            size = (len(channels) + n_parts - 1) // n_parts
+            parts_channels = [channels[i : i + size] for i in range(0, len(channels), size)]
+
+        roots = []
+        oversized = False
+        for ch_list in parts_channels:
+            ids = {c.get("id") for c in ch_list}
+            part = ET.Element("tv", dict(root.attrib))
+            for c in ch_list:
+                part.append(copy.deepcopy(c))
+            for p in programmes:
+                if p.get("channel") in ids:
+                    part.append(copy.deepcopy(p))
+            gz = root_to_gzip_bytes(part)
+            if len(gz) > MAX_GZ_BYTES and len(ch_list) > 1:
+                oversized = True
+                break
+            roots.append(part)
+        if not oversized:
+            if n_parts > 1:
+                print(f"  split into {len(roots)} part(s) to stay under {MAX_GZ_BYTES} bytes")
+            return roots
+        if n_parts == 1 and max_parts_hint:
+            continue
+    return roots  # last attempt even if oversized
+
+
+def write_epg_files(root: ET.Element, out_dir: Path, basename: str) -> list[Path]:
+    """
+    Write basename.xml.gz, or basename-part-01.xml.gz ... if over size limit.
+    Removes previous matching files first.
+    """
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for old in out_dir.glob(f"{basename}.xml.gz"):
+        old.unlink()
+    for old in out_dir.glob(f"{basename}-part-*.xml.gz"):
+        old.unlink()
+
+    parts = split_root_by_channels(root)
+    written = []
+    if len(parts) == 1:
+        path = out_dir / f"{basename}.xml.gz"
+        data = root_to_gzip_bytes(parts[0])
+        path.write_bytes(data)
+        written.append(path)
+        print(f"  saved {path} ({len(data)} bytes)")
+    else:
+        for i, part in enumerate(parts, start=1):
+            path = out_dir / f"{basename}-part-{i:02d}.xml.gz"
+            data = root_to_gzip_bytes(part)
+            path.write_bytes(data)
+            written.append(path)
+            print(f"  saved {path} ({len(data)} bytes)")
+    return written
+
+
+def log_stats_sample(label: str, kind: str, stats: dict, valid_ids: set):
+    print(
+        f"[{label}/{kind}] Matched {len(stats['matched'])}/{len(valid_ids)} channels, "
+        f"{stats['programme_count']} programmes, "
+        f"{len(stats['duplicates'])} with multi-source duplicates."
+    )
+    print(f"[{label}/{kind}] --- matched sample (tvg_id | source) ---")
+    for row in stats["matched"][:20]:
+        print(f"[{label}/{kind}]   {row['tvg_id']} | {row['source']}")
+    print(f"[{label}/{kind}] --- unmatched sample ---")
+    for pid in stats["unmatched"][:20]:
+        print(f"[{label}/{kind}]   {pid}")
+
+
+def process_category(name: str, data: dict, extra_urls: list[str], use_defaults: bool, grabber_on: bool):
+    category_dir = Path(EPGS_ROOT) / name
+    category_dir.mkdir(parents=True, exist_ok=True)
+    merge_dir = category_dir / "merge"
+    valid_ids = data["ids"]
+
+    # --- Grabber sources (local raw guides from iptv-org Action) ---
+    grabber_urls = local_grabber_sources(name) if grabber_on else []
+    if grabber_on and not grabber_urls:
+        print(f"[{name}] Grabber ON but no grabber-raw-guide*.xml.gz found under {category_dir}")
+    elif not grabber_on:
+        print(f"[{name}] Grabber OFF (EPG_GRABBER=false) — skipping grabber EPG.")
+
+    grabber_sources = load_sources(grabber_urls) if grabber_urls else []
+    grabber_root = None
+    grabber_stats = None
+    if grabber_sources:
+        print(f"[{name}] Building grabber-filtered EPG from {len(grabber_sources)} file(s)...")
+        grabber_root, grabber_stats = build_filtered_epg(grabber_sources, valid_ids)
+        log_stats_sample(name, "grabber", grabber_stats, valid_ids)
+        write_reports(str(category_dir), grabber_stats, "grabber")
+        write_epg_files(grabber_root, category_dir, "grabber-epg")
+    else:
+        # Remove stale grabber outputs when grabber produced nothing this run
+        for old in category_dir.glob("grabber-epg*.xml.gz"):
+            old.unlink()
+
+    # --- URL sources (EPG_URLS secret + M3U header / provider guesses + optional defaults) ---
+    url_list = []
+    for u in extra_urls:
+        if u not in url_list:
+            url_list.append(u)
+    for u in data.get("epg_urls") or []:
+        if u not in url_list:
+            url_list.append(u)
+    if use_defaults:
+        print(f"[{name}] EPG_USE_DEFAULTS enabled — merging lean DEFAULT_URLS into urls-epg.")
+        for u in DEFAULT_URLS:
+            if u not in url_list:
+                url_list.append(u)
+    elif not url_list:
+        print(f"[{name}] No EPG_URLS / M3U url-tvg — skipping urls-epg (set EPG_URLS or EPG_USE_DEFAULTS=true).")
+
+    print(f"[{name}] Loading {len(url_list)} URL EPG source(s)...")
+    url_sources = load_sources(url_list) if url_list else []
+    urls_root = None
+    urls_stats = None
+    if url_sources:
+        print(f"[{name}] Building urls-filtered EPG...")
+        urls_root, urls_stats = build_filtered_epg(url_sources, valid_ids)
+        log_stats_sample(name, "urls", urls_stats, valid_ids)
+        write_reports(str(category_dir), urls_stats, "urls")
+        write_epg_files(urls_root, category_dir, "urls-epg")
+    else:
+        print(f"[{name}] No URL EPG sources loaded.")
+        for old in category_dir.glob("urls-epg*.xml.gz"):
+            old.unlink()
+
+    # --- Merge: grabber first (priority), then urls fill gaps ---
+    merge_sources = []
+    if grabber_root is not None:
+        merge_sources.append(("grabber-epg", grabber_root))
+    if urls_root is not None:
+        merge_sources.append(("urls-epg", urls_root))
+
+    if not merge_sources:
+        print(f"[{name}] Nothing to merge — no grabber or urls EPG.")
+        return
+
+    print(f"[{name}] Building merge EPG ({len(merge_sources)} input(s), grabber wins on duplicates)...")
+    merge_root, merge_stats = build_filtered_epg(merge_sources, valid_ids)
+    log_stats_sample(name, "merge", merge_stats, valid_ids)
+    write_reports(str(category_dir), merge_stats, "merge")
+    write_epg_files(merge_root, merge_dir, "merged-epg")
+
+    # Clean legacy single-file names in this category
+    for legacy in ("epg.xml.gz", "iptvorg-guide.xml.gz"):
+        p = category_dir / legacy
+        if p.exists():
+            print(f"[{name}] Removing legacy {p.name}")
+            p.unlink()
+    for old in category_dir.glob("iptvorg-guide-*.xml.gz"):
+        old.unlink()
 
 
 def main():
@@ -390,7 +597,11 @@ def main():
         print("CRITICAL: No M3U_* secrets found.")
         return
 
+    grabber_on = env_bool("EPG_GRABBER", default=True)
+    use_defaults = env_bool("EPG_USE_DEFAULTS", default=False)
     print(f"Found {len(playlists)} playlist(s): {', '.join(p['name'] for p in playlists)}")
+    print(f"EPG_GRABBER={'true' if grabber_on else 'false'}")
+
     extra_urls = parse_extra_epg_urls()
     if extra_urls:
         print(f"Loaded {len(extra_urls)} extra EPG url(s) from EPG_URLS secret.")
@@ -408,68 +619,8 @@ def main():
         print("Stopping process: no valid playlists to process.")
         return
 
-    use_defaults = (os.getenv("EPG_USE_DEFAULTS") or "").strip().lower() in {"1", "true", "yes"}
-
     for name, data in playlist_data.items():
-        category_dir = os.path.join(EPGS_ROOT, name)
-        os.makedirs(category_dir, exist_ok=True)
-
-        local_urls = local_iptvorg_sources(name)
-        all_epg_urls = list(local_urls)
-        for u in extra_urls:
-            if u not in all_epg_urls:
-                all_epg_urls.append(u)
-        for u in data.get("epg_urls") or []:
-            if u not in all_epg_urls:
-                all_epg_urls.append(u)
-        if not all_epg_urls or use_defaults:
-            if not all_epg_urls:
-                print(f"[{name}] No local/secret EPG sources — using DEFAULT_URLS.")
-            for u in DEFAULT_URLS:
-                if u not in all_epg_urls:
-                    all_epg_urls.append(u)
-
-        print(f"[{name}] Loading {len(all_epg_urls)} EPG source(s)...")
-        epg_sources = []
-        for url in all_epg_urls:
-            root = fetch_and_parse(url)
-            if root is not None:
-                epg_sources.append((source_label(url), root))
-
-        if not epg_sources:
-            print(f"[{name}] Stopping — no EPG sources loaded.")
-            continue
-
-        valid_ids = data["ids"]
-        print(f"[{name}] Building filtered EPG ({len(valid_ids)} playlist ids)...")
-        master_root, stats = build_filtered_epg(epg_sources, valid_ids)
-        print(
-            f"[{name}] Matched {len(stats['matched'])}/{len(valid_ids)} channels, "
-            f"{stats['programme_count']} programmes, "
-            f"{len(stats['duplicates'])} with multi-source duplicates."
-        )
-
-        # Log first 20 matched / unmatched to Actions console
-        print(f"[{name}] --- matched sample (tvg_id | source) ---")
-        for row in stats["matched"][:20]:
-            print(f"[{name}]   {row['tvg_id']} | {row['source']}")
-        print(f"[{name}] --- unmatched sample ---")
-        for pid in stats["unmatched"][:20]:
-            print(f"[{name}]   {pid}")
-        if stats["duplicates"]:
-            print(f"[{name}] --- duplicates sample ---")
-            for i, (pid, info) in enumerate(stats["duplicates"].items()):
-                if i >= 10:
-                    break
-                print(f"[{name}]   {pid} primary={info['primary']} also={info['also_in']}")
-
-        write_reports(category_dir, stats)
-
-        output_file = os.path.join(category_dir, "epg.xml.gz")
-        tree = ET.ElementTree(master_root)
-        with gzip.open(output_file, "wb") as f:
-            tree.write(f, encoding="utf-8", xml_declaration=True)
-        print(f"[{name}] Saved {output_file}")
+        process_category(name, data, extra_urls, use_defaults, grabber_on)
 
     print("Multi-playlist EPG generation complete.")
 

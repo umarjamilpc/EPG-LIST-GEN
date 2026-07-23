@@ -14,7 +14,13 @@ EPG_DIR = ROOT / "iptv-org-epg"
 OUT_DIR = ROOT / "iptv-org-work"
 OUT_DIR.mkdir(exist_ok=True)
 
-M3U_URL = os.environ.get("M3U_URL") or os.environ.get("M3U_US") or "https://iptv-org.github.io/iptv/countries/us.m3u"
+# Prefer PLAYLIST_URL (not M3U_*) so update_epg.py does not treat it as a category secret.
+M3U_URL = (
+    os.environ.get("PLAYLIST_URL")
+    or os.environ.get("M3U_US")
+    or os.environ.get("M3U_URL")
+    or "https://iptv-org.github.io/iptv/countries/us.m3u"
+)
 CHANNELS_OUT = OUT_DIR / "us.channels.xml"
 REPORT_OUT = OUT_DIR / "us_channels_report.txt"
 

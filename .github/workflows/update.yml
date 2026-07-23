@@ -1,7 +1,7 @@
 name: Update Multi EPG (manual only)
 
-# Heavy build moved to build-us-epg.yml (daily).
-# Keep this for optional manual filter-only runs.
+# Filter-only: uses existing grabber-raw-guide + EPG_URLS (no iptv-org grab).
+# Set secret EPG_GRABBER=false to ignore local grabber files.
 
 on:
   workflow_dispatch:
@@ -28,18 +28,24 @@ jobs:
           pip install --upgrade pip
           pip install requests lxml
 
-      - name: Run EPG Scraper
+      - name: Run EPG filter + merge
         env:
           M3U_US: ${{ secrets.M3U_US }}
           EPG_URLS: ${{ secrets.EPG_URLS }}
+          EPG_GRABBER: ${{ secrets.EPG_GRABBER }}
           EPG_USE_DEFAULTS: ${{ secrets.EPG_USE_DEFAULTS }}
         run: python update_epg.py
 
-      - name: Commit and Force Push
+      - name: Commit and push (no amend / no force)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           date -u > last_run.txt
           git add epgs/ last_run.txt
-          git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
-          git push --force
+          if git diff --staged --quiet; then
+            echo "No EPG file changes to commit."
+            exit 0
+          fi
+          git commit -m "Fresh EPG Update: $(date -u)"
+          git pull --rebase origin main
+          git push origin HEAD:main
