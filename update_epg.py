@@ -229,6 +229,16 @@ def parse_xml(content, url):
 
 def fetch_and_parse(url):
     try:
+        # Local files produced by the iptv-org GitHub Action
+        if url.startswith("file://"):
+            path = url[len("file://"):]
+            print(f"Loading local EPG: {path}")
+            with open(path, "rb") as f:
+                content = f.read()
+            if path.endswith(".gz"):
+                content = gzip.decompress(content)
+            return parse_xml(content, path)
+
         print(f"Fetching EPG: {url}")
         # Large guides (100MB+) need a longer timeout
         response = requests.get(url, timeout=300)
@@ -247,6 +257,13 @@ def fetch_and_parse(url):
     except Exception as e:
         print(f"  ! Error: {e}")
         return None
+
+
+def local_iptvorg_sources():
+    """Prefer freshly built guides from epgs/us-iptvorg-guide*.xml.gz."""
+    import glob
+    paths = sorted(glob.glob(os.path.join(OUTPUT_DIR, "us-iptvorg-guide*.xml.gz")))
+    return [f"file://{os.path.abspath(p)}" for p in paths]
 
 
 def iter_children(root, tag_name):
@@ -351,11 +368,15 @@ def main():
 
     print(f"Found {len(playlists)} playlist(s): {', '.join(p['name'] for p in playlists)}")
     extra_urls = parse_extra_epg_urls()
+    local_urls = local_iptvorg_sources()
+    if local_urls:
+        print(f"Found {len(local_urls)} local iptv-org guide file(s).")
     if extra_urls:
         print(f"Loaded {len(extra_urls)} extra EPG url(s) from EPG_URLS secret.")
 
     playlist_data = {}
-    all_epg_urls = list(extra_urls)
+    # Local generated guides first (exact tvg-id match), then secrets/url-tvg
+    all_epg_urls = list(local_urls) + [u for u in extra_urls if u not in local_urls]
 
     for playlist in playlists:
         name = playlist["name"]
@@ -372,11 +393,10 @@ def main():
         print("Stopping process: no valid playlists to process.")
         return
 
-    # Prefer secret/M3U urls. Only fall back to defaults when none provided.
-    # Set EPG_USE_DEFAULTS=1 to also merge lean DEFAULT_URLS (uses more Actions time/bandwidth).
+    # Prefer local/secret sources. Only fall back to defaults when nothing else exists.
     use_defaults = (os.getenv("EPG_USE_DEFAULTS") or "").strip().lower() in {"1", "true", "yes"}
     if not all_epg_urls:
-        print("No M3U/secret EPG urls found — using built-in DEFAULT_URLS.")
+        print("No local/secret EPG sources found — using built-in DEFAULT_URLS.")
         all_epg_urls = list(DEFAULT_URLS)
     elif use_defaults:
         print("EPG_USE_DEFAULTS enabled — merging lean DEFAULT_URLS.")
@@ -384,8 +404,7 @@ def main():
             if u not in all_epg_urls:
                 all_epg_urls.append(u)
     else:
-        print("Using only EPG_URLS / M3U url-tvg sources (free-tier friendly).")
-        print("Tip: set secret/env EPG_USE_DEFAULTS=1 to also include lean DEFAULT_URLS.")
+        print("Using local iptv-org guides and/or EPG_URLS (free-tier friendly).")
 
     print(f"Downloading {len(all_epg_urls)} EPG source(s)...")
     epg_roots = []

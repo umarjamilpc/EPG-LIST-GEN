@@ -4,6 +4,7 @@ One site entry per playlist channel (priority sites first) to keep grab small.
 """
 from __future__ import annotations
 
+import os
 import re
 import urllib.request
 from pathlib import Path
@@ -13,7 +14,7 @@ EPG_DIR = ROOT / "iptv-org-epg"
 OUT_DIR = ROOT / "iptv-org-work"
 OUT_DIR.mkdir(exist_ok=True)
 
-M3U_URL = "https://iptv-org.github.io/iptv/countries/us.m3u"
+M3U_URL = os.environ.get("M3U_URL") or os.environ.get("M3U_US") or "https://iptv-org.github.io/iptv/countries/us.m3u"
 CHANNELS_OUT = OUT_DIR / "us.channels.xml"
 REPORT_OUT = OUT_DIR / "us_channels_report.txt"
 

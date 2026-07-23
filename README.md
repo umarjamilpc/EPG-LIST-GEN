@@ -1,76 +1,30 @@
-# EPG LIST GEN: Multi-Playlist EPG Harvester
+# EPG LIST GEN
 
-Creates custom TV guide (EPG) files from multiple M3U playlists.
-**Each GitHub secret = one EPG file.**
+Builds US EPG on **GitHub Actions** with [iptv-org/epg](https://github.com/iptv-org/epg), then filters to your M3U.
 
-Based on [BuddyChewChew/multi-epg-light](https://github.com/BuddyChewChew/multi-epg-light).
+## Free-tier settings
+- **Once daily** at 06:00 UTC (+ manual run)
+- **2 days** of programmes only (`EPG_DAYS=2`)
+- Batched per-site grabs (avoids OOM)
+- Auto-split if a guide `.gz` exceeds **40MB**
+- Node heap capped at **1536MB**
 
 ## Secrets
+| Secret | Required | Purpose |
+|--------|----------|---------|
+| `M3U_US` | yes | Playlist URL → `epgs/us-epg.xml.gz` |
+| `EPG_URLS` | no | Optional extra xml/xml.gz URLs |
 
-| Secret | Purpose | Example |
-|--------|---------|---------|
-| `M3U_US` | Playlist URL | `https://.../us.m3u` → `epgs/us-epg.xml.gz` |
-| `EPG_URLS` | EPG xml/xml.gz URL(s) | `https://iptv-epg.org/files/epg-xdbezrvvbu.xml.gz` |
-| `EPG_USE_DEFAULTS` | Optional `1` to also merge lean built-in sources | `1` |
-
-Rule: `M3U_<NAME>` → `epgs/<name>-epg.xml.gz`
-
-Also map each `M3U_*` secret in `.github/workflows/update.yml` under `env:`.
-
-## Schedule (free-tier friendly)
-
-Runs **twice daily** (`00:00` and `12:00` UTC), plus manual `workflow_dispatch`.
-
-## About [iptv-org/epg](https://github.com/iptv-org/epg)
-
-Important findings:
-
-- iptv-org **no longer hosts ready guide files** on `iptv-org.github.io` (old `/epg/guides/...` URLs are 404).
-- [GUIDES.md](https://github.com/iptv-org/epg/blob/master/GUIDES.md) community hosts are mostly empty/unusable.
-- The repo is a **grabber**, not a feed host. Matching `xmltv_id` values (`CNN.us@SD`, etc.) live in site channel lists such as:
-  - `tvtv.us`
-  - `tvguide.com`
-  - `xumo.tv`
-  - `ontvtonight.com`
-  - `directv.com`
-  - `distro.tv`
-  - `tvpassport.com`
-
-To use those you must run the grabber yourself (Docker/local/another always-on host), then point `EPG_URLS` at your generated `guide.xml.gz`. Running a full iptv-org grab for 1500+ channels every few hours on GitHub free Actions is not recommended (minutes + upstream rate limits).
-
-## Recommended `EPG_URLS` for this project
-
-Primary (generated locally with iptv-org grabber from [us.m3u](https://iptv-org.github.io/iptv/countries/us.m3u)):
-
-```text
-https://raw.githubusercontent.com/umarjamilpc/EPG-LIST-GEN/main/epgs/us-iptvorg-guide.xml.gz
-```
-
-Optional fallback:
-
-```text
-https://iptv-epg.org/files/epg-xdbezrvvbu.xml.gz
-```
-
-### Regenerate the iptv-org guide locally (memory-safe)
-
-```powershell
-python build_us_channels.py
-python split_channels_by_site.py
-powershell -File run_batched_grab.ps1
-python merge_guides_stream.py
-Copy-Item iptv-org-work\us-guide.xml.gz epgs\us-iptvorg-guide.xml.gz
-```
-
-Uses `NODE_OPTIONS=--max-old-space-size=1536`, one site at a time, 1 day of programmes.
+## Outputs
+| File | Meaning |
+|------|---------|
+| `epgs/us-iptvorg-guide.xml.gz` | Raw iptv-org grab (or `-01`, `-02` if split) |
+| `epgs/us-epg.xml.gz` | Filtered to your playlist |
 
 ## Player URL
-
 ```text
 https://raw.githubusercontent.com/umarjamilpc/EPG-LIST-GEN/main/epgs/us-epg.xml.gz
 ```
 
-## Credits
-
-Original project by [BuddyChewChew](https://github.com/BuddyChewChew/multi-epg-light).
-Channel id conventions from [iptv-org/epg](https://github.com/iptv-org/epg).
+## Workflow
+**Actions → Build US EPG (iptv-org) → Run workflow**
