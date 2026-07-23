@@ -4,4 +4,10 @@ node_modules/
 _probe_*.py
 _stats_guide.py
 sites.json
+
+# Legacy / local-only EPG dumps (do not commit)
 epgs/light-epg.xml.gz
+epgs/us-epg.xml.gz
+epgs/url-epg.xml.gz
+epgs/us-iptvorg-guide*.xml.gz
+epgs/URL/

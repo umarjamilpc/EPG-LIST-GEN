@@ -80,15 +80,18 @@ def collect_from_files(files: list[Path]):
 
 
 def clean_old_guides() -> None:
-    patterns = (
-        "grabber-raw-guide*.xml.gz",
-        "iptvorg-guide*.xml.gz",
-    )
-    for pat in patterns:
+    for pat in ("grabber-raw-guide*.xml.gz", "iptvorg-guide*.xml.gz"):
         for old in CATEGORY_DIR.glob(pat):
             old.unlink()
-    for old in EPGS.glob("us-iptvorg-guide*.xml.gz"):
-        old.unlink()
+    # Root-level leftovers from older layout
+    for pat in ("us-iptvorg-guide*.xml.gz", "us-epg.xml.gz", "url-epg.xml.gz", "light-epg.xml.gz"):
+        for old in EPGS.glob(pat):
+            old.unlink()
+    url_dir = EPGS / "URL"
+    if url_dir.exists():
+        import shutil
+
+        shutil.rmtree(url_dir, ignore_errors=True)
 
 
 def main() -> None:

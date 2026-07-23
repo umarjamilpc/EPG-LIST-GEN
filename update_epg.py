@@ -232,9 +232,6 @@ def local_grabber_sources(category: str):
     """Raw guides produced by the iptv-org grabber for this category."""
     patterns = [
         os.path.join(EPGS_ROOT, category, "grabber-raw-guide*.xml.gz"),
-        # Legacy names (pre-rename)
-        os.path.join(EPGS_ROOT, category, "iptvorg-guide*.xml.gz"),
-        os.path.join(EPGS_ROOT, "us-iptvorg-guide*.xml.gz"),
     ]
     paths = []
     for pat in patterns:
@@ -581,14 +578,16 @@ def process_category(name: str, data: dict, extra_urls: list[str], use_defaults:
     write_reports(str(category_dir), merge_stats, "merge")
     write_epg_files(merge_root, merge_dir, "merged-epg")
 
-    # Clean legacy single-file names in this category
-    for legacy in ("epg.xml.gz", "iptvorg-guide.xml.gz"):
+    # Clean leftover legacy filenames if any remain
+    for legacy in ("epg.xml.gz",):
         p = category_dir / legacy
         if p.exists():
             print(f"[{name}] Removing legacy {p.name}")
             p.unlink()
-    for old in category_dir.glob("iptvorg-guide-*.xml.gz"):
-        old.unlink()
+    for pat in ("iptvorg-guide*.xml.gz", "us-*-epg.xml.gz"):
+        for old in category_dir.glob(pat):
+            print(f"[{name}] Removing legacy {old.name}")
+            old.unlink()
 
 
 def main():

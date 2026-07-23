@@ -1,5 +1,0 @@
-matched_channels=854
-unmatched_channels=738
-duplicate_channels=735
-channel_nodes=854
-programmes=173856

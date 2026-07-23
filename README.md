@@ -166,6 +166,27 @@ Skips the grabber job steps. Still respects `EPG_GRABBER` inside `update_epg.py`
 | `publish_guides.py` | Write `grabber-raw-guide*.xml.gz` |
 | `update_epg.py` | Filter grabber + URLs, reports, merge |
 
+### Repo tree (tracked)
+
+```text
+.github/workflows/
+  build-us-epg.yml      # scheduled grab + filter
+  update.yml            # manual filter-only
+build_us_channels.py
+split_channels_by_site.py
+run_batched_grab.sh
+run_batched_grab.ps1
+publish_guides.py
+update_epg.py
+README.md
+epgs/US/
+  grabber-raw-guide.xml.gz
+  grabber-epg.xml.gz          # after filter run
+  urls-epg.xml.gz
+  merge/merged-epg.xml.gz
+  reports/...
+```
+
 ---
 
 ## Matching logic
