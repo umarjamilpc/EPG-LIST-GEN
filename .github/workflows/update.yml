@@ -1,0 +1,59 @@
+name: Update Multi EPG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:      # Allows you to run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests lxml
+
+      - name: Run EPG Scraper
+        env:
+          # ONE SECRET = ONE EPG FILE
+          # Secret name: M3U_<FILENAME>   Value: m3u URL
+          # Example: M3U_HOME -> epgs/home-epg.xml.gz
+          #
+          # Add a new line here whenever you create a new secret:
+          M3U_HOME: ${{ secrets.M3U_HOME }}
+          M3U_SPORTS: ${{ secrets.M3U_SPORTS }}
+          M3U_KIDS: ${{ secrets.M3U_KIDS }}
+          # M3U_MOVIES: ${{ secrets.M3U_MOVIES }}
+          # M3U_NEWS: ${{ secrets.M3U_NEWS }}
+        run: python update_epg.py
+
+      - name: Commit and Force Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # This ensures there is ALWAYS a change to commit
+          date -u > last_run.txt
+
+          # Add all generated epgs and the heartbeat file
+          git add epgs/*.gz last_run.txt
+
+          # Commit using amend to keep the repo history from growing
+          git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
+
+          # Force push to overwrite the old files with the new ones
+          git push --force
