@@ -40,13 +40,29 @@ To use those you must run the grabber yourself (Docker/local/another always-on h
 
 ## Recommended `EPG_URLS` for this project
 
-Keep it lean (one strong source is enough):
+Primary (generated locally with iptv-org grabber from [us.m3u](https://iptv-org.github.io/iptv/countries/us.m3u)):
+
+```text
+https://raw.githubusercontent.com/umarjamilpc/EPG-LIST-GEN/main/epgs/us-iptvorg-guide.xml.gz
+```
+
+Optional fallback:
 
 ```text
 https://iptv-epg.org/files/epg-xdbezrvvbu.xml.gz
 ```
 
-Optional small US packs from [epgshare01](https://epgshare01.online/epgshare01/) can be added, but avoid huge files like `epg_ripper_US_LOCALS1.xml.gz` / `ALL_SOURCES1` on free tier.
+### Regenerate the iptv-org guide locally (memory-safe)
+
+```powershell
+python build_us_channels.py
+python split_channels_by_site.py
+powershell -File run_batched_grab.ps1
+python merge_guides_stream.py
+Copy-Item iptv-org-work\us-guide.xml.gz epgs\us-iptvorg-guide.xml.gz
+```
+
+Uses `NODE_OPTIONS=--max-old-space-size=1536`, one site at a time, 1 day of programmes.
 
 ## Player URL
 

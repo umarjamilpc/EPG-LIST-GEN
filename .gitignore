@@ -1,0 +1,7 @@
+iptv-org-epg/
+iptv-org-work/
+node_modules/
+_probe_*.py
+_stats_guide.py
+sites.json
+epgs/light-epg.xml.gz
