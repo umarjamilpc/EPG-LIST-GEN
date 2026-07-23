@@ -34,11 +34,11 @@ jobs:
           # Example: M3U_HOME -> epgs/home-epg.xml.gz
           #
           # Add a new line here whenever you create a new secret:
-          M3U_HOME: ${{ secrets.M3U_HOME }}
-          M3U_SPORTS: ${{ secrets.M3U_SPORTS }}
-          M3U_KIDS: ${{ secrets.M3U_KIDS }}
-          # M3U_MOVIES: ${{ secrets.M3U_MOVIES }}
-          # M3U_NEWS: ${{ secrets.M3U_NEWS }}
+          # Secret M3U_US -> epgs/us-epg.xml.gz
+          M3U_US: ${{ secrets.M3U_US }}
+          # M3U_HOME: ${{ secrets.M3U_HOME }}
+          # M3U_SPORTS: ${{ secrets.M3U_SPORTS }}
+          # M3U_KIDS: ${{ secrets.M3U_KIDS }}
         run: python update_epg.py
 
       - name: Commit and Force Push
