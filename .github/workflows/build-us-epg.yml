@@ -123,6 +123,7 @@ jobs:
             exit 0
           fi
           git commit -m "Fresh EPG Update: $(date -u)"
-          # Rebase onto latest main so README/code commits are not overwritten
-          git pull --rebase origin main
+          # Autostash avoids "cannot pull with rebase: You have unstaged changes"
+          # (common when checkout/eol or leftover worktree dirt remains after commit)
+          git pull --rebase --autostash origin main
           git push origin HEAD:main
