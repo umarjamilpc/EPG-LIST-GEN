@@ -1,30 +1,35 @@
 # EPG LIST GEN
 
-Builds US EPG on **GitHub Actions** with [iptv-org/epg](https://github.com/iptv-org/epg), then filters to your M3U.
+Builds EPG on GitHub Actions with [iptv-org/epg](https://github.com/iptv-org/epg), then filters to your M3U.
 
-## Free-tier settings
-- **Once daily** at 06:00 UTC (+ manual run)
-- **2 days** of programmes only (`EPG_DAYS=2`)
-- Batched per-site grabs (avoids OOM)
-- Auto-split if a guide `.gz` exceeds **40MB**
-- Node heap capped at **1536MB**
+## Schedule
+Every **12 hours** (`00:00` and `12:00` UTC) + manual run.
 
 ## Secrets
-| Secret | Required | Purpose |
-|--------|----------|---------|
-| `M3U_US` | yes | Playlist URL → `epgs/us-epg.xml.gz` |
-| `EPG_URLS` | no | Optional extra xml/xml.gz URLs |
+| Secret | Purpose |
+|--------|---------|
+| `M3U_US` | Playlist URL → category folder `epgs/US/` |
+| `EPG_URLS` | Optional extra EPG xml/xml.gz URLs |
 
-## Outputs
-| File | Meaning |
+Folder name comes from the secret suffix: `M3U_US` → `US`, `M3U_UK` → `UK`.
+
+## Outputs (`epgs/US/`)
+| Path | Meaning |
 |------|---------|
-| `epgs/us-iptvorg-guide.xml.gz` | Raw iptv-org grab (or `-01`, `-02` if split) |
-| `epgs/us-epg.xml.gz` | Filtered to your playlist |
+| `epgs/US/epg.xml.gz` | Filtered guide for your playlist |
+| `epgs/US/iptvorg-guide.xml.gz` | Raw iptv-org grab (or `-01`, `-02` if split) |
+| `epgs/US/reports/matched.csv` | Channels that got EPG (`tvg_id`, source, duplicates) |
+| `epgs/US/reports/unmatched.txt` | Playlist `tvg-id`s with no EPG |
+| `epgs/US/reports/duplicates.txt` | Same channel found in multiple sources |
+| `epgs/US/reports/summary.txt` | Counts |
 
 ## Player URL
 ```text
-https://raw.githubusercontent.com/umarjamilpc/EPG-LIST-GEN/main/epgs/us-epg.xml.gz
+https://raw.githubusercontent.com/umarjamilpc/EPG-LIST-GEN/main/epgs/US/epg.xml.gz
 ```
 
-## Workflow
-**Actions → Build US EPG (iptv-org) → Run workflow**
+## Free-tier limits
+- 2 days of programmes
+- Batched per-site grabs
+- Auto-split if `.gz` > 40MB
+- Node heap 1536MB

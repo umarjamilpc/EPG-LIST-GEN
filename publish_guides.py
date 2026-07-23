@@ -5,14 +5,17 @@ If compressed size exceeds MAX_GZ_BYTES, split into multiple part files.
 from __future__ import annotations
 
 import gzip
+import os
 import re
 import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 IN_DIR = ROOT / "iptv-org-work" / "site_guides"
-EPGS = ROOT / "epgs"
 WORK = ROOT / "iptv-org-work"
+EPGS = ROOT / "epgs"
+CATEGORY = (os.environ.get("EPG_CATEGORY") or os.environ.get("M3U_CATEGORY") or "US").strip()
+CATEGORY_DIR = EPGS / CATEGORY
 
 # Keep under GitHub soft limit with room to spare
 MAX_GZ_BYTES = 40 * 1024 * 1024
@@ -75,10 +78,14 @@ def collect_from_files(files: list[Path]):
 
 
 def main() -> None:
-    EPGS.mkdir(exist_ok=True)
+    CATEGORY_DIR.mkdir(parents=True, exist_ok=True)
     WORK.mkdir(exist_ok=True)
+    print(f"Publishing guides for category={CATEGORY} -> {CATEGORY_DIR}", flush=True)
 
-    # Remove old generated iptvorg parts
+    # Remove old generated iptvorg parts in this category
+    for old in CATEGORY_DIR.glob("iptvorg-guide*.xml.gz"):
+        old.unlink()
+    # Also clean legacy root files
     for old in EPGS.glob("us-iptvorg-guide*.xml.gz"):
         old.unlink()
 
@@ -88,7 +95,7 @@ def main() -> None:
 
     # Try single file first
     channels, programmes = collect_from_files(files)
-    out = EPGS / "us-iptvorg-guide.xml.gz"
+    out = CATEGORY_DIR / "iptvorg-guide.xml.gz"
     c, p, size = write_guide(channels, programmes, out)
     print(f"single file: channels={c} programmes={p} size={size}", flush=True)
 
@@ -99,7 +106,6 @@ def main() -> None:
     print(f"Size {size} exceeds {MAX_GZ_BYTES}; splitting by site packs...", flush=True)
     out.unlink(missing_ok=True)
 
-    # Split into packs of sites until each gz <= limit
     packs: list[list[Path]] = []
     current: list[Path] = []
     for path in files:
@@ -118,13 +124,13 @@ def main() -> None:
 
     for i, pack in enumerate(packs, start=1):
         ch, pr = collect_from_files(pack)
-        part = EPGS / f"us-iptvorg-guide-{i:02d}.xml.gz"
+        part = CATEGORY_DIR / f"iptvorg-guide-{i:02d}.xml.gz"
         c, p, size = write_guide(ch, pr, part)
         print(f"part {i}: files={[x.name for x in pack]} channels={c} programmes={p} size={size}", flush=True)
         if size > MAX_GZ_BYTES:
             print(f"WARNING: part {i} still large ({size}); consider fewer sites/days", flush=True)
 
-    print(f"Wrote {len(packs)} split guide file(s)", flush=True)
+    print(f"Wrote {len(packs)} split guide file(s) under {CATEGORY_DIR}", flush=True)
 
 
 if __name__ == "__main__":

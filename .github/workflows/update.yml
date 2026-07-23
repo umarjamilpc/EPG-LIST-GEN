@@ -40,6 +40,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           date -u > last_run.txt
-          git add epgs/*.gz last_run.txt
+          git add epgs/ last_run.txt
           git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
           git push --force

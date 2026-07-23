@@ -1,11 +1,12 @@
 name: Build US EPG (iptv-org)
 
-# Free-tier friendly: once daily + manual.
+# Free-tier friendly: every 12 hours + manual.
 # Builds 2-day guides with batched site grabs, splits if >40MB, then filters by M3U.
+# Output layout: epgs/<CATEGORY>/  e.g. M3U_US -> epgs/US/
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # once daily 06:00 UTC
+    - cron: '0 0,12 * * *'   # every 12 hours (00:00 and 12:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -23,6 +24,7 @@ jobs:
       NODE_OPTIONS: --max-old-space-size=1536
       EPG_DAYS: '2'
       EPG_MAX_CONNECTIONS: '2'
+      EPG_CATEGORY: US
       M3U_US: ${{ secrets.M3U_US }}
       M3U_URL: ${{ secrets.M3U_US }}
 
@@ -65,27 +67,33 @@ jobs:
           chmod +x run_batched_grab.sh
           ./run_batched_grab.sh
 
-      - name: Publish guides (merge + split if large)
+      - name: Publish guides to epgs/US/ (merge + split if large)
+        env:
+          EPG_CATEGORY: US
         run: python publish_guides.py
 
-      - name: Filter playlist EPG (us-epg.xml.gz)
+      - name: Filter playlist EPG -> epgs/US/epg.xml.gz + reports
         env:
           M3U_US: ${{ secrets.M3U_US }}
-          # Prefer local us-iptvorg-guide*.xml.gz; keep secret only as optional extras
           EPG_URLS: ${{ secrets.EPG_URLS }}
           EPG_USE_DEFAULTS: '0'
         run: python update_epg.py
 
-      - name: Show output sizes
+      - name: Show output sizes and report summary
         run: |
-          ls -lh epgs/*.gz || true
-          du -h epgs/*.gz || true
+          ls -lhR epgs/US || true
+          echo "----- summary -----"
+          cat epgs/US/reports/summary.txt || true
+          echo "----- unmatched count -----"
+          wc -l epgs/US/reports/unmatched.txt || true
+          echo "----- duplicates count -----"
+          wc -l epgs/US/reports/duplicates.txt || true
 
       - name: Commit and Force Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           date -u > last_run.txt
-          git add epgs/*.gz last_run.txt
+          git add epgs/ last_run.txt
           git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
           git push --force
