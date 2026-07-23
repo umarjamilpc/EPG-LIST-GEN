@@ -16,26 +16,29 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(BASE_DIR, "epgs")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Primary sources for US playlists (iptv-org style ids + epgshare US packs)
+# Lean defaults for GitHub free-tier Actions (avoid huge packs).
+# NOTE: iptv-org/epg no longer hosts ready guide URLs on github.io (all 404).
+# Put your best matching guide in secret EPG_URLS (recommended).
 DEFAULT_URLS = [
-    # Large multi-source guide with CNN.us / Pluto-style ids
+    # Best current match for iptv-org style ids (CNN.us, 00sReplay.*, etc.)
     'https://iptv-epg.org/files/epg-xdbezrvvbu.xml.gz',
-    # epgshare01 US packs
+    # Smaller epgshare US packs only (skip US_LOCALS ~57MB gz)
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_WHALETVPLUS1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz',
-    # other helpful packs
-    'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
-    'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
-    'https://github.com/BuddyChewChew/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
+]
+
+# iptv-org grabber sites that use matching xmltv_id values like CNN.us@SD
+# (these are NOT public feed URLs — you must run https://github.com/iptv-org/epg yourself)
+IPTV_ORG_GRAB_SITES = [
+    'tvtv.us',
+    'tvguide.com',
+    'xumo.tv',
+    'ontvtonight.com',
+    'directv.com',
+    'distro.tv',
+    'tvpassport.com',
 ]
 
 
@@ -369,15 +372,20 @@ def main():
         print("Stopping process: no valid playlists to process.")
         return
 
-    # If no urls came from M3U/secret, fall back to defaults
+    # Prefer secret/M3U urls. Only fall back to defaults when none provided.
+    # Set EPG_USE_DEFAULTS=1 to also merge lean DEFAULT_URLS (uses more Actions time/bandwidth).
+    use_defaults = (os.getenv("EPG_USE_DEFAULTS") or "").strip().lower() in {"1", "true", "yes"}
     if not all_epg_urls:
         print("No M3U/secret EPG urls found — using built-in DEFAULT_URLS.")
         all_epg_urls = list(DEFAULT_URLS)
-    else:
-        # Still include defaults as secondary sources
+    elif use_defaults:
+        print("EPG_USE_DEFAULTS enabled — merging lean DEFAULT_URLS.")
         for u in DEFAULT_URLS:
             if u not in all_epg_urls:
                 all_epg_urls.append(u)
+    else:
+        print("Using only EPG_URLS / M3U url-tvg sources (free-tier friendly).")
+        print("Tip: set secret/env EPG_USE_DEFAULTS=1 to also include lean DEFAULT_URLS.")
 
     print(f"Downloading {len(all_epg_urls)} EPG source(s)...")
     epg_roots = []

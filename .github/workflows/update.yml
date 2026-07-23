@@ -2,7 +2,8 @@ name: Update Multi EPG
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
+    # Twice daily to stay within GitHub free-tier minutes/bandwidth
+    - cron: '0 0,12 * * *'
   workflow_dispatch:      # Allows you to run it manually
 
 permissions:
@@ -31,14 +32,11 @@ jobs:
         env:
           # ONE SECRET = ONE EPG FILE
           # Secret name: M3U_<FILENAME>   Value: m3u URL
-          # Example: M3U_US -> epgs/us-epg.xml.gz
           M3U_US: ${{ secrets.M3U_US }}
-          # Optional: extra EPG xml/xml.gz URLs (comma or newline separated)
-          # Use this if your M3U has no url-tvg and default sources don't match ids
+          # Primary EPG source URL(s), comma/newline separated
           EPG_URLS: ${{ secrets.EPG_URLS }}
-          # M3U_HOME: ${{ secrets.M3U_HOME }}
-          # M3U_SPORTS: ${{ secrets.M3U_SPORTS }}
-          # M3U_KIDS: ${{ secrets.M3U_KIDS }}
+          # Optional: also merge lean built-in defaults (uses more Actions time)
+          EPG_USE_DEFAULTS: ${{ secrets.EPG_USE_DEFAULTS }}
         run: python update_epg.py
 
       - name: Commit and Force Push
