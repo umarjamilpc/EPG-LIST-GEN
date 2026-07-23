@@ -16,33 +16,26 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(BASE_DIR, "epgs")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Fallback sources (used if M3U has no url-tvg / x-tvg-url)
+# Primary sources for US playlists (iptv-org style ids + epgshare US packs)
 DEFAULT_URLS = [
+    # Large multi-source guide with CNN.us / Pluto-style ids
+    'https://iptv-epg.org/files/epg-xdbezrvvbu.xml.gz',
+    # epgshare01 US packs
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
-    'https://iptv-epg.org/files/epg-il.xml.gz',
-    'https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup/epg.xml',
-    'https://raw.githubusercontent.com/BuddyChewChew/whiplash-epg/main/epg.xml',
-    'https://github.com/BuddyChewChew/tcl-playlist-generator/raw/refs/heads/main/tcl_epg.xml',
-    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nzau/epg.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
-    'https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml',
+    'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_WHALETVPLUS1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz',
+    # other helpful packs
+    'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
+    'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
-    'https://raw.githubusercontent.com/BuddyChewChew/dummy-epg-project/refs/heads/main/epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
     'https://github.com/BuddyChewChew/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
-    'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
 ]
 
 
@@ -73,6 +66,18 @@ def id_aliases(value):
     if base:
         aliases.add(base)
     return aliases
+
+
+def channel_slug(value):
+    """
+    Leading name used for fuzzy matching across sources.
+    00sReplay.us@SD / 00sReplay.pluto -> 00sreplay
+    """
+    raw = normalize_id(value)
+    raw = re.sub(r'@.*$', '', raw)
+    if not raw:
+        return ""
+    return raw.split(".", 1)[0]
 
 
 def load_playlists():
@@ -222,14 +227,17 @@ def parse_xml(content, url):
 def fetch_and_parse(url):
     try:
         print(f"Fetching EPG: {url}")
-        response = requests.get(url, timeout=90)
+        # Large guides (100MB+) need a longer timeout
+        response = requests.get(url, timeout=300)
         if response.status_code != 200:
             print(f"  ! HTTP {response.status_code}")
             return None
         content = response.content
+        print(f"  downloaded {len(content)} bytes")
         if url.endswith('.gz') or "gzip" in response.headers.get("Content-Type", "").lower():
             try:
                 content = gzip.decompress(content)
+                print(f"  decompressed to {len(content)} bytes")
             except OSError:
                 pass
         return parse_xml(content, url)
@@ -244,33 +252,38 @@ def iter_children(root, tag_name):
             yield child
 
 
-def build_alias_map(playlist_ids):
+def build_alias_maps(playlist_ids):
     """
-    Map every alias -> preferred playlist tvg-id.
-    Exact ids win over stripped aliases.
+    Build exact/alias map and slug map -> preferred playlist tvg-id.
+    Exact ids win over stripped aliases; slug is fallback only.
     """
     alias_map = {}
-    # First pass: base aliases
+    slug_map = {}
     for pid in playlist_ids:
         for alias in id_aliases(pid):
             alias_map.setdefault(alias, pid)
-    # Second pass: exact ids overwrite
+        slug = channel_slug(pid)
+        if slug:
+            slug_map.setdefault(slug, pid)
     for pid in playlist_ids:
         alias_map[normalize_id(pid)] = pid
-    return alias_map
+    return alias_map, slug_map
 
 
-def resolve_playlist_id(epg_id, alias_map):
+def resolve_playlist_id(epg_id, alias_map, slug_map):
     for alias in id_aliases(epg_id):
         if alias in alias_map:
             return alias_map[alias]
+    slug = channel_slug(epg_id)
+    if slug and slug in slug_map:
+        return slug_map[slug]
     return None
 
 
 def build_filtered_epg(epg_roots, playlist_ids):
     """Filter EPG and rewrite channel ids to match playlist tvg-id values."""
     master_root = ET.Element('tv', {"generator-info-name": "EPG-LIST-GEN-Multi"})
-    alias_map = build_alias_map(playlist_ids)
+    alias_map, slug_map = build_alias_maps(playlist_ids)
     matched_playlist_ids = set()
     channel_count = 0
     programme_count = 0
@@ -279,7 +292,7 @@ def build_filtered_epg(epg_roots, playlist_ids):
     for epg_data in epg_roots:
         for channel in iter_children(epg_data, "channel"):
             epg_id = channel.get("id") or ""
-            playlist_id = resolve_playlist_id(epg_id, alias_map)
+            playlist_id = resolve_playlist_id(epg_id, alias_map, slug_map)
             if not playlist_id:
                 continue
             if playlist_id in seen_channels:
@@ -293,7 +306,7 @@ def build_filtered_epg(epg_roots, playlist_ids):
 
         for prog in iter_children(epg_data, "programme"):
             epg_id = prog.get("channel") or ""
-            playlist_id = resolve_playlist_id(epg_id, alias_map)
+            playlist_id = resolve_playlist_id(epg_id, alias_map, slug_map)
             if not playlist_id:
                 continue
             node = copy.deepcopy(prog)
