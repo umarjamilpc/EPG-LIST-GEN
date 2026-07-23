@@ -116,7 +116,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           date -u > last_run.txt
-          git add epgs/ last_run.txt
+          # -A so deleted old EPG/report files are removed from the repo too
+          git add -A epgs/ last_run.txt
           if git diff --staged --quiet; then
             echo "No EPG file changes to commit."
             exit 0

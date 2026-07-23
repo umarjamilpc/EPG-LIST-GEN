@@ -503,11 +503,57 @@ def log_stats_sample(label: str, kind: str, stats: dict, valid_ids: set):
         print(f"[{label}/{kind}]   {pid}")
 
 
+def reset_category_outputs(category_dir: Path, *, keep_raw_grabber: bool) -> None:
+    """
+    Delete previous generated EPG files and reports so each Action run fully replaces them.
+    Keeps grabber-raw-guide* when keep_raw_grabber=True (needed as input to this filter pass).
+    """
+    removed = 0
+    reports = category_dir / "reports"
+    if reports.exists():
+        for f in reports.iterdir():
+            if f.is_file():
+                f.unlink()
+                removed += 1
+    else:
+        reports.mkdir(parents=True, exist_ok=True)
+
+    merge = category_dir / "merge"
+    if merge.exists():
+        for f in merge.glob("*"):
+            if f.is_file():
+                f.unlink()
+                removed += 1
+    else:
+        merge.mkdir(parents=True, exist_ok=True)
+
+    for pat in (
+        "grabber-epg*.xml.gz",
+        "urls-epg*.xml.gz",
+        "epg.xml.gz",
+        "iptvorg-guide*.xml.gz",
+    ):
+        for f in category_dir.glob(pat):
+            f.unlink()
+            removed += 1
+
+    if not keep_raw_grabber:
+        for f in category_dir.glob("grabber-raw-guide*.xml.gz"):
+            f.unlink()
+            removed += 1
+
+    print(f"[{category_dir.name}] Cleared {removed} old output file(s) before rewrite.")
+
+
 def process_category(name: str, data: dict, extra_urls: list[str], use_defaults: bool, grabber_on: bool):
     category_dir = Path(EPGS_ROOT) / name
     category_dir.mkdir(parents=True, exist_ok=True)
     merge_dir = category_dir / "merge"
     valid_ids = data["ids"]
+
+    # Always wipe previous filtered outputs + reports, then write fresh files.
+    # Keep raw grabber guide as input when grabber is enabled (publish_guides refreshes it first).
+    reset_category_outputs(category_dir, keep_raw_grabber=grabber_on)
 
     # --- Grabber sources (local raw guides from iptv-org Action) ---
     grabber_urls = local_grabber_sources(name) if grabber_on else []
@@ -518,17 +564,12 @@ def process_category(name: str, data: dict, extra_urls: list[str], use_defaults:
 
     grabber_sources = load_sources(grabber_urls) if grabber_urls else []
     grabber_root = None
-    grabber_stats = None
     if grabber_sources:
         print(f"[{name}] Building grabber-filtered EPG from {len(grabber_sources)} file(s)...")
         grabber_root, grabber_stats = build_filtered_epg(grabber_sources, valid_ids)
         log_stats_sample(name, "grabber", grabber_stats, valid_ids)
         write_reports(str(category_dir), grabber_stats, "grabber")
         write_epg_files(grabber_root, category_dir, "grabber-epg")
-    else:
-        # Remove stale grabber outputs when grabber produced nothing this run
-        for old in category_dir.glob("grabber-epg*.xml.gz"):
-            old.unlink()
 
     # --- URL sources (EPG_URLS secret + M3U header / provider guesses + optional defaults) ---
     url_list = []
@@ -549,7 +590,6 @@ def process_category(name: str, data: dict, extra_urls: list[str], use_defaults:
     print(f"[{name}] Loading {len(url_list)} URL EPG source(s)...")
     url_sources = load_sources(url_list) if url_list else []
     urls_root = None
-    urls_stats = None
     if url_sources:
         print(f"[{name}] Building urls-filtered EPG...")
         urls_root, urls_stats = build_filtered_epg(url_sources, valid_ids)
@@ -558,8 +598,6 @@ def process_category(name: str, data: dict, extra_urls: list[str], use_defaults:
         write_epg_files(urls_root, category_dir, "urls-epg")
     else:
         print(f"[{name}] No URL EPG sources loaded.")
-        for old in category_dir.glob("urls-epg*.xml.gz"):
-            old.unlink()
 
     # --- Merge: grabber first (priority), then urls fill gaps ---
     merge_sources = []
@@ -577,17 +615,6 @@ def process_category(name: str, data: dict, extra_urls: list[str], use_defaults:
     log_stats_sample(name, "merge", merge_stats, valid_ids)
     write_reports(str(category_dir), merge_stats, "merge")
     write_epg_files(merge_root, merge_dir, "merged-epg")
-
-    # Clean leftover legacy filenames if any remain
-    for legacy in ("epg.xml.gz",):
-        p = category_dir / legacy
-        if p.exists():
-            print(f"[{name}] Removing legacy {p.name}")
-            p.unlink()
-    for pat in ("iptvorg-guide*.xml.gz", "us-*-epg.xml.gz"):
-        for old in category_dir.glob(pat):
-            print(f"[{name}] Removing legacy {old.name}")
-            old.unlink()
 
 
 def main():
