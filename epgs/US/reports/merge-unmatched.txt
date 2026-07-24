@@ -17,6 +17,7 @@
 3ABNPraiseHimMusicNetwork.us@SD
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
+ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -41,7 +42,6 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
 AMGATV.us@SD
 AMP1.us@SD
 ARTFLIXMovieClassics.us@SD
@@ -92,10 +92,11 @@ AuroraTV.us@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
+BBCAmerica.us@East
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BETHer.us@West
+BET.us@West
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -109,7 +110,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyTV.uk@LatinAmerica
+BabyTV.uk@US
 BandamaxUSA.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -124,9 +125,8 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@LiveEvent
 BloombergTV.us@US
-Bravo.us@West
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -134,7 +134,6 @@ CANTV27.us@SD
 CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
-CBS.us@East
 CBSenespanol.us@SD
 CCTV.us@SD
 CCX1.us@SD
@@ -230,14 +229,11 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DisneyChannel.us@West
-DisneyJunior.us@West
-DisneyXD.us@West
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 Docurama.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
-E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
@@ -258,10 +254,10 @@ FernandinaBeachChannel.us@SD
 FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
+Freeform.us@West
 FunRoads.us@SD
 G10TV.us@SD
 GBNTV.us@SD
@@ -269,7 +265,7 @@ GCNAmerica.us@SD
 GCOtv.us@SD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@East
+Galavision.us@West
 GalvestonCountyTV.us@SD
 GanjeHozourTV.us@SD
 GillettePublicAccessTelevisionChannel189.us@SD
@@ -294,6 +290,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
@@ -304,7 +301,6 @@ Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
-History.us@West
 HmongStarTV.us@SD
 HmongTVNetwork.us@SD
 HogansHeroes.us@SD
@@ -395,6 +391,7 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
+Lifetime.us@West
 LifetimeMovies.us@West
 LifevisionTV.us@SD
 LindellTV.us@SD
@@ -450,7 +447,9 @@ MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
+NBC.us@West
 NBCLXHome.us@HD
+NBCNewsNOW.us@HD
 NBCSportsChicago.us@SD
 NBCUniverso.us@West
 NBTV.us@SD
@@ -468,9 +467,9 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
+NationalGeographic.us@East
 NationalGeographic.us@HDEast
-NationalGeographic.us@West
-NationalGeographicWild.us@East
+NationalGeographicWild.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -496,7 +495,6 @@ OmideIranTV.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -576,14 +574,13 @@ SPTV.us@SD
 SUMtvEnglish.us@SD
 SUMtvLatino.us@SD
 SWAT.us@SD
-SYFY.us@West
 SanskarUSA.in@SD
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@East
+Showtime.us@West
 SkwadPlay.us@SD
 SmartLifeStyleTV.us@SD
 SonyKALHindi.us@SD
@@ -614,7 +611,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@HD
+TVEInternacionalAmerica.es@SD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVSAGovernmentChannel.us@SD
@@ -639,11 +636,11 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
+Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
-TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheBurbankChannel.us@SD
 TheChatShowChannel.uk@SD
@@ -662,7 +659,7 @@ TopStoriesbyNewsy.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 UniMas.us@Central
 UniMas.us@Mountain
 VBSTV.us@SD

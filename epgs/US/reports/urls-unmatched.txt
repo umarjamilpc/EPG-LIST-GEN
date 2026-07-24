@@ -47,7 +47,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -120,9 +120,9 @@ BBCHomeGarden.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@East
+BET.us@West
 BETClassicsPlutoTV.us@SD
-BETHer.us@West
+BETHer.us@East
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -136,7 +136,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyTV.uk@LatinAmerica
+BabyTV.uk@US
 Backstage.us@SD
 BandamaxUSA.us@SD
 BarkTV.us@SD
@@ -155,7 +155,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -292,7 +292,7 @@ DetroitChannel68.us@SD
 DidgahTV.us@SD
 DisneyChannel.us@West
 DisneyJunior.us@West
-DisneyXD.us@West
+DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 DocumentaryPlus.us@US
@@ -338,7 +338,7 @@ FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
-Freeform.us@East
+Freeform.us@West
 FrightFlix.us@SD
 FunRoads.us@SD
 G10TV.us@SD
@@ -347,7 +347,7 @@ GCNAmerica.us@SD
 GCOtv.us@SD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@East
+Galavision.us@West
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
 GanjeHozourTV.us@SD
@@ -376,7 +376,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -389,7 +389,7 @@ HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
-History.us@West
+History.us@East
 HmongStarTV.us@SD
 HmongTVNetwork.us@SD
 HogansHeroes.us@SD
@@ -550,7 +550,7 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-Lifetime.us@East
+Lifetime.us@West
 LifetimeMovies.us@East
 LifetimeMovies.us@West
 LifevisionTV.us@SD
@@ -628,7 +628,7 @@ NBC.us@West
 NBCComedyVault.us@SD
 NBCLX.us@SD
 NBCLXHome.us@HD
-NBCNewsNOW.us@SD
+NBCNewsNOW.us@HD
 NBCSportsChicago.us@SD
 NBCUniverso.us@East
 NBCUniverso.us@West
@@ -649,9 +649,9 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
+NationalGeographic.us@East
 NationalGeographic.us@HDEast
-NationalGeographic.us@West
-NationalGeographicWild.us@East
+NationalGeographicWild.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -683,7 +683,7 @@ OnTV4U.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 Ovation.us@SD
@@ -790,7 +790,7 @@ SPTV.us@SD
 SUMtvEnglish.us@SD
 SUMtvLatino.us@SD
 SWAT.us@SD
-SYFY.us@West
+SYFY.us@East
 SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
@@ -818,7 +818,7 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
-Starz.us@West
+Starz.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
@@ -924,7 +924,7 @@ TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Central
@@ -932,7 +932,7 @@ UniMas.us@East
 UniMas.us@Mountain
 UniversalCinema.us@SD
 UniversalComedy.us@SD
-Univision.us@West
+Univision.us@East
 UpTV.us@SD
 VBSTV.us@SD
 VCAT.us@SD
