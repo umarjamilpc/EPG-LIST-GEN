@@ -44,6 +44,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
+AMC.us@EastHD
 AMCPlus.us@SD
 AMGATV.us@SD
 AMGTV.us@SD
@@ -110,7 +111,7 @@ BBCAmerica.us@East
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@West
+BET.us@East
 BETCinema.us@SD
 BETComedyMovies.us@SD
 BETHer.us@West
@@ -148,7 +149,7 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
@@ -269,7 +270,8 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DiscoveryTurbo.us@SD
-DisneyChannel.us@West
+DisneyChannel.us@East
+DisneyJunior.us@West
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 Docurama.us@SD
@@ -299,6 +301,7 @@ FernandinaBeachChannel.us@SD
 FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
+Fox.us@East
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
@@ -311,8 +314,6 @@ GCNAmerica.us@SD
 GCOtv.us@SD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@East
-Galavision.us@West
 GalvestonCountyTV.us@SD
 GanjeHozourTV.us@SD
 GemShoppingNetwork.us@SD
@@ -340,7 +341,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMystery.us@East
@@ -452,7 +453,6 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-Lifetime.us@West
 LifetimeMovies.us@West
 LifetimeRealWomen.us@SD
 LifevisionTV.us@SD
@@ -519,9 +519,9 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
-NBC.us@West
+NBC.us@East
 NBCLXHome.us@HD
-NBCNewsNOW.us@HD
+NBCNewsNOW.us@SD
 NBCSN.us@SD
 NBCSportsChicago.us@SD
 NBCUniverso.us@West
@@ -543,7 +543,6 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
 NationalGeographic.us@HDEast
 NationalGeographicWild.us@HDEast
 News12Bronx.us@SD
@@ -563,6 +562,7 @@ NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
+NickJr.us@East
 Nickelodeonenespanol.us@SD
 Nicktoons.us@West
 NorCastWeather.us@HD
@@ -576,6 +576,7 @@ OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -715,7 +716,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@SD
+TVEInternacionalAmerica.es@HD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVQuisqueya.us@SD
@@ -741,11 +742,11 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
-Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
+TennisChannel.us@SD
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -773,12 +774,10 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@East
-UniMas.us@Central
+USANetwork.us@West
 UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@West
 VH1QueensofReality.us@SD
 VSCTV.us@SD
 VSiN.us@SD
