@@ -47,7 +47,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -115,7 +115,7 @@ AutenticTravel.de@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
-BBCAmerica.us@EastHD
+BBCAmerica.us@East
 BBCHomeGarden.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
@@ -160,7 +160,7 @@ BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 Bounce.us@SD
-Bravo.us@East
+Bravo.us@West
 BrevardGovernmentAccessTV.us@SD
 BusinessRockstars.us@SD
 CANTV19.us@SD
@@ -290,9 +290,9 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyChannel.us@East
-DisneyJunior.us@East
-DisneyXD.us@East
+DisneyChannel.us@West
+DisneyJunior.us@West
+DisneyXD.us@West
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 DocumentaryPlus.us@US
@@ -307,7 +307,7 @@ E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -324,7 +324,7 @@ FNX.us@SD
 FX.us@West
 FXM.us@East
 FXMovieChannel.us@SD
-FXX.us@East
+FXX.us@West
 FYI.us@East
 FYI.us@West
 Farscape.us@SD
@@ -335,12 +335,12 @@ FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@West
+Fox.us@East
 FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
-Freeform.us@West
+Freeform.us@East
 FrightFlix.us@SD
 FunRoads.us@SD
 G10TV.us@SD
@@ -551,7 +551,7 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-Lifetime.us@West
+Lifetime.us@East
 LifetimeMovies.us@East
 LifetimeMovies.us@West
 LifevisionTV.us@SD
@@ -585,8 +585,8 @@ MCN6MusicChannel.us@SD
 MCPSSTV.us@SD
 MCTV.us@SD
 MGMPlus.us@East
-MGMPlus.us@West
 MGMPlusDriveIn.us@SD
+MGMPlusHits.us@East
 MGMPlusMarquee.us@SD
 MMATV.us@SD
 MPTV.us@SD
@@ -629,7 +629,7 @@ NBC.us@West
 NBCComedyVault.us@SD
 NBCLX.us@SD
 NBCLXHome.us@HD
-NBCNewsNOW.us@SD
+NBCNewsNOW.us@HD
 NBCSportsChicago.us@SD
 NBCUniverso.us@East
 NBCUniverso.us@West
@@ -669,9 +669,9 @@ NewsoftheWorld.us@USA
 Newsy.us@SD
 NickJr.us@East
 NickJrPlutoTV.us@US
-Nickelodeon.us@West
+Nickelodeon.us@East
 Nickelodeonenespanol.us@SD
-Nicktoons.us@West
+Nicktoons.us@East
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
@@ -820,8 +820,9 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
-Starz.us@West
+Starz.us@East
 StarzEncore.us@West
+StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
@@ -891,7 +892,7 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
-Telemundo.us@West
+Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -938,7 +939,7 @@ Univision.us@West
 UpTV.us@SD
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@East
+VH1.us@West
 VSCTV.us@SD
 VallenatoInternacional.us@SD
 VegasLifeTV.us@HD
