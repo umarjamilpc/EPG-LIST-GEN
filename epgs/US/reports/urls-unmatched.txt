@@ -47,7 +47,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -115,12 +115,12 @@ AutenticTravel.de@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
-BBCAmerica.us@EastHD
+BBCAmerica.us@East
 BBCHomeGarden.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@East
+BET.us@West
 BETClassicsPlutoTV.us@SD
 BETHer.us@East
 BHTV10.us@SD
@@ -136,7 +136,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyTV.uk@US
+BabyTV.uk@LatinAmerica
 Backstage.us@SD
 BandamaxUSA.us@SD
 BarkTV.us@SD
@@ -160,7 +160,7 @@ BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 Bounce.us@SD
-Bravo.us@West
+Bravo.us@East
 BrevardGovernmentAccessTV.us@SD
 BusinessRockstars.us@SD
 CANTV19.us@SD
@@ -291,7 +291,7 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DisneyChannel.us@East
-DisneyJunior.us@East
+DisneyJunior.us@West
 DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
@@ -549,7 +549,7 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-Lifetime.us@West
+Lifetime.us@East
 LifetimeMovies.us@East
 LifetimeMovies.us@West
 LifevisionTV.us@SD
@@ -625,7 +625,7 @@ NBC.us@West
 NBCComedyVault.us@SD
 NBCLX.us@SD
 NBCLXHome.us@HD
-NBCNewsNOW.us@HD
+NBCNewsNOW.us@SD
 NBCSportsChicago.us@SD
 NBCUniverso.us@East
 NBCUniverso.us@West
@@ -646,9 +646,9 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 NationalGeographic.us@West
-NationalGeographicWild.us@HDEast
+NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -665,7 +665,7 @@ NewsoftheWorld.us@USA
 Newsy.us@SD
 NickJrPlutoTV.us@US
 Nickelodeonenespanol.us@SD
-Nicktoons.us@West
+Nicktoons.us@East
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
@@ -679,7 +679,7 @@ OnTV4U.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 Ovation.us@SD
@@ -889,7 +889,7 @@ TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -919,10 +919,10 @@ TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Central
+UniMas.us@Mountain
 UniversalCinema.us@SD
 UniversalComedy.us@SD
 Univision.us@West
