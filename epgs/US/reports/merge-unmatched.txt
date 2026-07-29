@@ -91,10 +91,11 @@ AuroraTV.us@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
+BBCAmerica.us@EastHD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@East
+BETHer.us@East
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -108,7 +109,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyTV.uk@US
+BabyTV.uk@LatinAmerica
 BandamaxUSA.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -123,10 +124,7 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
-BloombergTV.us@US
-Bravo.us@East
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -134,6 +132,7 @@ CANTV27.us@SD
 CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
+CBS.us@West
 CBSenespanol.us@SD
 CCTV.us@SD
 CCX1.us@SD
@@ -228,17 +227,17 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyChannel.us@West
+DisneyJunior.us@East
 DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 Docurama.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
-E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -249,7 +248,7 @@ FCPublicMedia.us@SD
 FCTV.us@SD
 FGTV.us@SD
 FNX.us@SD
-FYI.us@West
+FYI.us@East
 FashionFinds.us@SD
 FernandinaBeachChannel.us@SD
 FideleTV.us@SD
@@ -444,8 +443,9 @@ MontgomeryChannel.us@SD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
 NBCLXHome.us@HD
+NBCNewsNOW.us@HD
 NBCSportsChicago.us@SD
-NBCUniverso.us@East
+NBCUniverso.us@West
 NBTV.us@SD
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -462,7 +462,7 @@ NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
 NationalGeographic.us@HDEast
-NationalGeographicWild.us@East
+NationalGeographicWild.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -477,7 +477,6 @@ NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
-Nicktoons.us@West
 NorCastWeather.us@HD
 OCNTV.us@SD
 Olelo49.us@SD
@@ -488,6 +487,7 @@ OmideIranTV.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
+OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -652,8 +652,6 @@ TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 USANetwork.us@West
-UniMas.us@Central
-UniMas.us@Mountain
 Univision.us@East
 VBSTV.us@SD
 VCAT.us@SD
