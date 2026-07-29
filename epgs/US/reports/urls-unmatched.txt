@@ -40,7 +40,6 @@ ABNTVIndia.us@SD
 ABNUrdu.us@SD
 ACTV.us@SD
 AE.us@East
-AE.us@West
 AFTV.us@SD
 AFV.us@SD
 AFVEspanol.us@SD
@@ -115,12 +114,12 @@ AutenticTravel.de@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
-BBCAmerica.us@East
+BBCAmerica.us@EastHD
 BBCHomeGarden.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@West
+BET.us@East
 BETClassicsPlutoTV.us@SD
 BETHer.us@East
 BHTV10.us@SD
@@ -136,7 +135,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyTV.uk@LatinAmerica
+BabyTV.uk@US
 Backstage.us@SD
 BandamaxUSA.us@SD
 BarkTV.us@SD
@@ -290,8 +289,8 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyChannel.us@East
-DisneyJunior.us@West
+DisneyChannel.us@West
+DisneyJunior.us@East
 DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
@@ -307,7 +306,7 @@ E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -338,7 +337,7 @@ FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
-Freeform.us@West
+Freeform.us@East
 FrightFlix.us@SD
 FunRoads.us@SD
 G10TV.us@SD
@@ -383,7 +382,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -549,9 +548,7 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-Lifetime.us@East
 LifetimeMovies.us@East
-LifetimeMovies.us@West
 LifevisionTV.us@SD
 LindellTV.us@SD
 LittleGuyanaTV.us@SD
@@ -647,7 +644,7 @@ NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
 NationalGeographic.us@East
-NationalGeographic.us@West
+NationalGeographic.us@HDEast
 NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
@@ -665,7 +662,7 @@ NewsoftheWorld.us@USA
 Newsy.us@SD
 NickJrPlutoTV.us@US
 Nickelodeonenespanol.us@SD
-Nicktoons.us@East
+Nicktoons.us@West
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
@@ -919,13 +916,14 @@ TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@East
+USANetwork.us@West
 USATODAY.us@SD
 Unbeaten.us@SD
+UniMas.us@Central
 UniMas.us@Mountain
 UniversalCinema.us@SD
 UniversalComedy.us@SD
-Univision.us@West
+Univision.us@East
 UpTV.us@SD
 VBSTV.us@SD
 VCAT.us@SD
@@ -1098,6 +1096,5 @@ ZarinTV.us@SD
 ZoomNews.us@SD
 beINSPORTSXTRAenEspanol.us@SD
 beINSportsUSA.us@SD
-i24NEWSEnglishUSA.il@SD
 iCarly.us@SD
 theDoveTV.us@SD

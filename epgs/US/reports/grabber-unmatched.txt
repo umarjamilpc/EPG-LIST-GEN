@@ -19,7 +19,6 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
-ABC.us@East
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -37,13 +36,13 @@ ABNChina.us@SD
 ABNTVIndia.us@SD
 ABNUrdu.us@SD
 ACTV.us@SD
-AE.us@West
 AFTV.us@SD
 AFV.us@SD
 AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
+AMC.us@EastHD
 AMCPlus.us@SD
 AMGATV.us@SD
 AMGTV.us@SD
@@ -103,16 +102,15 @@ AtlantaChannel.us@SD
 Atlas.us@SD
 AuroraTV.us@SD
 AvangTV.us@SD
-B4UMovies.in@USA
 BATV.us@SD
 BATVGovernmentTV.us@SD
-BBCAmerica.us@East
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
+BET.us@East
 BETCinema.us@SD
 BETComedyMovies.us@SD
-BETHer.us@East
+BETHer.us@West
 BETThrowbacks.us@SD
 BETVisionaries.us@SD
 BHTV10.us@SD
@@ -149,8 +147,9 @@ BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
 BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
-BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@US
 Bonanza.us@SD
+Bravo.us@East
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -269,7 +268,7 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DiscoveryTurbo.us@SD
-DisneyChannel.us@East
+DisneyChannel.us@West
 DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
@@ -277,6 +276,7 @@ Docurama.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 Dynasty.us@SD
+E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
@@ -300,12 +300,10 @@ FernandinaBeachChannel.us@SD
 FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
-Freeform.us@West
 FunRoads.us@SD
 G10TV.us@SD
 GBNTV.us@SD
@@ -313,6 +311,7 @@ GCNAmerica.us@SD
 GCOtv.us@SD
 GMTV.us@SD
 Gagsnetwork.us@SD
+Galavision.us@East
 GalvestonCountyTV.us@SD
 GanjeHozourTV.us@SD
 GemShoppingNetwork.us@SD
@@ -348,7 +347,6 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -452,8 +450,6 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-Lifetime.us@East
-LifetimeMovies.us@West
 LifetimeRealWomen.us@SD
 LifevisionTV.us@SD
 LindellTV.us@SD
@@ -519,10 +515,10 @@ MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
 NBCLXHome.us@HD
-NBCNewsNOW.us@SD
+NBCNewsNOW.us@HD
 NBCSN.us@SD
 NBCSportsChicago.us@SD
-NBCUniverso.us@West
+NBCUniverso.us@East
 NBTV.us@SD
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -561,7 +557,7 @@ NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
-Nicktoons.us@East
+Nicktoons.us@West
 NorCastWeather.us@HD
 OCNTV.us@SD
 Olelo49.us@SD
@@ -573,7 +569,6 @@ OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -771,10 +766,11 @@ TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 USANetwork.us@West
+UniMas.us@Central
 UniMas.us@Mountain
+Univision.us@East
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@East
 VH1QueensofReality.us@SD
 VSCTV.us@SD
 VSiN.us@SD
@@ -848,6 +844,5 @@ YumaChannel72.us@SD
 YumaChannel73.us@SD
 ZarinTV.us@SD
 ZoomNews.us@SD
-i24NEWSEnglishUSA.il@SD
 pocketwatch.us@SD
 theDoveTV.us@SD
