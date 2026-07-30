@@ -3,4 +3,4 @@ matched_channels=479
 unmatched_channels=1100
 duplicate_channels=0
 channel_nodes=479
-programmes=88341
+programmes=87984

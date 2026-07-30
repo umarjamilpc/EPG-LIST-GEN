@@ -40,7 +40,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
+AMC.us@East
 AMGATV.us@SD
 AMP1.us@SD
 ARTFLIXMovieClassics.us@SD
@@ -91,11 +91,10 @@ AuroraTV.us@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
-BBCAmerica.us@EastHD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BETHer.us@East
+BETHer.us@West
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -124,7 +123,8 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
+Bravo.us@East
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -132,7 +132,6 @@ CANTV27.us@SD
 CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
-CBS.us@West
 CBSenespanol.us@SD
 CCTV.us@SD
 CCX1.us@SD
@@ -228,7 +227,6 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DisneyJunior.us@East
-DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 Docurama.us@SD
@@ -257,6 +255,7 @@ FlowersTVUSA.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
+Freeform.us@East
 FunRoads.us@SD
 G10TV.us@SD
 GBNTV.us@SD
@@ -295,6 +294,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
+Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -442,10 +442,11 @@ MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
+NBC.us@East
 NBCLXHome.us@HD
 NBCNewsNOW.us@HD
 NBCSportsChicago.us@SD
-NBCUniverso.us@West
+NBCUniverso.us@East
 NBTV.us@SD
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -461,8 +462,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
-NationalGeographicWild.us@HDEast
+NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -477,6 +477,7 @@ NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
+Nicktoons.us@West
 NorCastWeather.us@HD
 OCNTV.us@SD
 Olelo49.us@SD
@@ -487,7 +488,7 @@ OmideIranTV.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -585,6 +586,7 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
+Starz.us@West
 StocktonGovTV.us@SD
 StrykTV.us@HD
 SwamijiTVAmerican.at@SD
@@ -652,9 +654,10 @@ TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 USANetwork.us@West
-Univision.us@East
+UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
+VH1.us@East
 VSCTV.us@SD
 VallenatoInternacional.us@SD
 VegasLifeTV.us@HD
