@@ -108,7 +108,6 @@ BBCAmerica.us@East
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@West
 BETCinema.us@SD
 BETComedyMovies.us@SD
 BETHer.us@West
@@ -146,9 +145,11 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
-Bravo.us@West
+Bravo.us@East
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -157,7 +158,7 @@ CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
 CBNNews.us@SD
-CBS.us@East
+CBS.us@West
 CBSenespanol.us@SD
 CCTV.us@SD
 CCX1.us@SD
@@ -268,7 +269,6 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DiscoveryTurbo.us@SD
-DisneyChannel.us@East
 DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
@@ -277,6 +277,7 @@ DogTV.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 Dynasty.us@SD
+E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
@@ -299,6 +300,7 @@ FernandinaBeachChannel.us@SD
 FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
+Fox.us@West
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
@@ -513,11 +515,12 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
-NBC.us@East
 NBCLXHome.us@HD
 NBCNewsNOW.us@HD
 NBCSN.us@SD
+NBCSportsBayArea.us@SD
 NBCSportsChicago.us@SD
+NBCSportsPhiladelphia.us@SD
 NBCUniverso.us@West
 NBTV.us@SD
 NCMEducationalKidsChannel.us@SD
@@ -537,7 +540,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@West
+NationalGeographic.us@HDEast
 NationalGeographicWild.us@HDEast
 News12Bronx.us@SD
 News12Brooklyn.us@SD
@@ -557,6 +560,7 @@ NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
+Nicktoons.us@East
 NorCastWeather.us@HD
 OCNTV.us@SD
 Olelo49.us@SD
@@ -568,7 +572,6 @@ OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -672,7 +675,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@West
+Showtime.us@East
 SitcomLegends.us@SD
 SketchyAF.us@SD
 SkwadPlay.us@SD
@@ -688,7 +691,6 @@ StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
 StartTV.us@SD
-Starz.us@West
 StocktonGovTV.us@SD
 StrykTV.us@HD
 SupernaturalDrama.us@SD
@@ -709,7 +711,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@SD
+TVEInternacionalAmerica.es@HD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVQuisqueya.us@SD
@@ -735,6 +737,7 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -766,11 +769,11 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@East
+USANetwork.us@West
 UniMas.us@Mountain
+UniMas.us@West
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@East
 VH1QueensofReality.us@SD
 VSCTV.us@SD
 VSiN.us@SD
