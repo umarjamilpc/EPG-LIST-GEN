@@ -19,6 +19,7 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
+ABC.us@East
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -104,10 +105,10 @@ AuroraTV.us@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
-BBCAmerica.us@East
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
+BET.us@East
 BETCinema.us@SD
 BETComedyMovies.us@SD
 BETHer.us@West
@@ -147,9 +148,8 @@ BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
 BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
-BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
-Bravo.us@East
+Bravo.us@West
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -158,7 +158,6 @@ CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
 CBNNews.us@SD
-CBS.us@West
 CBSenespanol.us@SD
 CCTV.us@SD
 CCX1.us@SD
@@ -269,7 +268,7 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DiscoveryTurbo.us@SD
-DisneyXD.us@East
+DisneyChannel.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 Docurama.us@SD
@@ -277,7 +276,6 @@ DogTV.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 Dynasty.us@SD
-E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
@@ -300,12 +298,10 @@ FernandinaBeachChannel.us@SD
 FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
-Freeform.us@East
 FunRoads.us@SD
 G10TV.us@SD
 GBNTV.us@SD
@@ -541,7 +537,8 @@ NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
 NationalGeographic.us@HDEast
-NationalGeographicWild.us@HDEast
+NationalGeographic.us@West
+NationalGeographicWild.us@East
 News12Bronx.us@SD
 News12Brooklyn.us@SD
 News12Conneticut.us@SD
@@ -675,7 +672,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@East
+Showtime.us@West
 SitcomLegends.us@SD
 SketchyAF.us@SD
 SkwadPlay.us@SD
@@ -691,6 +688,7 @@ StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
 StartTV.us@SD
+Starz.us@West
 StocktonGovTV.us@SD
 StrykTV.us@HD
 SupernaturalDrama.us@SD
@@ -742,6 +740,7 @@ TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
+TennisChannel.us@SD
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -769,7 +768,7 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 UniMas.us@Mountain
 UniMas.us@West
 VBSTV.us@SD

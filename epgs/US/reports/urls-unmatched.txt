@@ -46,7 +46,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
+AMC.us@East
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -159,7 +159,7 @@ BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 Bounce.us@SD
-Bravo.us@East
+Bravo.us@West
 BrevardGovernmentAccessTV.us@SD
 BusinessRockstars.us@SD
 CANTV19.us@SD
@@ -290,7 +290,7 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DisneyChannel.us@East
-DisneyJunior.us@West
+DisneyJunior.us@East
 DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
@@ -372,7 +372,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -380,7 +380,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -617,7 +617,7 @@ NBC.us@West
 NBCComedyVault.us@SD
 NBCLX.us@SD
 NBCLXHome.us@HD
-NBCNewsNOW.us@SD
+NBCNewsNOW.us@HD
 NBCSportsChicago.us@SD
 NBCUniverso.us@East
 NBCUniverso.us@West
@@ -638,9 +638,9 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
 NationalGeographic.us@HDEast
-NationalGeographicWild.us@HDEast
+NationalGeographic.us@West
+NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -671,7 +671,7 @@ OnTV4U.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 Ovation.us@SD
@@ -805,7 +805,7 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
-Starz.us@East
+Starz.us@West
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
