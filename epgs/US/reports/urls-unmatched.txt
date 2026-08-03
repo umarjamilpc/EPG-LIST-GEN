@@ -46,7 +46,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -121,7 +121,7 @@ BEKNews.us@SD
 BEKSports.us@West
 BET.us@East
 BETClassicsPlutoTV.us@SD
-BETHer.us@West
+BETHer.us@East
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -335,7 +335,7 @@ FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
-Freeform.us@West
+Freeform.us@East
 FrightFlix.us@SD
 FunRoads.us@SD
 G10TV.us@SD
@@ -380,7 +380,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -617,7 +617,7 @@ NBC.us@West
 NBCComedyVault.us@SD
 NBCLX.us@SD
 NBCLXHome.us@HD
-NBCNewsNOW.us@HD
+NBCNewsNOW.us@SD
 NBCSportsChicago.us@SD
 NBCUniverso.us@East
 NBCUniverso.us@West
@@ -638,8 +638,8 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
+NationalGeographic.us@East
 NationalGeographic.us@HDEast
-NationalGeographic.us@West
 NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
@@ -657,7 +657,7 @@ NewsoftheWorld.us@USA
 Newsy.us@SD
 NickJrPlutoTV.us@US
 Nickelodeonenespanol.us@SD
-Nicktoons.us@West
+Nicktoons.us@East
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
@@ -875,7 +875,7 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
-Telemundo.us@West
+Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -911,18 +911,18 @@ TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Mountain
+UniMas.us@Central
 UniMas.us@West
 UniversalCinema.us@SD
 UniversalComedy.us@SD
-Univision.us@West
+Univision.us@East
 UpTV.us@SD
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@East
+VH1.us@West
 VSCTV.us@SD
 VallenatoInternacional.us@SD
 VegasLifeTV.us@HD
