@@ -1,6 +1,6 @@
-DisneyJunior.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
+DisneyJunior.us@West	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 INFAST.nl@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 MTV.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 NationalGeographic.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-NationalGeographicWild.us@HDEast	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
+NationalGeographicWild.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 NewsNation.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
