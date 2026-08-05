@@ -46,7 +46,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -116,14 +116,13 @@ AutenticTravel.de@SD
 AvangTV.us@SD
 BATV.us@SD
 BATVGovernmentTV.us@SD
-BBCAmerica.us@East
+BBCAmerica.us@EastHD
 BBCHomeGarden.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@East
+BET.us@West
 BETClassicsPlutoTV.us@SD
-BETHer.us@East
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -137,7 +136,6 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyTV.uk@LatinAmerica
 Backstage.us@SD
 BandamaxUSA.us@SD
 BarkTV.us@SD
@@ -156,12 +154,12 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 Bounce.us@SD
-Bravo.us@West
+Bravo.us@East
 BrevardGovernmentAccessTV.us@SD
 BusinessRockstars.us@SD
 CANTV19.us@SD
@@ -291,9 +289,7 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyChannel.us@West
-DisneyJunior.us@West
-DisneyXD.us@West
+DisneyXD.us@East
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 DocumentaryPlus.us@US
@@ -307,7 +303,7 @@ E.us@East
 E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -323,7 +319,6 @@ FIFAPlus.uk@UnitedStates
 FNX.us@SD
 FXM.us@East
 FXMovieChannel.us@SD
-FYI.us@East
 Farscape.us@SD
 FashionFinds.us@SD
 FastTV.us@SD
@@ -337,7 +332,6 @@ FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
-Freeform.us@East
 FrightFlix.us@SD
 FunRoads.us@SD
 G10TV.us@SD
@@ -375,7 +369,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -383,7 +377,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -417,7 +411,6 @@ JusPunjabi.us@SD
 JustforLaughsGags.us@SD
 JusticeCentralTV.us@SD
 KAAL61.us@HD
-KADNTV151.us@HD
 KATC31.us@HD
 KATU321.us@HD
 KBEV.us@SD
@@ -447,7 +440,6 @@ KHET111.us@HD
 KIIOLD104.us@SD
 KIROTV71.us@HD
 KITV41.us@HD
-KLFYTV101.us@HD
 KMBYLD275.us@SD
 KMCTTV391.us@HD
 KMEXDT341.us@HD
@@ -621,8 +613,6 @@ NBC.us@West
 NBCComedyVault.us@SD
 NBCLX.us@SD
 NBCLXHome.us@HD
-NBCNewsNOW.us@HD
-NBCSportsChicago.us@SD
 NBCUniverso.us@East
 NBCUniverso.us@West
 NBTV.us@SD
@@ -643,7 +633,6 @@ NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
 NationalGeographic.us@East
-NationalGeographic.us@West
 NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
@@ -661,7 +650,6 @@ NewsoftheWorld.us@USA
 Newsy.us@SD
 NickJrPlutoTV.us@US
 Nickelodeonenespanol.us@SD
-Nicktoons.us@West
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
@@ -683,7 +671,6 @@ OvercomersTV.us@SD
 Overtime.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBSKids247.us@SD
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
 PBSKidsHawaii.us@SD
@@ -809,7 +796,7 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
-Starz.us@East
+Starz.us@West
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
@@ -879,13 +866,13 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
-Telemundo.us@East
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -960,14 +947,12 @@ WBTV641.us@HD
 WCATDT15.us@SD
 WCAU621.us@HD
 WCBITV41.us@HD
-WCBSTV21.us@HD
 WCCADT1.us@SD
 WCETVDigitalChannel318.us@SD
 WCIUTV265.us@SD
 WCIV361.us@HD
 WCOT.us@SD
 WCVBTV501.us@SD
-WDAFTV42.us@SD
 WDEFTV121.us@HD
 WDIODT101.us@HD
 WEDQ34.us@HD
