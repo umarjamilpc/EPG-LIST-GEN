@@ -31,7 +31,7 @@ BeverlyHills90210.us@SD	primary=grabber-epg	also_in=urls-epg
 BilliardTV.us@SD	primary=grabber-epg	also_in=urls-epg
 BlackInkCrew.us@SD	primary=grabber-epg	also_in=urls-epg
 BlazeLive.us@SD	primary=grabber-epg	also_in=urls-epg
-BloombergOriginals.us@SD	primary=grabber-epg	also_in=urls-epg
+BloombergOriginals.us@US	primary=grabber-epg	also_in=urls-epg
 BlueBloods.us@SD	primary=grabber-epg	also_in=urls-epg
 BounceXL.us@SD	primary=grabber-epg	also_in=urls-epg
 BratTV.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -83,7 +83,7 @@ DealorNoDeal.us@SD	primary=grabber-epg	also_in=urls-epg
 Degrassi.us@US	primary=grabber-epg	also_in=urls-epg
 DisneyChannel.us@East	primary=grabber-epg	also_in=urls-epg
 DisneyJunior.us@East	primary=grabber-epg	also_in=urls-epg
-DisneyXD.us@West	primary=grabber-epg	also_in=urls-epg
+DisneyXD.us@East	primary=grabber-epg	also_in=urls-epg
 DoctorWhoClassic.us@US	primary=grabber-epg	also_in=urls-epg
 DogtheBountyHunter.us@US	primary=grabber-epg	also_in=urls-epg
 DoveChannel.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -134,6 +134,7 @@ GreatAmericanFamily.us@SD	primary=grabber-epg	also_in=urls-epg
 Grit.us@SD	primary=grabber-epg	also_in=urls-epg
 GritXtra.us@SD	primary=grabber-epg	also_in=urls-epg
 Gunsmoke.us@SD	primary=grabber-epg	also_in=urls-epg
+HSN.us@East	primary=grabber-epg	also_in=urls-epg
 HSN2.us@SD	primary=grabber-epg	also_in=urls-epg
 HallmarkChannel.us@East	primary=grabber-epg	also_in=urls-epg
 HallmarkFamily.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -206,7 +207,7 @@ Nosey.us@US	primary=grabber-epg	also_in=urls-epg
 OANPlus.us@SD	primary=grabber-epg	also_in=urls-epg
 OneAmericaNewsNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 OnePiece.us@US	primary=grabber-epg	also_in=urls-epg
-OutdoorChannel.us@HD	primary=grabber-epg	also_in=urls-epg
+OutdoorChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 Oxygen.us@East	primary=grabber-epg	also_in=urls-epg
 PBRRidePass.us@SD	primary=grabber-epg	also_in=urls-epg
 PBS.us@East	primary=grabber-epg	also_in=urls-epg
@@ -327,11 +328,11 @@ ToonGoggles.us@SD	primary=grabber-epg	also_in=urls-epg
 TotallyTurtles.us@US	primary=grabber-epg	also_in=urls-epg
 TribecaChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 TrueCrimeNow.us@SD	primary=grabber-epg	also_in=urls-epg
-USANetwork.us@East	primary=grabber-epg	also_in=urls-epg
+USANetwork.us@West	primary=grabber-epg	also_in=urls-epg
 UniMas.us@Central	primary=grabber-epg	also_in=urls-epg
 Unidentified.us@SD	primary=grabber-epg	also_in=urls-epg
 UniversalCrime.us@East	primary=grabber-epg	also_in=urls-epg
-Univision.us@East	primary=grabber-epg	also_in=urls-epg
+Univision.us@West	primary=grabber-epg	also_in=urls-epg
 UnivisionTlnovelas.us@SD	primary=grabber-epg	also_in=urls-epg
 UnsolvedMysteries.us@US	primary=grabber-epg	also_in=urls-epg
 VH1.us@West	primary=grabber-epg	also_in=urls-epg

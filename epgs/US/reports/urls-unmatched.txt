@@ -154,7 +154,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -289,7 +289,7 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyXD.us@East
+DisneyXD.us@West
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 DocumentaryPlus.us@US
@@ -370,7 +370,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -664,7 +664,7 @@ OnTV4U.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 Ovation.us@SD
@@ -901,13 +901,13 @@ TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Mountain
 UniversalCinema.us@SD
 UniversalComedy.us@SD
-Univision.us@West
+Univision.us@East
 UpTV.us@SD
 VBSTV.us@SD
 VCAT.us@SD
