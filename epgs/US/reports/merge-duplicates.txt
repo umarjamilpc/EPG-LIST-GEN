@@ -4,7 +4,6 @@
 80sRewind.us@SD	primary=grabber-epg	also_in=urls-epg
 90sThrowback.us@SD	primary=grabber-epg	also_in=urls-epg
 ACCDigitalNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
-ACCNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 ALLBLKGems.us@SD	primary=grabber-epg	also_in=urls-epg
 AMC.us@East	primary=grabber-epg	also_in=urls-epg
 AcapulcoShore.us@US	primary=grabber-epg	also_in=urls-epg
@@ -16,11 +15,7 @@ AtHomewithFamilyHandyman.us@SD	primary=grabber-epg	also_in=urls-epg
 BBCAmerica.us@East	primary=grabber-epg	also_in=urls-epg
 BBCEarth.uk@US	primary=grabber-epg	also_in=urls-epg
 BBCFood.us@SD	primary=grabber-epg	also_in=urls-epg
-BET.us@West	primary=grabber-epg	also_in=urls-epg
-BETHer.us@East	primary=grabber-epg	also_in=urls-epg
-BETJams.us@SD	primary=grabber-epg	also_in=urls-epg
 BETPlutoTV.us@US	primary=grabber-epg	also_in=urls-epg
-BETSoul.us@SD	primary=grabber-epg	also_in=urls-epg
 BYUTV.us@SD	primary=grabber-epg	also_in=urls-epg
 BabyFirst.us@US	primary=grabber-epg	also_in=urls-epg
 BabySharkTV.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -31,11 +26,11 @@ BeverlyHills90210.us@SD	primary=grabber-epg	also_in=urls-epg
 BilliardTV.us@SD	primary=grabber-epg	also_in=urls-epg
 BlackInkCrew.us@SD	primary=grabber-epg	also_in=urls-epg
 BlazeLive.us@SD	primary=grabber-epg	also_in=urls-epg
-BloombergOriginals.us@US	primary=grabber-epg	also_in=urls-epg
+BloombergOriginals.us@SD	primary=grabber-epg	also_in=urls-epg
 BlueBloods.us@SD	primary=grabber-epg	also_in=urls-epg
 BounceXL.us@SD	primary=grabber-epg	also_in=urls-epg
 BratTV.us@SD	primary=grabber-epg	also_in=urls-epg
-Bravo.us@West	primary=grabber-epg	also_in=urls-epg
+Bravo.us@East	primary=grabber-epg	also_in=urls-epg
 BritBoxMysteries.us@SD	primary=grabber-epg	also_in=urls-epg
 Buzzr.us@SD	primary=grabber-epg	also_in=urls-epg
 CBSNewsBaltimore.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -54,9 +49,7 @@ CBSSportsGolazoNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 CBSSportsHQ.us@SD	primary=grabber-epg	also_in=urls-epg
 CMT.us@East	primary=grabber-epg	also_in=urls-epg
 CMTEqualPlay.us@SD	primary=grabber-epg	also_in=urls-epg
-CNBC.us@SD	primary=grabber-epg	also_in=urls-epg
 CSI.us@SD	primary=grabber-epg	also_in=urls-epg
-CSPAN.us@SD	primary=grabber-epg	also_in=urls-epg
 Choppertown.us@SD	primary=grabber-epg	also_in=urls-epg
 CineAdrenalina.us@SD	primary=grabber-epg	also_in=urls-epg
 CineAmor.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -83,7 +76,7 @@ DealorNoDeal.us@SD	primary=grabber-epg	also_in=urls-epg
 Degrassi.us@US	primary=grabber-epg	also_in=urls-epg
 DisneyChannel.us@East	primary=grabber-epg	also_in=urls-epg
 DisneyJunior.us@East	primary=grabber-epg	also_in=urls-epg
-DisneyXD.us@East	primary=grabber-epg	also_in=urls-epg
+DisneyXD.us@West	primary=grabber-epg	also_in=urls-epg
 DoctorWhoClassic.us@US	primary=grabber-epg	also_in=urls-epg
 DogtheBountyHunter.us@US	primary=grabber-epg	also_in=urls-epg
 DoveChannel.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -92,6 +85,7 @@ EKeepingUp.us@SD	primary=grabber-epg	also_in=urls-epg
 ESPNDeportes.us@SD	primary=grabber-epg	also_in=urls-epg
 ESPNU.us@SD	primary=grabber-epg	also_in=urls-epg
 ESPNews.us@SD	primary=grabber-epg	also_in=urls-epg
+EWTN.us@English	primary=grabber-epg	also_in=urls-epg
 EbonyTVbyLionsgate.us@SD	primary=grabber-epg	also_in=urls-epg
 ElectricNow.us@SD	primary=grabber-epg	also_in=urls-epg
 EstrellaNews.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -140,7 +134,7 @@ HallmarkChannel.us@East	primary=grabber-epg	also_in=urls-epg
 HallmarkFamily.us@SD	primary=grabber-epg	also_in=urls-epg
 HappyDays.us@SD	primary=grabber-epg	also_in=urls-epg
 HauntTV.ca@SD	primary=grabber-epg	also_in=urls-epg
-Heartland.us@Web	primary=grabber-epg	also_in=urls-epg
+Heartland.us@Eastern	primary=grabber-epg	also_in=urls-epg
 History.us@East	primary=grabber-epg	also_in=urls-epg
 HistoryHit.uk@SD	primary=grabber-epg	also_in=urls-epg
 HomeMadeNation.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -194,7 +188,6 @@ NHRATV.us@SD	primary=grabber-epg	also_in=urls-epg
 Naruto.us@US	primary=grabber-epg	also_in=urls-epg
 NashBridges.us@SD	primary=grabber-epg	also_in=urls-epg
 NationalGeographic.us@East	primary=grabber-epg	also_in=urls-epg
-NationalGeographicWild.us@East	primary=grabber-epg	also_in=urls-epg
 News12NewYork.us@SD	primary=grabber-epg	also_in=urls-epg
 NewsNation.us@SD	primary=grabber-epg	also_in=urls-epg
 Newsmax2.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -207,7 +200,7 @@ Nosey.us@US	primary=grabber-epg	also_in=urls-epg
 OANPlus.us@SD	primary=grabber-epg	also_in=urls-epg
 OneAmericaNewsNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 OnePiece.us@US	primary=grabber-epg	also_in=urls-epg
-OutdoorChannel.us@SD	primary=grabber-epg	also_in=urls-epg
+OutdoorChannel.us@HD	primary=grabber-epg	also_in=urls-epg
 Oxygen.us@East	primary=grabber-epg	also_in=urls-epg
 PBRRidePass.us@SD	primary=grabber-epg	also_in=urls-epg
 PBS.us@East	primary=grabber-epg	also_in=urls-epg
@@ -272,6 +265,7 @@ Showtime2.us@East	primary=grabber-epg	also_in=urls-epg
 ShowtimeExtreme.us@East	primary=grabber-epg	also_in=urls-epg
 ShowtimeFamilyZone.us@East	primary=grabber-epg	also_in=urls-epg
 ShowtimeNext.us@East	primary=grabber-epg	also_in=urls-epg
+ShowtimeWomen.us@East	primary=grabber-epg	also_in=urls-epg
 SmithsonianChannel.us@East	primary=grabber-epg	also_in=urls-epg
 SmithsonianChannelSelects.us@SD	primary=grabber-epg	also_in=urls-epg
 SpikeOutdoors.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -332,10 +326,10 @@ USANetwork.us@West	primary=grabber-epg	also_in=urls-epg
 UniMas.us@Central	primary=grabber-epg	also_in=urls-epg
 Unidentified.us@SD	primary=grabber-epg	also_in=urls-epg
 UniversalCrime.us@East	primary=grabber-epg	also_in=urls-epg
-Univision.us@West	primary=grabber-epg	also_in=urls-epg
+Univision.us@East	primary=grabber-epg	also_in=urls-epg
 UnivisionTlnovelas.us@SD	primary=grabber-epg	also_in=urls-epg
 UnsolvedMysteries.us@US	primary=grabber-epg	also_in=urls-epg
-VH1.us@West	primary=grabber-epg	also_in=urls-epg
+VH1.us@East	primary=grabber-epg	also_in=urls-epg
 VICETV.us@SD	primary=grabber-epg	also_in=urls-epg
 Vevo2K.us@SD	primary=grabber-epg	also_in=urls-epg
 VevoCountry.us@SD	primary=grabber-epg	also_in=urls-epg
