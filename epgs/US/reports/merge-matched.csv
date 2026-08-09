@@ -10,7 +10,6 @@ tvg_id,epg_id_matched,source,duplicate_sources
 90sKidsTV2.us@SD,90sKidsTV2.us@SD,urls-epg,
 90sThrowback.us@SD,90sThrowback.us@SD,grabber-epg,urls-epg
 ABC.us@East,ABC.us@East,grabber-epg,
-ABC.us@West,ABC.us@West,grabber-epg,
 AcapulcoShore.us@US,AcapulcoShore.us@US,grabber-epg,urls-epg
 ACCDigitalNetwork.us@SD,ACCDigitalNetwork.us@SD,grabber-epg,urls-epg
 AccuWeatherNOW.us@SD,AccuWeatherNOW.us@SD,grabber-epg,
@@ -24,6 +23,7 @@ AllRealitybyWEtv.us@SD,AllRealitybyWEtv.us@SD,grabber-epg,
 AllWeddingsWEtv.us@SD,AllWeddingsWEtv.us@SD,grabber-epg,
 AlwaysFunnyVideos.us@SD,AlwaysFunnyVideos.us@SD,grabber-epg,
 AMC.us@East,AMC.us@East,grabber-epg,urls-epg
+AMC.us@EastHD,AMC.us@EastHD,grabber-epg,
 AMCenEspanol.us@SD,AMCenEspanol.us@SD,grabber-epg,
 AmericasTestKitchen.us@SD,AmericasTestKitchen.us@SD,grabber-epg,
 AmericasVoice.us@SD,AmericasVoice.us@SD,grabber-epg,
@@ -75,8 +75,8 @@ BilliardTV.us@SD,BilliardTV.us@SD,grabber-epg,urls-epg
 BlackFamilySitcoms.us@SD,BlackFamilySitcoms.us@SD,urls-epg,
 BlackInkCrew.us@SD,BlackInkCrew.us@SD,grabber-epg,urls-epg
 BlazeLive.us@SD,BlazeLive.us@SD,grabber-epg,urls-epg
-BloombergOriginals.us@SD,BloombergOriginals.us@SD,grabber-epg,urls-epg
-BloombergTV.us@PoliticsLiveEvent,BloombergTV.us@PoliticsLiveEvent,grabber-epg,
+BloombergOriginals.us@US,BloombergOriginals.us@US,grabber-epg,urls-epg
+BloombergTV.us@LiveEvent,BloombergTV.us@LiveEvent,grabber-epg,
 BloombergTV.us@US,BloombergTV.us@US,grabber-epg,
 BlueBloods.us@SD,BlueBloods.us@SD,grabber-epg,urls-epg
 Bonanza.us@SD,Bonanza.us@SD,urls-epg,
@@ -84,7 +84,7 @@ bonappetit.us@SD,bonappetit.us@SD,grabber-epg,urls-epg
 Bounce.us@SD,Bounce.us@SD,grabber-epg,
 BounceXL.us@SD,BounceXL.us@SD,grabber-epg,urls-epg
 BratTV.us@SD,BratTV.us@SD,grabber-epg,urls-epg
-Bravo.us@East,Bravo.us@East,grabber-epg,urls-epg
+Bravo.us@West,Bravo.us@West,grabber-epg,urls-epg
 BritBoxMysteries.us@SD,BritBoxMysteries.us@SD,grabber-epg,urls-epg
 BusinessRockstars.us@SD,BusinessRockstars.us@SD,grabber-epg,
 Buzzr.us@SD,Buzzr.us@SD,grabber-epg,urls-epg
@@ -95,7 +95,6 @@ CatchyComedy.us@SD,CatchyComedy.us@SD,urls-epg,
 CatholicTV.us@SD,CatholicTV.us@SD,urls-epg,
 CBNNews.us@SD,CBNNews.us@SD,urls-epg,
 CBS.us@East,CBS.us@East,grabber-epg,
-CBS.us@West,CBS.us@West,grabber-epg,
 CBSNews247.us@SD,CBSNews247.us@SD,grabber-epg,
 CBSNewsBaltimore.us@SD,CBSNewsBaltimore.us@SD,grabber-epg,urls-epg
 CBSNewsBayArea.us@SD,CBSNewsBayArea.us@SD,grabber-epg,urls-epg
@@ -185,6 +184,7 @@ DraftKingsNetwork.us@SD,DraftKingsNetwork.us@SD,grabber-epg,urls-epg
 DryBarComedyPlus.us@SD,DryBarComedyPlus.us@SD,grabber-epg,
 DungeonTV.us@SD,DungeonTV.us@SD,grabber-epg,
 Dynasty.us@SD,Dynasty.us@SD,urls-epg,
+E.us@East,E.us@East,grabber-epg,
 E.us@West,E.us@West,grabber-epg,
 EbonyTVbyLionsgate.us@SD,EbonyTVbyLionsgate.us@SD,grabber-epg,urls-epg
 EKeepingUp.us@SD,EKeepingUp.us@SD,grabber-epg,urls-epg
@@ -196,7 +196,7 @@ ESPNU.us@SD,ESPNU.us@SD,grabber-epg,urls-epg
 EstrellaGames.us@SD,EstrellaGames.us@SD,grabber-epg,
 EstrellaNews.us@SD,EstrellaNews.us@SD,grabber-epg,urls-epg
 EstrellaTV.us@SD,EstrellaTV.us@SD,grabber-epg,urls-epg
-EWTN.us@English,EWTN.us@English,grabber-epg,urls-epg
+EWTN.us@Spanish,EWTN.us@Spanish,grabber-epg,urls-epg
 F1Channel.ie@US,F1Channel.ie@US,grabber-epg,urls-epg
 FailArmy.us@US,FailArmy.us@US,grabber-epg,urls-epg
 FamilyTies.us@SD,FamilyTies.us@SD,grabber-epg,urls-epg
@@ -217,6 +217,7 @@ Flix.us@East,Flix.us@East,grabber-epg,urls-epg
 ForensicFiles.us@SD,ForensicFiles.us@SD,grabber-epg,urls-epg
 ForeverKids.us@SD,ForeverKids.us@SD,grabber-epg,urls-epg
 Fox.us@East,Fox.us@East,grabber-epg,urls-epg
+Fox.us@West,Fox.us@West,grabber-epg,
 FoxBusinessNetwork.us@SD,FoxBusinessNetwork.us@SD,grabber-epg,
 FoxDeportes.us@SD,FoxDeportes.us@SD,grabber-epg,urls-epg
 FoxNewsChannel.us@SD,FoxNewsChannel.us@SD,grabber-epg,urls-epg
@@ -271,7 +272,8 @@ Homeful.ca@US,Homeful.ca@US,grabber-epg,urls-epg
 HomeMadeNation.us@SD,HomeMadeNation.us@SD,grabber-epg,urls-epg
 HopeChannelNorthAmerica.us@SD,HopeChannelNorthAmerica.us@SD,grabber-epg,
 HotBench.us@SD,HotBench.us@SD,urls-epg,
-HSN.us@East,HSN.us@East,grabber-epg,urls-epg
+HSN.us@East,HSN.us@East,grabber-epg,
+HSN.us@West,HSN.us@West,urls-epg,
 HSN2.us@SD,HSN2.us@SD,grabber-epg,urls-epg
 HumorMill.us@SD,HumorMill.us@SD,grabber-epg,
 Hungry.us@SD,Hungry.us@SD,grabber-epg,
@@ -416,13 +418,10 @@ MysteryScienceTheater3000.us@SD,MysteryScienceTheater3000.us@SD,urls-epg,
 MyTimeMovieNetworkEast.us@SD,MyTimeMovieNetworkEast.us@SD,grabber-epg,
 Naruto.us@US,Naruto.us@US,grabber-epg,urls-epg
 NashBridges.us@SD,NashBridges.us@SD,grabber-epg,urls-epg
-NationalGeographic.us@East,NationalGeographic.us@East,grabber-epg,urls-epg
-NationalGeographic.us@HDEast,NationalGeographic.us@HDEast,grabber-epg,
-NationalGeographicWild.us@East,NationalGeographicWild.us@East,grabber-epg,
-NationalGeographicWild.us@HDEast,NationalGeographicWild.us@HDEast,urls-epg,
+NationalGeographic.us@HDEast,NationalGeographic.us@HDEast,grabber-epg,urls-epg
+NationalGeographicWild.us@East,NationalGeographicWild.us@East,grabber-epg,urls-epg
 NBATV.us@SD,NBATV.us@SD,grabber-epg,urls-epg
 NBC.us@East,NBC.us@East,grabber-epg,
-NBC.us@West,NBC.us@West,grabber-epg,
 NBCComedyVault.us@SD,NBCComedyVault.us@SD,grabber-epg,
 NBCLX.us@SD,NBCLX.us@SD,grabber-epg,
 NBCLXHome.us@HD,NBCLXHome.us@HD,urls-epg,
@@ -463,8 +462,8 @@ OneAmericaNewsNetwork.us@SD,OneAmericaNewsNetwork.us@SD,grabber-epg,urls-epg
 OnePiece.us@US,OnePiece.us@US,grabber-epg,urls-epg
 OnTV4U.us@SD,OnTV4U.us@SD,grabber-epg,
 OutdoorAmerica.us@SD,OutdoorAmerica.us@SD,urls-epg,
-OutdoorChannel.us@HD,OutdoorChannel.us@HD,grabber-epg,urls-epg
-OutdoorChannel.us@SD,OutdoorChannel.us@SD,grabber-epg,
+OutdoorChannel.us@HD,OutdoorChannel.us@HD,grabber-epg,
+OutdoorChannel.us@SD,OutdoorChannel.us@SD,grabber-epg,urls-epg
 OuterSphere.us@SD,OuterSphere.us@SD,grabber-epg,
 OutsideTV.us@SD,OutsideTV.us@SD,grabber-epg,
 Ovation.us@SD,Ovation.us@SD,grabber-epg,
@@ -592,7 +591,8 @@ SportsmanChannel.us@SD,SportsmanChannel.us@SD,urls-epg,
 Stadium.us@SD,Stadium.us@SD,grabber-epg,urls-epg
 StarTrek.us@US,StarTrek.us@US,grabber-epg,urls-epg
 StartTV.us@SD,StartTV.us@SD,urls-epg,
-Starz.us@West,Starz.us@West,grabber-epg,urls-epg
+Starz.us@East,Starz.us@East,grabber-epg,urls-epg
+Starz.us@West,Starz.us@West,grabber-epg,
 StarzCinema.us@East,StarzCinema.us@East,grabber-epg,urls-epg
 StarzComedy.us@East,StarzComedy.us@East,grabber-epg,urls-epg
 StarzEdge.us@East,StarzEdge.us@East,grabber-epg,urls-epg
@@ -615,7 +615,7 @@ TeenNick.us@East,TeenNick.us@East,grabber-epg,urls-epg
 Telemundo.us@East,Telemundo.us@East,grabber-epg,urls-epg
 TelemundoAlDia.us@HD,TelemundoAlDia.us@HD,grabber-epg,urls-epg
 TelemundoTelenovelasClasicas.us@SD,TelemundoTelenovelasClasicas.us@SD,grabber-epg,
-TennisChannel.us@SD,TennisChannel.us@SD,grabber-epg,urls-epg
+TennisChannel.us@Plus2,TennisChannel.us@Plus2,grabber-epg,urls-epg
 TerraMaterWILD.de@English,TerraMaterWILD.de@English,grabber-epg,
 TGJunior.us@SD,TGJunior.us@SD,grabber-epg,urls-epg
 TheAddamsFamily.us@SD,TheAddamsFamily.us@SD,grabber-epg,urls-epg
@@ -691,7 +691,8 @@ TVSWesternMovie.us@SD,TVSWesternMovie.us@SD,grabber-epg,
 TVSWomenSports.us@SD,TVSWomenSports.us@SD,grabber-epg,
 Unbeaten.us@SD,Unbeaten.us@SD,grabber-epg,
 Unidentified.us@SD,Unidentified.us@SD,grabber-epg,urls-epg
-UniMas.us@Central,UniMas.us@Central,grabber-epg,urls-epg
+UniMas.us@Central,UniMas.us@Central,grabber-epg,
+UniMas.us@Mountain,UniMas.us@Mountain,urls-epg,
 UniversalCinema.us@SD,UniversalCinema.us@SD,grabber-epg,
 UniversalComedy.us@SD,UniversalComedy.us@SD,grabber-epg,
 UniversalCrime.us@East,UniversalCrime.us@East,grabber-epg,urls-epg
@@ -714,6 +715,7 @@ VevoRB.us@SD,VevoRB.us@SD,grabber-epg,
 VevoRetroRock.us@SD,VevoRetroRock.us@SD,grabber-epg,
 VevoTrueSchoolHipHop.us@SD,VevoTrueSchoolHipHop.us@SD,grabber-epg,
 VH1.us@East,VH1.us@East,grabber-epg,urls-epg
+VH1.us@West,VH1.us@West,grabber-epg,
 VH1QueensofReality.us@SD,VH1QueensofReality.us@SD,urls-epg,
 VICETV.us@SD,VICETV.us@SD,grabber-epg,urls-epg
 VSiN.us@SD,VSiN.us@SD,urls-epg,
