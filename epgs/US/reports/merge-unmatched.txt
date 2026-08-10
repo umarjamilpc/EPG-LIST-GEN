@@ -17,6 +17,7 @@
 3ABNPraiseHimMusicNetwork.us@SD
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
+ABC.us@East
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -40,7 +41,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMGATV.us@SD
 AMP1.us@SD
 ARTFLIXMovieClassics.us@SD
@@ -121,9 +122,7 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
 BloombergTV.us@PoliticsLiveEvent
-Bravo.us@East
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -131,7 +130,6 @@ CANTV27.us@SD
 CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
-CBS.us@East
 CBSenespanol.us@SD
 CCTV.us@SD
 CCX1.us@SD
@@ -232,10 +230,11 @@ DivaAdria.us@SD
 Docurama.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
-E.us@East
+E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -291,7 +290,7 @@ HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -455,8 +454,6 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
-NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -565,7 +562,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@West
+Showtime.us@East
 SkwadPlay.us@SD
 SmartLifeStyleTV.us@SD
 SonyKALHindi.us@SD
@@ -597,7 +594,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@HD
+TVEInternacionalAmerica.es@SD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVSAGovernmentChannel.us@SD
@@ -622,11 +619,11 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
-TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheBurbankChannel.us@SD
 TheChatShowChannel.uk@SD
@@ -645,10 +642,10 @@ TopStoriesbyNewsy.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
+UniMas.us@Central
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@East
 VSCTV.us@SD
 VallenatoInternacional.us@SD
 VegasLifeTV.us@HD
