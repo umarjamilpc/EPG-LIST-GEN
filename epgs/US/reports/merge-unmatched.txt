@@ -17,7 +17,7 @@
 3ABNPraiseHimMusicNetwork.us@SD
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
-ABC.us@East
+ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -95,6 +95,7 @@ BATVGovernmentTV.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
+BET.us@West
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -122,7 +123,9 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@PoliticsLiveEvent
+BloombergOriginals.us@US
+BloombergTV.us@LiveEvent
+BloombergTV.us@US
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -224,17 +227,15 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyXD.us@West
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 Docurama.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
-E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -250,6 +251,7 @@ FernandinaBeachChannel.us@SD
 FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
+Fox.us@East
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
 FunRoads.us@SD
@@ -284,13 +286,12 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -421,7 +422,6 @@ MariaVisionUSA.us@SD
 MarqueeSportsNetwork.us@SD
 MartinCountyTV.us@SD
 Masadrenalina.us@SD
-MeTVPlus.us@SD
 MetaleitorTV.us@SD
 MidpenMediaCenterChannel26.us@SD
 MidpenMediaCenterChannel28.us@SD
@@ -437,7 +437,6 @@ MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
-NBC.us@East
 NBCUniverso.us@West
 NBTV.us@SD
 NCMEducationalKidsChannel.us@SD
@@ -454,6 +453,8 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
+NationalGeographic.us@HDEast
+NationalGeographicWild.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -478,6 +479,7 @@ OmideIranTV.us@SD
 OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -594,7 +596,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@SD
+TVEInternacionalAmerica.es@HD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVSAGovernmentChannel.us@SD
@@ -624,6 +626,7 @@ TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
+TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheBurbankChannel.us@SD
 TheChatShowChannel.uk@SD
@@ -643,7 +646,7 @@ TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 USANetwork.us@East
-UniMas.us@Central
+UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD

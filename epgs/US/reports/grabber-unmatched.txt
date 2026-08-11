@@ -19,7 +19,7 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
-ABC.us@East
+ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -94,6 +94,7 @@ Ameritrade.us@SD
 AmuTV.us@SD
 Armenia1.am@America
 AsianCultureTV.us@HD
+Aspire.us@SD
 AtlantaChannel.us@SD
 Atlas.us@SD
 AuroraTV.us@SD
@@ -103,6 +104,7 @@ BATVGovernmentTV.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
+BET.us@West
 BETCinema.us@SD
 BETComedyMovies.us@SD
 BETThrowbacks.us@SD
@@ -138,7 +140,9 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@PoliticsLiveEvent
+BloombergOriginals.us@US
+BloombergTV.us@LiveEvent
+BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -256,7 +260,6 @@ DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
 DiscoveryTurbo.us@SD
-DisneyXD.us@West
 DistrictofColumbiaNetwork.us@SD
 DivaAdria.us@SD
 Docurama.us@SD
@@ -264,11 +267,10 @@ DogTV.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 Dynasty.us@SD
-E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -287,6 +289,7 @@ FernandinaBeachChannel.us@SD
 FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
+Fox.us@East
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -333,7 +336,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -478,7 +481,6 @@ MariaVisionUSA.us@SD
 MarqueeSportsNetwork.us@SD
 MartinCountyTV.us@SD
 Masadrenalina.us@SD
-MeTVPlus.us@SD
 MediasetItalia.it@USA
 MeritStreet.us@SD
 MetaleitorTV.us@SD
@@ -499,7 +501,6 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
-NBC.us@East
 NBCLXHome.us@HD
 NBCSN.us@SD
 NBCSportsBayArea.us@SD
@@ -554,6 +555,7 @@ OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -692,7 +694,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@SD
+TVEInternacionalAmerica.es@HD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVQuisqueya.us@SD
@@ -723,6 +725,7 @@ TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
 TempoAfricTV.us@SD
+TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -751,7 +754,7 @@ TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 USANetwork.us@East
-UniMas.us@Central
+UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD
