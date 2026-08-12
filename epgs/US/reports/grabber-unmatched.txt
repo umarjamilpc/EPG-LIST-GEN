@@ -19,7 +19,6 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
-ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -66,9 +65,7 @@ AccessSacramentoChannel17.us@SD
 AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
-AccuWeatherNetwork.us@SD
 AceTV.us@SD
-AghapyKids.us@SD
 Akaku53.us@SD
 Akaku54.us@SD
 Akaku55.us@SD
@@ -76,7 +73,6 @@ AlFadyTV.us@SD
 AlHorreyaTV.us@SD
 AlMahdiTV.us@SD
 AlabamaWeatherNetwork.us@SD
-AlbdreamsTV.us@SD
 AlhurraIraq.us@SD
 AlkarmaTVAustralia.us@SD
 AlkarmaTVFamily.us@SD
@@ -140,9 +136,9 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@LiveEvent
+BloombergTV.us@US
 Bonanza.us@SD
-Bravo.us@West
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -189,7 +185,6 @@ CanaldelaFe.us@SD
 CanelaTV.us@SD
 CapitalCityConnectionMontgomery.us@SD
 CarChase.us@SD
-CatchyComedy.us@SD
 CatholicFaithNetwork.us@SD
 CatholicTV.us@SD
 CelebritySceneTV.us@SD
@@ -197,7 +192,6 @@ CerritosTV3.us@SD
 Channel10.us@SD
 Channel18GAC.us@SD
 ChannelOne.us@SD
-CheddarBusiness.us@SD
 CheersPlusFrasier.us@SD
 ChefChampion.us@SD
 ChefRocShow.us@SD
@@ -205,12 +199,10 @@ ChristianYouthChannelCYC.us@SD
 CineMexicano.us@SD
 Cineaventura.us@SD
 Cineenespanol.us@SD
-CitiCABLE.us@SD
 CityTV20SantaMonica.us@SD
 CityTVCarlsbad.us@SD
 CityTVChannel341.us@SD
 CityTVLakewood.us@SD
-CityTVLawndale.us@SD
 CityTVSanDiego.us@SD
 CityTVWhittier.us@SD
 CityofFairfieldChannel26.us@SD
@@ -230,7 +222,6 @@ Community12TV.us@SD
 CommunityTVChannel189.us@SD
 ConcordTV.us@SD
 ContraCostaTV.us@SD
-CoralGablesTV.us@SD
 CornerstoneTV.us@SD
 CreaTVChannel15.us@SD
 CreaTVChannel27.us@SD
@@ -238,13 +229,11 @@ CreaTVChannel28.us@SD
 CreaTVChannel30.us@SD
 Create.us@SD
 CruzTV.us@SD
-CupertinoCityChannel.us@SD
 CypressChannel36.us@SD
 DCC.us@SD
 DCCMakingtheTeam.us@SD
 DCCouncilHearingRoom120.us@SD
 DKN.us@SD
-DMTV.us@SD
 Dabl.us@SD
 DareToDreamNetwork.us@SD
 DatingDisasters.us@SD
@@ -258,10 +247,7 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DiscoveryTurbo.us@SD
-DisneyXD.us@West
 DistrictofColumbiaNetwork.us@SD
-DivaAdria.us@SD
 Docurama.us@SD
 DogTV.us@SD
 DrGeneScott.us@SD
@@ -287,10 +273,8 @@ FNX.us@SD
 FashionFinds.us@SD
 FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
-FideleTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -313,12 +297,10 @@ GlendaleTV.us@SD
 GlobalBuddhistNetwork.us@SD
 GlobalFashionChannel.us@SD
 GlobalWorldTV.us@SD
-Go2Travel.us@SD
 GolazoNetwork.us@SD
 GoodLife45.us@SD
 GospelTruthTV.us@SD
 GovernmentTV16.us@SD
-GreatAmericanFaithLiving.us@SD
 GreatEntertainmentTelevision.us@SD
 GreensboroTV.us@SD
 GuangdongTVAmerica.us@SD
@@ -337,6 +319,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
+Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -348,16 +331,13 @@ HopeChannelInterAmerica.us@SD
 HopeChannelInterAmericaEnglish.us@SD
 HopeChannelInternational.us@SD
 HotBench.us@SD
-IBTVUSA.us@SD
 ILoveLucy.us@SD
 INSP.us@SD
 IONPlus.us@East
 ImanTV.us@SD
 ImpactNetwork.us@SD
-IndiMusicTV.us@SD
 InfoWars.us@SD
 IntheKitchen.us@SD
-IraneFardaTV.uk@SD
 ItIsWrittenTV.us@SD
 ItsSupernaturalNetwork.us@SD
 JBS.us@SD
@@ -372,13 +352,11 @@ KBRI8.us@SD
 KBSV231.us@SD
 KCAT.us@SD
 KCKSLD253.us@HD
-KCMNLD426.us@SD
 KCWX351.us@HD
 KContentbyCJENM.us@SD
 KFONTV.us@SD
 KIIOLD104.us@SD
 KMBYLD275.us@SD
-KMCTTV391.us@HD
 KNOVCD411.us@HD
 KOCTChannel18.us@SD
 KOCTChannel19.us@SD
@@ -400,7 +378,6 @@ KSCE382.us@HD
 KSCE383.us@HD
 KSCNTV221.us@HD
 KTOOTV33.us@HD
-KTOP.us@SD
 KVCRDT242.us@SD
 KVIE62.us@HD
 KVTNDT251.us@HD
@@ -409,12 +386,10 @@ KajouTV.us@SD
 KaloopyTV.us@SD
 KernCountyTV.us@SD
 KetchupTV.us@SD
-KidOO.us@SD
 KidsMovieClub.us@SD
 LA36.us@SD
 LACityView35.us@SD
 LBCInternational.lb@SD
-LBTV.us@SD
 LGTV.us@SD
 LIVExLIVE.us@SD
 LLBNHisLight.us@SD
@@ -425,7 +400,6 @@ LLBNTVKorean.us@SD
 LLBNTVLatino.us@SD
 LLBNTVRomanian.us@SD
 LLBNTVSouthAsia.us@SD
-LPTV.us@SD
 LaQueBuenaAtlanta.us@SD
 LaVozdeJesusHD.do@HD
 LacrosseTV.us@SD
@@ -453,7 +427,6 @@ LogosTVEstudio.es@SD
 LogosTVKids.es@SD
 LogosTVSalud.es@SD
 LoveWorldUSA.ng@SD
-LuchaLibreAAA.us@SD
 MBC1USA.us@SD
 MBC3USA.us@SD
 MBCAmerica.us@SD
@@ -464,11 +437,8 @@ MCN6ArtsChannel.us@SD
 MCN6MainChannel.us@SD
 MCN6MusicChannel.us@SD
 MCPSSTV.us@SD
-MCTV.us@SD
-MGMPlus.us@East
 MLBStrikeZone.us@SD
 MMATV.us@SD
-MPTV.us@SD
 MRVTVChannel44.us@SD
 MRVTVChannel45.us@SD
 MSTV.us@SD
@@ -478,7 +448,6 @@ MadDogandMerrill.us@SD
 MagnificentMoviesNetwork.us@SD
 MajestadTV.us@SD
 MariaVisionUSA.us@SD
-MarqueeSportsNetwork.us@SD
 MartinCountyTV.us@SD
 Masadrenalina.us@SD
 MediasetItalia.it@USA
@@ -503,11 +472,9 @@ MysteryScienceTheater3000.us@SD
 NATTV.us@SD
 NBC.us@East
 NBCLXHome.us@HD
-NBCSN.us@SD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
 NBCUniverso.us@West
-NBTV.us@SD
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -525,7 +492,6 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
 NationalGeographicWild.us@HDEast
 News12Bronx.us@SD
 News12Brooklyn.us@SD
@@ -552,10 +518,10 @@ Olelo53.us@SD
 Olelo54.us@SD
 Olelo55.us@SD
 OmideIranTV.us@SD
-OnceNinasyNinos.mx@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -648,7 +614,6 @@ SMCTVChannel25.us@SD
 SPTV.us@SD
 SUMtvEnglish.us@SD
 SUMtvLatino.us@SD
-SWAT.us@SD
 SalemNewsChannel.us@SD
 SanskarUSA.in@SD
 ScientologyNetwork.us@SD
@@ -657,7 +622,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@West
+Showtime.us@East
 SitcomLegends.us@SD
 SketchyAF.us@SD
 SkwadPlay.us@SD
@@ -719,12 +684,9 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
-Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TempoAfricTV.us@SD
-TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -732,11 +694,9 @@ TheChatShowChannel.uk@SD
 TheCityofMarina.us@SD
 TheCountryNetwork.us@SD
 TheFilmDetective.us@SD
-TheGoodWife.us@SD
 TheMontereyChannel.us@SD
 TheNowNetwork.us@SD
 ThePeninsulaChannel.us@SD
-TheWalkTV.us@SD
 TheWildWildWest.us@SD
 TheWordNetwork.us@SD
 TheYoungTurks.us@SD
@@ -752,10 +712,11 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
-UniMas.us@Central
+USANetwork.us@East
+UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
+VH1.us@East
 VH1QueensofReality.us@SD
 VSCTV.us@SD
 VSiN.us@SD
@@ -768,7 +729,6 @@ VoATV.us@SD
 VoATVPersian.us@SD
 W14DKD141.us@HD
 W14DKD142.us@SD
-W14DKD145.us@SD
 WACX551.us@SD
 WATCDT571.us@HD
 WATCDT572.us@HD
@@ -784,7 +744,6 @@ WEDQ34.us@HD
 WFTTTV621.us@HD
 WFXT662.us@SD
 WGALDT3.us@SD
-WGGSTV161.us@HD
 WGGSTV162.us@SD
 WGNDT1.us@SD
 WGTV83.us@SD
@@ -796,7 +755,6 @@ WKMJTV681.us@HD
 WKMJTV683.us@SD
 WKPCDT2.us@SD
 WKPCTV153.us@SD
-WLCT96.us@SD
 WLMB.us@SD
 WLNGRadio.us@SD
 WMBCTV631.us@HD
@@ -808,7 +766,6 @@ WSBSTV221.us@HD
 WSLFLD351.us@HD
 WSOCNow.us@SD
 WVCULP.us@SD
-WVIZ252.us@SD
 WVVHCD181.us@HD
 WWONTVChannel48.us@SD
 WeHoTV.us@SD
@@ -819,7 +776,6 @@ WhiplashII.us@SD
 WhitePlainsCommunityMedia.us@SD
 Willow.us@SD
 WindowTV.us@SD
-WorldFishingNetwork.us@SD
 WorldHarvestTV.us@SD
 YTATV.us@SD
 YouDotGov.us@SD
