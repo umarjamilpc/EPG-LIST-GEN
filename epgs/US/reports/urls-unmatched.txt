@@ -46,7 +46,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
+AMC.us@East
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -149,7 +149,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -287,6 +287,7 @@ E.us@East
 E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
+ETVTelugu.in@USA
 EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
@@ -309,7 +310,7 @@ FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@East
+Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
@@ -348,7 +349,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -371,6 +372,7 @@ HopeChannelInternational.us@SD
 HopeChannelNorthAmerica.us@SD
 HumorMill.us@SD
 Hungry.us@SD
+INWILD.nl@SD
 ImanTV.us@SD
 InstantSaga.us@US
 IntheKitchen.us@SD
@@ -541,7 +543,6 @@ MMATV.us@SD
 MRVTVChannel44.us@SD
 MRVTVChannel45.us@SD
 MSG.us@SD
-MSGPlus.us@SD
 MSTV.us@SD
 MTC.us@SD
 MTVSpankinNew.us@US
@@ -568,6 +569,7 @@ MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
 MoreMax.us@East
+MrBeanAnimated.uk@English
 MuslimNetworkTV.us@SD
 MyTimeMovieNetworkEast.us@SD
 NATTV.us@SD
@@ -593,8 +595,8 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
-NationalGeographicWild.us@East
+NationalGeographic.us@East
+NationalGeographicWild.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -623,7 +625,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 Ovation.us@SD
@@ -857,12 +859,12 @@ UCTV.us@SD
 USANetwork.us@East
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Central
+UniMas.us@Mountain
 UniversalComedy.us@SD
 UpTV.us@SD
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@West
+VH1.us@East
 VSCTV.us@SD
 VallenatoInternacional.us@SD
 VegasLifeTV.us@HD

@@ -41,7 +41,6 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
 AMGATV.us@SD
 AMP1.us@SD
 ARTFLIXMovieClassics.us@SD
@@ -92,6 +91,7 @@ BATVGovernmentTV.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
+BET.us@East
 BHTV10.us@SD
 BHTV35.us@SD
 BIGCivicChannel.us@SD
@@ -119,7 +119,7 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -223,6 +223,7 @@ DuckHuntingTV.us@SD
 E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
+ETVTelugu.in@USA
 EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
@@ -270,12 +271,12 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
+Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -410,7 +411,7 @@ MontgomeryChannel.us@SD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
 NBC.us@East
-NBCUniverso.us@West
+NBCUniverso.us@East
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -425,8 +426,8 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
-NationalGeographicWild.us@East
+NationalGeographic.us@East
+NationalGeographicWild.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -450,7 +451,6 @@ Olelo55.us@SD
 OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -566,7 +566,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@HD
+TVEInternacionalAmerica.es@SD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVSAGovernmentChannel.us@SD
@@ -591,7 +591,6 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
-Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -612,9 +611,10 @@ TopStoriesbyNewsy.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
+USANetwork.us@East
+UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@West
 VSCTV.us@SD
 VallenatoInternacional.us@SD
 VegasLifeTV.us@HD

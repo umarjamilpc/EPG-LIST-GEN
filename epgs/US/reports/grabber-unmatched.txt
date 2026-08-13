@@ -101,6 +101,7 @@ BATVGovernmentTV.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
+BET.us@East
 BETCinema.us@SD
 BETComedyMovies.us@SD
 BETThrowbacks.us@SD
@@ -136,7 +137,7 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
@@ -166,6 +167,7 @@ CSIMiami.us@SD
 CSIMiamienespanol.us@SD
 CSINY.us@SD
 CSINYenespanol.us@SD
+CSPAN2.us@SD
 CSatTV.us@SD
 CTN.us@SD
 CTNCourtFeed.us@SD
@@ -213,10 +215,10 @@ CityofPompanoBeach.us@SD
 ClassicCinema.us@SD
 ClassicMovieWesterns.us@SD
 ClassicTVCrimeDrama.us@SD
+CleoTV.us@SD
 CloudflareTV.us@SD
 CollierTV.us@SD
 ComedyCentralAnimation.us@SD
-ComedyTV.us@SD
 ComercioTV.us@SD
 Community12TV.us@SD
 CommunityTVChannel189.us@SD
@@ -319,6 +321,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
+Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -473,12 +476,11 @@ NBC.us@East
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
-NBCUniverso.us@West
+NBCUniverso.us@East
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
 NCTV79.us@SD
-NESN.us@SD
 NMBTV.us@SD
 NOST.us@SD
 NRBTV.us@SD
@@ -491,8 +493,8 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
-NationalGeographicWild.us@East
+NationalGeographic.us@East
+NationalGeographicWild.us@HDEast
 News12Bronx.us@SD
 News12Brooklyn.us@SD
 News12Conneticut.us@SD
@@ -521,7 +523,6 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -658,7 +659,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@HD
+TVEInternacionalAmerica.es@SD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVQuisqueya.us@SD
@@ -684,7 +685,6 @@ TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TelehitMusicaEstadosUnidos.us@SD
-Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -714,11 +714,10 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
-VH1.us@West
 VH1QueensofReality.us@SD
 VSCTV.us@SD
 VSiN.us@SD
