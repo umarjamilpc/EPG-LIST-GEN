@@ -19,6 +19,7 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
+ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -42,6 +43,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
+AMC.us@EastHD
 AMGATV.us@SD
 AMGTV.us@SD
 AMP1.us@SD
@@ -99,7 +101,7 @@ BATVGovernmentTV.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@West
+BET.us@East
 BETCinema.us@SD
 BETComedyMovies.us@SD
 BETThrowbacks.us@SD
@@ -118,7 +120,6 @@ BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
 BabyTV.uk@LatinAmerica
-BandamaxUSA.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
 BeachTVFloridaAlabama.us@SD
@@ -135,8 +136,9 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergTV.us@LiveEvent
+BloombergOriginals.us@US
 BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -199,6 +201,7 @@ ChristianYouthChannelCYC.us@SD
 CineMexicano.us@SD
 Cineaventura.us@SD
 Cineenespanol.us@SD
+CinemaxLatino.us@SD
 CityTV20SantaMonica.us@SD
 CityTVCarlsbad.us@SD
 CityTVChannel341.us@SD
@@ -253,6 +256,7 @@ DogTV.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 Dynasty.us@SD
+E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
 ETVTelugu.in@USA
@@ -274,7 +278,6 @@ FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@East
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -319,6 +322,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
+Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -469,7 +473,6 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
-NBC.us@West
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
@@ -520,7 +523,6 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -621,7 +623,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@West
+Showtime.us@East
 SitcomLegends.us@SD
 SketchyAF.us@SD
 SkwadPlay.us@SD
@@ -637,7 +639,6 @@ StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
 StartTV.us@SD
-Starz.us@West
 StocktonGovTV.us@SD
 StrykTV.us@HD
 SupernaturalDrama.us@SD
@@ -680,10 +681,8 @@ TaiwanPlusTV.tw@SD
 TalkinLiveClassicsTV.us@SD
 Tapesh2.us@SD
 TeleBoston.us@SD
-TeleHitEstadosUnidos.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-TelehitMusicaEstadosUnidos.us@SD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -712,7 +711,7 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 UniMas.us@Central
 VBSTV.us@SD
 VCAT.us@SD
