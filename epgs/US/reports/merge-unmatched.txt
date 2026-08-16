@@ -40,7 +40,6 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
 AMGATV.us@SD
 AMP1.us@SD
 ARTFLIXMovieClassics.us@SD
@@ -104,6 +103,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
+BabyFirst.us@Spanish
 BarkTV.us@SD
 BattlestarGalactica.us@SD
 BeachTVFloridaAlabama.us@SD
@@ -117,8 +117,7 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
-BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -220,9 +219,10 @@ DistrictofColumbiaNetwork.us@SD
 Docurama.us@SD
 DrGeneScott.us@SD
 DuckHuntingTV.us@SD
-E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
+ESPNDeportes.us@HD
+ESPNU.us@HD
 ETVTelugu.in@USA
 EWTN.us@Spanish
 ElRey.us@SD
@@ -235,11 +235,11 @@ FCPublicMedia.us@SD
 FCTV.us@SD
 FGTV.us@SD
 FNX.us@SD
+FXMovieChannel.us@HD
 FashionFinds.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
 FunRoads.us@SD
@@ -272,13 +272,11 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -412,8 +410,8 @@ MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
-NBC.us@East
-NBCUniverso.us@West
+NBC.us@West
+NBCUniverso.us@East
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -428,7 +426,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -452,6 +450,7 @@ Olelo55.us@SD
 OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -536,7 +535,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@West
+Showtime.us@East
 SkwadPlay.us@SD
 SmartLifeStyleTV.us@SD
 SonyKALHindi.us@SD
@@ -548,6 +547,7 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
+Starz.us@East
 StocktonGovTV.us@SD
 StrykTV.us@HD
 SwamijiTVAmerican.at@SD
@@ -556,6 +556,7 @@ TAPTVChannel24.us@SD
 TAPTVChannel25.us@SD
 TBCN.us@SD
 TBNArmenia.us@SD
+TBNAsia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
@@ -567,7 +568,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@SD
+TVEInternacionalAmerica.es@HD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVSAGovernmentChannel.us@SD
@@ -590,11 +591,11 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@West
+Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@Plus2
+TennisChannel.us@SD
 TeveVidaNetwork.us@SD
 TheBurbankChannel.us@SD
 TheChatShowChannel.uk@SD
@@ -611,8 +612,7 @@ TopStoriesbyNewsy.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@East
-UniMas.us@Mountain
+UniMas.us@Central
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD

@@ -46,7 +46,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
+AMC.us@East
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -288,6 +288,8 @@ E.us@East
 E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
+ESPNDeportes.us@HD
+ESPNU.us@HD
 ETVTelugu.in@USA
 EWTN.us@Spanish
 ElRey.us@SD
@@ -303,6 +305,7 @@ FCTV.us@SD
 FGTV.us@SD
 FIFAPlus.uk@UnitedStates
 FNX.us@SD
+FXMovieChannel.us@HD
 FXMovieChannel.us@SD
 Farscape.us@SD
 FashionFinds.us@SD
@@ -311,7 +314,7 @@ FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@West
+Fox.us@East
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
@@ -350,14 +353,14 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -596,7 +599,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 NationalGeographicWild.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
@@ -755,7 +758,7 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
-Starz.us@West
+Starz.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
@@ -768,6 +771,7 @@ TAPTVChannel24.us@SD
 TAPTVChannel25.us@SD
 TBCN.us@SD
 TBNArmenia.us@SD
+TBNAsia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
@@ -823,12 +827,12 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@West
+Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@Plus2
+TennisChannel.us@SD
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -858,7 +862,7 @@ UCTV.us@SD
 USANetwork.us@East
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Mountain
+UniMas.us@Central
 UniversalComedy.us@SD
 UpTV.us@SD
 VBSTV.us@SD
