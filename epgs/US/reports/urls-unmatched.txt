@@ -68,7 +68,6 @@ AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
 AccuWeatherNOW.us@SD
-ActionMax.us@East
 AdrenalinaPuraTV.us@SD
 AfroLandTV.us@SD
 Akaku53.us@SD
@@ -116,7 +115,6 @@ BBCHomeGarden.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
-BET.us@East
 BETClassicsPlutoTV.us@SD
 BHTV10.us@SD
 BHTV35.us@SD
@@ -131,7 +129,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@US
+BabyFirst.us@Spanish
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -285,10 +283,9 @@ DryBarComedyPlus.us@SD
 DuckHuntingTV.us@SD
 DungeonTV.us@SD
 E.us@East
-E.us@West
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNDeportes.us@HD
+ESPNDeportes.us@SD
 ESPNU.us@SD
 ETVTelugu.in@USA
 EWTN.us@English
@@ -306,7 +303,6 @@ FGTV.us@SD
 FIFAPlus.uk@UnitedStates
 FNX.us@SD
 FXMovieChannel.us@HD
-FXMovieChannel.us@SD
 Farscape.us@SD
 FashionFinds.us@SD
 FastTV.us@SD
@@ -314,7 +310,7 @@ FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@West
+Fox.us@East
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
@@ -360,7 +356,7 @@ HallmarkMoviesMore.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -599,7 +595,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 NationalGeographicWild.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
@@ -629,7 +625,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 Ovation.us@SD
@@ -828,6 +824,7 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -859,11 +856,12 @@ TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@East
+USANetwork.us@West
 USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Central
 UniversalComedy.us@SD
+Univision.us@EastHD
 UpTV.us@SD
 VBSTV.us@SD
 VCAT.us@SD

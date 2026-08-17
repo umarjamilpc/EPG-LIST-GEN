@@ -19,7 +19,6 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
-ABC.us@East
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -43,7 +42,6 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
 AMGATV.us@SD
 AMGTV.us@SD
 AMP1.us@SD
@@ -136,8 +134,7 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
-BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -166,7 +163,6 @@ CSIMiami.us@SD
 CSIMiamienespanol.us@SD
 CSINY.us@SD
 CSINYenespanol.us@SD
-CSPAN2.us@SD
 CSatTV.us@SD
 CTN.us@SD
 CTNCourtFeed.us@SD
@@ -215,7 +211,6 @@ CityofPompanoBeach.us@SD
 ClassicCinema.us@SD
 ClassicMovieWesterns.us@SD
 ClassicTVCrimeDrama.us@SD
-CleoTV.us@SD
 CloudflareTV.us@SD
 CollierTV.us@SD
 ComedyCentralAnimation.us@SD
@@ -236,7 +231,6 @@ DCC.us@SD
 DCCMakingtheTeam.us@SD
 DCCouncilHearingRoom120.us@SD
 DKN.us@SD
-Dabl.us@SD
 DareToDreamNetwork.us@SD
 DatingDisasters.us@SD
 DePeliculaUS.us@SD
@@ -257,10 +251,10 @@ DuckHuntingTV.us@SD
 Dynasty.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNDeportes.us@HD
+ESPNDeportes.us@SD
 ESPNU.us@SD
 ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -269,17 +263,15 @@ EscambiaCountyTV.us@SD
 ExtremaTV.us@SD
 FCPublicMedia.us@SD
 FCTV.us@SD
-FETV.us@SD
 FGTV.us@SD
 FITE247.us@SD
 FNX.us@SD
-FXMovieChannel.us@HD
 FashionFinds.us@SD
 FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
+Fox.us@East
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -324,7 +316,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -495,7 +487,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 NationalGeographicWild.us@HDEast
 News12Bronx.us@SD
 News12Brooklyn.us@SD
@@ -525,6 +517,7 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -663,7 +656,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@SD
+TVEInternacionalAmerica.es@HD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVQuisqueya.us@SD
@@ -691,6 +684,7 @@ Telemundo.us@East
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
+TennisChannel.us@SD
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -716,8 +710,9 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@East
-UniMas.us@Central
+USANetwork.us@West
+UniMas.us@Mountain
+Univision.us@EastHD
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD
