@@ -147,7 +147,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -288,7 +288,7 @@ EBSMusika.us@SD
 ESPNDeportes.us@SD
 ESPNU.us@HD
 ETVTelugu.in@USA
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -357,7 +357,7 @@ HallmarkMoviesMore.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -626,7 +626,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 Ovation.us@SD
@@ -755,7 +755,7 @@ StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
-Starz.us@West
+Starz.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
@@ -826,12 +826,12 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@WestHD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -858,10 +858,10 @@ TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@West
+USANetwork.us@East
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Mountain
+UniMas.us@Central
 UniversalComedy.us@SD
 Univision.us@East
 UpTV.us@SD
