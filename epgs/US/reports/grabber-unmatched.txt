@@ -42,6 +42,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
+AMC.us@East
 AMGATV.us@SD
 AMGTV.us@SD
 AMP1.us@SD
@@ -89,7 +90,6 @@ Ameritrade.us@SD
 AmuTV.us@SD
 Armenia1.am@America
 AsianCultureTV.us@HD
-Aspire.us@SD
 AtlantaChannel.us@SD
 Atlas.us@SD
 AuroraTV.us@SD
@@ -135,7 +135,7 @@ BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
 BloombergOriginals.us@US
-BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@LiveEvent
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -252,7 +252,6 @@ DuckHuntingTV.us@SD
 Dynasty.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNDeportes.us@HD
 ESPNU.us@HD
 ETVTelugu.in@USA
 EWTN.us@Spanish
@@ -273,7 +272,6 @@ FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -310,15 +308,13 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
-HallmarkMystery.us@East
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -331,7 +327,6 @@ HopeChannelInterAmericaEnglish.us@SD
 HopeChannelInternational.us@SD
 HotBench.us@SD
 ILoveLucy.us@SD
-INSP.us@SD
 IONPlus.us@East
 ImanTV.us@SD
 ImpactNetwork.us@SD
@@ -345,7 +340,6 @@ JewelryTV2.us@SD
 JusHindi.us@SD
 JusOne.us@SD
 JusPunjabi.us@SD
-JusticeCentralTV.us@SD
 KBEV.us@SD
 KBPXLD465.us@SD
 KBRI8.us@SD
@@ -413,7 +407,6 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-LifetimeRealWomen.us@SD
 LifevisionTV.us@SD
 LindellTV.us@SD
 LittleGuyanaTV.us@SD
@@ -474,7 +467,7 @@ NBC.us@West
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
-NBCUniverso.us@West
+NBCUniverso.us@East
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -491,7 +484,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographicWild.us@HDEast
+NationalGeographic.us@HDEast
 News12Bronx.us@SD
 News12Brooklyn.us@SD
 News12Conneticut.us@SD
@@ -519,6 +512,7 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -559,7 +553,6 @@ PlutoTVStorageWars.us@SD
 PlutoTVWipeout.us@SD
 PoconoTelevisionNetwork.us@HD
 PomonaInternetStreamingChannel.us@SD
-PopTV.us@SD
 PopstarTV.us@SD
 PottaDivineTVUSA.us@SD
 PursuitChannel.us@SD
@@ -609,6 +602,7 @@ SMCTVChannel23.us@SD
 SMCTVChannel24.us@SD
 SMCTVChannel25.us@SD
 SPTV.us@SD
+STV.us@HD
 SUMtvEnglish.us@SD
 SUMtvLatino.us@SD
 SalemNewsChannel.us@SD
@@ -619,7 +613,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@West
+Showtime.us@East
 SitcomLegends.us@SD
 SketchyAF.us@SD
 SkwadPlay.us@SD
@@ -627,15 +621,11 @@ SmartLifeStyleTV.us@SD
 SonyKALHindi.us@SD
 SoundViewCommunityMedia.us@SD
 SpiritTV.us@SD
-SportsNetNewYork.us@SD
-SportsmanChannel.us@SD
 StLuciePublicSchools.us@SD
 StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
-StartTV.us@SD
-Starz.us@East
 StocktonGovTV.us@SD
 StrykTV.us@HD
 SupernaturalDrama.us@SD
@@ -657,7 +647,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@HD
+TVEInternacionalAmerica.es@SD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVQuisqueya.us@SD
@@ -681,11 +671,13 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@East
 Telemundo.us@EastHD
+Telemundo.us@West
+Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
+TennisChannel.us@SD
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -711,9 +703,7 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-USANetwork.us@East
-UniMas.us@Central
-Univision.us@East
+UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD
