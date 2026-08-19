@@ -27,7 +27,7 @@ BeverlyHills90210.us@SD	primary=grabber-epg	also_in=urls-epg
 BilliardTV.us@SD	primary=grabber-epg	also_in=urls-epg
 BlackInkCrew.us@SD	primary=grabber-epg	also_in=urls-epg
 BlazeLive.us@SD	primary=grabber-epg	also_in=urls-epg
-BloombergOriginals.us@SD	primary=grabber-epg	also_in=urls-epg
+BloombergOriginals.us@US	primary=grabber-epg	also_in=urls-epg
 BlueBloods.us@SD	primary=grabber-epg	also_in=urls-epg
 BounceXL.us@SD	primary=grabber-epg	also_in=urls-epg
 BratTV.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -82,6 +82,7 @@ DogtheBountyHunter.us@US	primary=grabber-epg	also_in=urls-epg
 DoveChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 DraftKingsNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 EKeepingUp.us@SD	primary=grabber-epg	also_in=urls-epg
+ESPNU.us@SD	primary=grabber-epg	also_in=urls-epg
 EbonyTVbyLionsgate.us@SD	primary=grabber-epg	also_in=urls-epg
 ElectricNow.us@SD	primary=grabber-epg	also_in=urls-epg
 EstrellaNews.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -119,7 +120,7 @@ GolfChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 GravitasMovies.us@SD	primary=grabber-epg	also_in=urls-epg
 GritXtra.us@SD	primary=grabber-epg	also_in=urls-epg
 Gunsmoke.us@SD	primary=grabber-epg	also_in=urls-epg
-HSN.us@West	primary=grabber-epg	also_in=urls-epg
+HSN.us@East	primary=grabber-epg	also_in=urls-epg
 HSN2.us@SD	primary=grabber-epg	also_in=urls-epg
 HallmarkChannel.us@East	primary=grabber-epg	also_in=urls-epg
 HappyDays.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -298,7 +299,7 @@ TotallyTurtles.us@US	primary=grabber-epg	also_in=urls-epg
 TribecaChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 TrueCrimeNow.us@SD	primary=grabber-epg	also_in=urls-epg
 USANetwork.us@East	primary=grabber-epg	also_in=urls-epg
-UniMas.us@Central	primary=grabber-epg	also_in=urls-epg
+UniMas.us@Mountain	primary=grabber-epg	also_in=urls-epg
 Unidentified.us@SD	primary=grabber-epg	also_in=urls-epg
 UniversalCrime.us@East	primary=grabber-epg	also_in=urls-epg
 Univision.us@East	primary=grabber-epg	also_in=urls-epg
