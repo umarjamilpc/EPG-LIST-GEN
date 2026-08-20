@@ -287,7 +287,7 @@ EBSCinema.us@SD
 EBSMusika.us@SD
 ESPNU.us@HD
 ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -356,7 +356,7 @@ HallmarkMoviesMore.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -623,7 +623,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -819,9 +819,9 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
+Telemundo.us@East
 Telemundo.us@EastHD
 Telemundo.us@West
-Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD

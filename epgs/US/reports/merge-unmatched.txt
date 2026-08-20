@@ -17,7 +17,7 @@
 3ABNPraiseHimMusicNetwork.us@SD
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
-ABC.us@West
+ABC.us@East
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -120,7 +120,6 @@ Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
 BloombergOriginals.us@US
-BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -226,6 +225,7 @@ EBSCinema.us@SD
 EBSMusika.us@SD
 ESPNU.us@HD
 ETVTelugu.in@USA
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -241,7 +241,6 @@ FashionFinds.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@East
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
 FunRoads.us@SD
@@ -280,6 +279,7 @@ HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
+Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -413,7 +413,6 @@ MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
-NBC.us@East
 NBCUniverso.us@East
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -452,7 +451,6 @@ Olelo55.us@SD
 OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -593,7 +591,6 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
 Telemundo.us@West
-Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -614,6 +611,7 @@ TopStoriesbyNewsy.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
+UniMas.us@Mountain
 Univision.us@East
 VBSTV.us@SD
 VCAT.us@SD
