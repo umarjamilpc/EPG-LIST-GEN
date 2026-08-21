@@ -19,7 +19,6 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
-ABC.us@East
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -74,6 +73,7 @@ AlFadyTV.us@SD
 AlHorreyaTV.us@SD
 AlMahdiTV.us@SD
 AlabamaWeatherNetwork.us@SD
+AlbanianTVAmerica.us@SD
 AlhurraIraq.us@SD
 AlkarmaTVAustralia.us@SD
 AlkarmaTVFamily.us@SD
@@ -117,7 +117,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@Spanish
+BabyFirst.us@US
 BabyTV.uk@LatinAmerica
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -135,8 +135,8 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
 BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -309,14 +309,13 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -353,6 +352,7 @@ KContentbyCJENM.us@SD
 KFONTV.us@SD
 KIIOLD104.us@SD
 KMBYLD275.us@SD
+KMCTTV391.us@HD
 KNOVCD411.us@HD
 KOCTChannel18.us@SD
 KOCTChannel19.us@SD
@@ -460,6 +460,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
+MoreMax.us@EastHD
 MoreTrueCrime.us@SD
 Movies.us@SD
 MuslimNetworkTV.us@SD
@@ -468,7 +469,7 @@ NATTV.us@SD
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
-NBCUniverso.us@East
+NBCUniverso.us@West
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -485,7 +486,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 News12Bronx.us@SD
 News12Brooklyn.us@SD
 News12Conneticut.us@SD
@@ -513,6 +514,7 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -674,6 +676,7 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
 Telemundo.us@West
+Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -684,6 +687,7 @@ TheBurbankChannel.us@SD
 TheChatShowChannel.uk@SD
 TheCityofMarina.us@SD
 TheCountryNetwork.us@SD
+TheDoctors.us@HD
 TheFilmDetective.us@SD
 TheMontereyChannel.us@SD
 TheNowNetwork.us@SD
@@ -703,7 +707,7 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-UniMas.us@Mountain
+UniMas.us@Central
 Univision.us@East
 VBSTV.us@SD
 VCAT.us@SD
@@ -734,6 +738,7 @@ WEDQ34.us@HD
 WFTTTV621.us@HD
 WFXT662.us@SD
 WGALDT3.us@SD
+WGGSTV161.us@HD
 WGGSTV162.us@SD
 WGNDT1.us@SD
 WGTV83.us@SD
