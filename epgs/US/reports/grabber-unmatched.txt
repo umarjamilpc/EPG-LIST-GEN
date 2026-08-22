@@ -96,7 +96,10 @@ Atlas.us@SD
 AuroraTV.us@SD
 AvangTV.us@SD
 BATV.us@SD
+BATVEducationalChannel.us@SD
+BATVGovernmentChannel.us@SD
 BATVGovernmentTV.us@SD
+BATVPublicChannel.us@SD
 BBCKids.us@SD
 BEKNews.us@SD
 BEKSports.us@West
@@ -126,6 +129,7 @@ BeachTVKeyWestFloridaKeys.us@SD
 BeachTVMyrtleBeachTheGrandStrand.us@SD
 BeachTVPanamaCity.us@SD
 BerksCommunityTV.us@SD
+BestofBATVChannel.us@SD
 BetterHealthTV.us@SD
 BetterLifeNatureChannel.us@SD
 BetterLifeTV.us@SD
@@ -135,6 +139,7 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
@@ -267,12 +272,16 @@ FCPublicMedia.us@SD
 FCTV.us@SD
 FGTV.us@SD
 FITE247.us@SD
+FMHKids.us@SD
+FMHMovies.us@SD
 FNX.us@SD
+FXMovieChannel.us@HD
 FashionFinds.us@SD
 FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
+Fox.us@West
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -316,7 +325,6 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -470,7 +478,7 @@ NATTV.us@SD
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
-NBCUniverso.us@East
+NBCUniverso.us@West
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -515,7 +523,7 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -639,7 +647,6 @@ TAPTVChannel24.us@SD
 TAPTVChannel25.us@SD
 TBCN.us@SD
 TBNArmenia.us@SD
-TBNAsia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
@@ -676,7 +683,7 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
-Telemundo.us@WestHD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -707,8 +714,7 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-UniMas.us@Central
-Univision.us@East
+UniMas.us@Mountain
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD
