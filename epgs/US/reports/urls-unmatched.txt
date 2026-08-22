@@ -605,7 +605,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -830,7 +830,7 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@West
+Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -867,7 +867,7 @@ USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Mountain
 UniversalComedy.us@SD
-Univision.us@East
+Univision.us@EastHD
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD

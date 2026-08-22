@@ -6,6 +6,7 @@
 ACCDigitalNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 ACCNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 ALLBLKGems.us@SD	primary=grabber-epg	also_in=urls-epg
+AMC.us@EastHD	primary=grabber-epg	also_in=urls-epg
 AcapulcoShore.us@US	primary=grabber-epg	also_in=urls-epg
 AnimexHIDIVE.us@SD	primary=grabber-epg	also_in=urls-epg
 AntiquesRoadTrip.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -82,6 +83,7 @@ DoveChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 DraftKingsNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 EKeepingUp.us@SD	primary=grabber-epg	also_in=urls-epg
 ESPNDeportes.us@HD	primary=grabber-epg	also_in=urls-epg
+EWTN.us@Spanish	primary=grabber-epg	also_in=urls-epg
 EbonyTVbyLionsgate.us@SD	primary=grabber-epg	also_in=urls-epg
 ElectricNow.us@SD	primary=grabber-epg	also_in=urls-epg
 EstrellaNews.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -173,7 +175,7 @@ NHLNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 NHRATV.us@SD	primary=grabber-epg	also_in=urls-epg
 Naruto.us@US	primary=grabber-epg	also_in=urls-epg
 NashBridges.us@SD	primary=grabber-epg	also_in=urls-epg
-NationalGeographic.us@East	primary=grabber-epg	also_in=urls-epg
+NationalGeographic.us@HDEast	primary=grabber-epg	also_in=urls-epg
 NationalGeographicWild.us@HDEast	primary=grabber-epg	also_in=urls-epg
 News12NewYork.us@SD	primary=grabber-epg	also_in=urls-epg
 Newsmax2.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -272,7 +274,7 @@ Tastemade.us@US	primary=grabber-epg	also_in=urls-epg
 TastemadeTravel.us@SD	primary=grabber-epg	also_in=urls-epg
 TeenMom.us@SD	primary=grabber-epg	also_in=urls-epg
 TeenNick.us@East	primary=grabber-epg	also_in=urls-epg
-Telemundo.us@WestHD	primary=grabber-epg	also_in=urls-epg
+Telemundo.us@West	primary=grabber-epg	also_in=urls-epg
 TelemundoAlDia.us@HD	primary=grabber-epg	also_in=urls-epg
 TennisChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 TheAddamsFamily.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -302,7 +304,7 @@ USANetwork.us@East	primary=grabber-epg	also_in=urls-epg
 UniMas.us@Central	primary=grabber-epg	also_in=urls-epg
 Unidentified.us@SD	primary=grabber-epg	also_in=urls-epg
 UniversalCrime.us@East	primary=grabber-epg	also_in=urls-epg
-Univision.us@EastHD	primary=grabber-epg	also_in=urls-epg
+Univision.us@East	primary=grabber-epg	also_in=urls-epg
 UnivisionTlnovelas.us@SD	primary=grabber-epg	also_in=urls-epg
 UnsolvedMysteries.us@US	primary=grabber-epg	also_in=urls-epg
 VICETV.us@SD	primary=grabber-epg	also_in=urls-epg

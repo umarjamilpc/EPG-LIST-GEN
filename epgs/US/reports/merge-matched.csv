@@ -25,7 +25,7 @@ AllRealitybyWEtv.us@SD,AllRealitybyWEtv.us@SD,grabber-epg,
 AllWeddingsWEtv.us@SD,AllWeddingsWEtv.us@SD,grabber-epg,
 AlwaysFunnyVideos.us@SD,AlwaysFunnyVideos.us@SD,grabber-epg,
 AMC.us@East,AMC.us@East,grabber-epg,
-AMC.us@EastHD,AMC.us@EastHD,urls-epg,
+AMC.us@EastHD,AMC.us@EastHD,grabber-epg,urls-epg
 AMCenEspanol.us@SD,AMCenEspanol.us@SD,grabber-epg,
 AmericasTestKitchen.us@SD,AmericasTestKitchen.us@SD,grabber-epg,
 AmericasVoice.us@SD,AmericasVoice.us@SD,grabber-epg,
@@ -77,6 +77,7 @@ BlackFamilySitcoms.us@SD,BlackFamilySitcoms.us@SD,urls-epg,
 BlackInkCrew.us@SD,BlackInkCrew.us@SD,grabber-epg,urls-epg
 BlazeLive.us@SD,BlazeLive.us@SD,grabber-epg,urls-epg
 BloombergOriginals.us@SD,BloombergOriginals.us@SD,grabber-epg,urls-epg
+BloombergOriginals.us@US,BloombergOriginals.us@US,grabber-epg,
 BloombergTV.us@US,BloombergTV.us@US,grabber-epg,
 BlueBloods.us@SD,BlueBloods.us@SD,grabber-epg,urls-epg
 Bonanza.us@SD,Bonanza.us@SD,urls-epg,
@@ -189,8 +190,7 @@ ESPNU.us@SD,ESPNU.us@SD,grabber-epg,
 EstrellaGames.us@SD,EstrellaGames.us@SD,grabber-epg,
 EstrellaNews.us@SD,EstrellaNews.us@SD,grabber-epg,urls-epg
 EstrellaTV.us@SD,EstrellaTV.us@SD,grabber-epg,urls-epg
-EWTN.us@English,EWTN.us@English,grabber-epg,
-EWTN.us@Spanish,EWTN.us@Spanish,urls-epg,
+EWTN.us@Spanish,EWTN.us@Spanish,grabber-epg,urls-epg
 F1Channel.ie@US,F1Channel.ie@US,grabber-epg,urls-epg
 FailArmy.us@US,FailArmy.us@US,grabber-epg,urls-epg
 FamilyTies.us@SD,FamilyTies.us@SD,grabber-epg,urls-epg
@@ -392,7 +392,8 @@ MysteryScienceTheater3000.us@SD,MysteryScienceTheater3000.us@SD,urls-epg,
 MyTimeMovieNetworkEast.us@SD,MyTimeMovieNetworkEast.us@SD,grabber-epg,
 Naruto.us@US,Naruto.us@US,grabber-epg,urls-epg
 NashBridges.us@SD,NashBridges.us@SD,grabber-epg,urls-epg
-NationalGeographic.us@East,NationalGeographic.us@East,grabber-epg,urls-epg
+NationalGeographic.us@East,NationalGeographic.us@East,grabber-epg,
+NationalGeographic.us@HDEast,NationalGeographic.us@HDEast,grabber-epg,urls-epg
 NationalGeographicWild.us@HDEast,NationalGeographicWild.us@HDEast,grabber-epg,urls-epg
 NBATV.us@SD,NBATV.us@SD,grabber-epg,urls-epg
 NBC.us@East,NBC.us@East,grabber-epg,
@@ -434,6 +435,7 @@ OneAmericaNewsNetwork.us@SD,OneAmericaNewsNetwork.us@SD,grabber-epg,urls-epg
 OnePiece.us@US,OnePiece.us@US,grabber-epg,urls-epg
 OnTV4U.us@SD,OnTV4U.us@SD,grabber-epg,
 OutdoorAmerica.us@SD,OutdoorAmerica.us@SD,urls-epg,
+OutdoorChannel.us@HD,OutdoorChannel.us@HD,grabber-epg,
 OutdoorChannel.us@SD,OutdoorChannel.us@SD,grabber-epg,urls-epg
 OuterSphere.us@SD,OuterSphere.us@SD,grabber-epg,
 OutsideTV.us@SD,OutsideTV.us@SD,grabber-epg,
@@ -534,7 +536,7 @@ ScrippsNews.us@SD,ScrippsNews.us@SD,grabber-epg,urls-epg
 SemillitasTV.us@SD,SemillitasTV.us@SD,grabber-epg,
 ShemarooBollywood.us@SD,ShemarooBollywood.us@SD,grabber-epg,
 ShopLC.us@SD,ShopLC.us@SD,grabber-epg,urls-epg
-Showtime.us@East,Showtime.us@East,grabber-epg,
+Showtime.us@West,Showtime.us@West,grabber-epg,
 Showtime2.us@East,Showtime2.us@East,grabber-epg,urls-epg
 ShowtimeExtreme.us@East,ShowtimeExtreme.us@East,grabber-epg,urls-epg
 ShowtimeFamilyZone.us@East,ShowtimeFamilyZone.us@East,grabber-epg,urls-epg
@@ -572,9 +574,10 @@ TED.us@SD,TED.us@SD,grabber-epg,urls-epg
 TeenMom.us@SD,TeenMom.us@SD,grabber-epg,urls-epg
 TeenNick.us@East,TeenNick.us@East,grabber-epg,urls-epg
 Telemundo.us@East,Telemundo.us@East,grabber-epg,
-Telemundo.us@WestHD,Telemundo.us@WestHD,grabber-epg,urls-epg
+Telemundo.us@West,Telemundo.us@West,grabber-epg,urls-epg
 TelemundoAlDia.us@HD,TelemundoAlDia.us@HD,grabber-epg,urls-epg
 TelemundoTelenovelasClasicas.us@SD,TelemundoTelenovelasClasicas.us@SD,grabber-epg,
+TennisChannel.us@Plus2,TennisChannel.us@Plus2,grabber-epg,
 TennisChannel.us@SD,TennisChannel.us@SD,grabber-epg,urls-epg
 TerraMaterWILD.de@English,TerraMaterWILD.de@English,grabber-epg,
 TGJunior.us@SD,TGJunior.us@SD,grabber-epg,urls-epg
@@ -651,8 +654,8 @@ Unidentified.us@SD,Unidentified.us@SD,grabber-epg,urls-epg
 UniMas.us@Central,UniMas.us@Central,grabber-epg,urls-epg
 UniversalComedy.us@SD,UniversalComedy.us@SD,grabber-epg,
 UniversalCrime.us@East,UniversalCrime.us@East,grabber-epg,urls-epg
-Univision.us@East,Univision.us@East,grabber-epg,
-Univision.us@EastHD,Univision.us@EastHD,grabber-epg,urls-epg
+Univision.us@East,Univision.us@East,grabber-epg,urls-epg
+Univision.us@EastHD,Univision.us@EastHD,grabber-epg,
 UnivisionTlnovelas.us@SD,UnivisionTlnovelas.us@SD,grabber-epg,urls-epg
 UnsolvedMysteries.us@US,UnsolvedMysteries.us@US,grabber-epg,urls-epg
 USANetwork.us@East,USANetwork.us@East,grabber-epg,urls-epg
