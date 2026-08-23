@@ -123,7 +123,7 @@ Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
 BloombergTV.us@LiveEvent
-BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@US
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -226,6 +226,7 @@ DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
+ESPNU.us@HD
 ETVTelugu.in@USA
 EWTN.us@English
 ElRey.us@SD
@@ -241,12 +242,12 @@ FGTV.us@SD
 FMHKids.us@SD
 FMHMovies.us@SD
 FNX.us@SD
-FXMovieChannel.us@HD
+FXMovieChannel.us@SD
+FaithTV.us@SD
 FashionFinds.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
 FunRoads.us@SD
@@ -279,6 +280,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
@@ -359,6 +361,7 @@ LLBNTVRomanian.us@SD
 LLBNTVSouthAsia.us@SD
 LaQueBuenaAtlanta.us@SD
 LaVozdeJesusHD.do@HD
+LacrosseTV.us@SD
 LakeFrontTV.us@SD
 LakeHavasuCity4.us@SD
 LakewoodChannel8.us@SD
@@ -416,10 +419,10 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-MoreMax.us@EastHD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
-NBCUniverso.us@West
+NBC.us@East
+NBCUniverso.us@East
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -456,6 +459,7 @@ Olelo55.us@SD
 OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -540,7 +544,7 @@ ScreenDreams.us@SD
 Shabakeh7.us@SD
 ShalomAmerica.us@SD
 ShoutFactoryTV.us@SD
-Showtime.us@East
+Showtime.us@West
 SkwadPlay.us@SD
 SmartLifeStyleTV.us@SD
 SonyKALHindi.us@SD
@@ -606,6 +610,7 @@ TheDoctors.us@HD
 TheMontereyChannel.us@SD
 TheNowNetwork.us@SD
 ThePeninsulaChannel.us@SD
+TheWalkTV.us@SD
 TheYoungTurks.us@SD
 Thornton8.us@SD
 TimelessTV.us@SD
@@ -615,7 +620,7 @@ TopStoriesbyNewsy.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-UniMas.us@Mountain
+UniMas.us@Central
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
