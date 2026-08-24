@@ -290,7 +290,7 @@ DungeonTV.us@SD
 E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@HD
+ESPNU.us@SD
 ETVTelugu.in@USA
 EWTN.us@English
 ElRey.us@SD
@@ -319,7 +319,7 @@ FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@East
+Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
@@ -365,7 +365,7 @@ HallmarkMoviesMore.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -826,8 +826,8 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
+Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@West
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
@@ -866,7 +866,7 @@ USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Mountain
 UniversalComedy.us@SD
-Univision.us@East
+Univision.us@EastHD
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
