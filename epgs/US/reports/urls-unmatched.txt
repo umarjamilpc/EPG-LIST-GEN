@@ -134,7 +134,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@Spanish
+BabyFirst.us@US
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -153,7 +153,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -294,7 +294,7 @@ EBSCinema.us@SD
 EBSMusika.us@SD
 ESPNU.us@HD
 ETVTelugu.in@USA
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -321,7 +321,7 @@ FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@East
+Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
@@ -367,7 +367,7 @@ HallmarkMoviesMore.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -606,7 +606,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -827,7 +827,7 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
-Telemundo.us@West
+Telemundo.us@EastHD
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
@@ -864,7 +864,7 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Central
+UniMas.us@Mountain
 UniversalComedy.us@SD
 Univision.us@EastHD
 VBSTV.us@SD
