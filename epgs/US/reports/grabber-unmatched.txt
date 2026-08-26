@@ -19,6 +19,7 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
+ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -139,8 +140,9 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
-BloombergTV.us@US
+BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -260,7 +262,7 @@ EBSCinema.us@SD
 EBSMusika.us@SD
 ESPNU.us@HD
 ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -282,7 +284,6 @@ FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -310,6 +311,7 @@ GoodLife45.us@SD
 GospelTruthTV.us@SD
 GovernmentTV16.us@SD
 GreatEntertainmentTelevision.us@SD
+GreaterLoveTV.us@SD
 GreensboroTV.us@SD
 GuangdongTVAmerica.us@SD
 GunAzTV.us@SD
@@ -326,7 +328,6 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -349,6 +350,7 @@ ItIsWrittenTV.us@SD
 ItsSupernaturalNetwork.us@SD
 JBS.us@SD
 JewelryTV2.us@SD
+JoelOsteenNetwork.us@HD
 JusHindi.us@SD
 JusOne.us@SD
 JusPunjabi.us@SD
@@ -479,7 +481,7 @@ NATTV.us@SD
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
-NBCUniverso.us@East
+NBCUniverso.us@West
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -524,6 +526,7 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@SD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -682,6 +685,7 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
+Telemundo.us@West
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
@@ -714,7 +718,7 @@ TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 UniMas.us@Mountain
-Univision.us@EastHD
+Univision.us@East
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD
@@ -724,6 +728,7 @@ VallenatoInternacional.us@SD
 VegasLifeTV.us@HD
 VelayatTVNetwork.us@SD
 VidaMejorTV.us@SD
+VideoMixTV.us@SD
 VisionLatinaNetwork.us@SD
 VoATV.us@SD
 VoATVPersian.us@SD

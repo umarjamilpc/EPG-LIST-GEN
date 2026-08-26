@@ -134,7 +134,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@US
+BabyFirst.us@Spanish
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -292,9 +292,9 @@ DungeonTV.us@SD
 E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@HD
+ESPNU.us@SD
 ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -350,6 +350,7 @@ GoodLife45.us@SD
 GordonRamsaysHellsKitchen.us@SD
 GospelTruthTV.us@SD
 GovernmentTV16.us@SD
+GreaterLoveTV.us@SD
 GreensboroTV.us@SD
 GrjngoWesternMovies.de@SD
 GuangdongTVAmerica.us@SD
@@ -360,7 +361,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -394,6 +395,7 @@ ItsSupernaturalNetwork.us@SD
 JewelryTV.us@SD
 JewelryTV2.us@SD
 JewishLifeTelevision.us@SD
+JoelOsteenNetwork.us@HD
 JusHindi.us@SD
 JusOne.us@SD
 JusPunjabi.us@SD
@@ -634,7 +636,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -826,8 +828,8 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@East
 Telemundo.us@EastHD
+Telemundo.us@West
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
@@ -866,7 +868,7 @@ USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Mountain
 UniversalComedy.us@SD
-Univision.us@EastHD
+Univision.us@East
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
@@ -883,6 +885,7 @@ VevoRB.us@SD
 VevoRetroRock.us@SD
 VevoTrueSchoolHipHop.us@SD
 VidaMejorTV.us@SD
+VideoMixTV.us@SD
 VisionLatinaNetwork.us@SD
 VoATV.us@SD
 VoATVPersian.us@SD
