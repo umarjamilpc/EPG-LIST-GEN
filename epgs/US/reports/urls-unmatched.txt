@@ -47,7 +47,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -294,7 +294,7 @@ EBSCinema.us@SD
 EBSMusika.us@SD
 ESPNU.us@SD
 ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -321,7 +321,7 @@ FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@East
+Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
@@ -361,7 +361,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -636,7 +636,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -830,7 +830,7 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@West
+Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -868,7 +868,7 @@ USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Mountain
 UniversalComedy.us@SD
-Univision.us@East
+Univision.us@EastHD
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
