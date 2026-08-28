@@ -19,7 +19,7 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
-ABC.us@West
+ABC.us@East
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -37,6 +37,7 @@ ABNBibleMoviesChannel.us@SD
 ABNChina.us@SD
 ABNTVIndia.us@SD
 ABNUrdu.us@SD
+ACCNetwork.us@HD
 ACTV.us@SD
 AFTV.us@SD
 AFV.us@SD
@@ -122,7 +123,6 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@Spanish
 BabyTV.uk@LatinAmerica
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -142,7 +142,6 @@ BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
 BloombergTV.us@LiveEvent
-BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -260,9 +259,9 @@ DuckHuntingTV.us@SD
 Dynasty.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@SD
+ESPNU.us@HD
 ETVTelugu.in@USA
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -277,14 +276,13 @@ FITE247.us@SD
 FMHKids.us@SD
 FMHMovies.us@SD
 FNX.us@SD
-FXMovieChannel.us@HD
+FXMovieChannel.us@SD
 FaithTV.us@SD
 FashionFinds.us@SD
 FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@West
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -298,6 +296,7 @@ Gagsnetwork.us@SD
 GalvestonCountyTV.us@SD
 GanjeHozourTV.us@SD
 GemShoppingNetwork.us@SD
+GenesisScienceNetwork.us@SD
 GiggleMug.us@SD
 GillettePublicAccessTelevisionChannel189.us@SD
 GillettePublicAccessTelevisionChannel190.us@SD
@@ -327,6 +326,7 @@ HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
+HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
 Heartland.us@Web
@@ -480,7 +480,6 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
-NBC.us@West
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
@@ -518,6 +517,7 @@ NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
+Nickelodeon.us@East
 Nickelodeonenespanol.us@SD
 NorCastWeather.us@HD
 OCNTV.us@SD
@@ -688,12 +688,11 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
-Telemundo.us@EastHD
+Telemundo.us@West
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -702,9 +701,11 @@ TheCityofMarina.us@SD
 TheCountryNetwork.us@SD
 TheDoctors.us@HD
 TheFilmDetective.us@SD
+TheLoop.us@SD
 TheMontereyChannel.us@SD
 TheNowNetwork.us@SD
 ThePeninsulaChannel.us@SD
+ThePointTelevsionNetwork.us@SD
 TheWalkTV.us@SD
 TheWildWildWest.us@SD
 TheWordNetwork.us@SD
@@ -741,7 +742,6 @@ W14DKD142.us@SD
 WACX551.us@SD
 WATCDT571.us@HD
 WATCDT572.us@HD
-WATCDT573.us@SD
 WBTSCD151.us@HD
 WCETVDigitalChannel318.us@SD
 WCIUTV265.us@SD
