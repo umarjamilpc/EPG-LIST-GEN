@@ -19,7 +19,7 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
-ABC.us@East
+ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -44,7 +44,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
+AMC.us@East
 AMGATV.us@SD
 AMGTV.us@SD
 AMP1.us@SD
@@ -142,7 +142,6 @@ BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
 BloombergTV.us@LiveEvent
-BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -260,7 +259,7 @@ DuckHuntingTV.us@SD
 Dynasty.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@HD
+ESPNU.us@SD
 ETVTelugu.in@USA
 EWTN.us@English
 ElRey.us@SD
@@ -284,7 +283,7 @@ FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
-Fox.us@East
+Fox.us@West
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -331,7 +330,6 @@ HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -482,11 +480,10 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
-NBC.us@East
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
-NBCUniverso.us@West
+NBCUniverso.us@East
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -503,7 +500,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
+NationalGeographic.us@HDEast
 News12Bronx.us@SD
 News12Brooklyn.us@SD
 News12Conneticut.us@SD
@@ -690,11 +687,12 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
-Telemundo.us@West
+Telemundo.us@EastHD
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
+TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -724,7 +722,8 @@ TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-UniMas.us@Central
+UniMas.us@Mountain
+Univision.us@EastHD
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD

@@ -47,7 +47,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
+AMC.us@East
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -134,7 +134,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@US
+BabyFirst.us@Spanish
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -292,7 +292,7 @@ DungeonTV.us@SD
 E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@HD
+ESPNU.us@SD
 ETVTelugu.in@USA
 EWTN.us@English
 ElRey.us@SD
@@ -321,7 +321,7 @@ FernandinaBeachChannel.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@East
+Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
@@ -362,7 +362,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -832,7 +832,7 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
-Telemundo.us@West
+Telemundo.us@EastHD
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
@@ -871,9 +871,9 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Central
+UniMas.us@Mountain
 UniversalComedy.us@SD
-Univision.us@EastHD
+Univision.us@East
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
