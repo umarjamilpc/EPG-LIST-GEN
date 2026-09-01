@@ -292,7 +292,7 @@ DungeonTV.us@SD
 E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@HD
+ESPNU.us@SD
 ETVTelugu.in@USA
 EWTN.us@English
 ElRey.us@SD
@@ -611,7 +611,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
+NationalGeographic.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -839,7 +839,7 @@ TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
