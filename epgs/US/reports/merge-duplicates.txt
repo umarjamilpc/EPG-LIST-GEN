@@ -27,7 +27,7 @@ BeverlyHills90210.us@SD	primary=grabber-epg	also_in=urls-epg
 BilliardTV.us@SD	primary=grabber-epg	also_in=urls-epg
 BlackInkCrew.us@SD	primary=grabber-epg	also_in=urls-epg
 BlazeLive.us@SD	primary=grabber-epg	also_in=urls-epg
-BloombergOriginals.us@SD	primary=grabber-epg	also_in=urls-epg
+BloombergOriginals.us@US	primary=grabber-epg	also_in=urls-epg
 BlueBloods.us@SD	primary=grabber-epg	also_in=urls-epg
 BounceXL.us@SD	primary=grabber-epg	also_in=urls-epg
 BratTV.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -83,8 +83,9 @@ DoveChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 DraftKingsNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 EKeepingUp.us@SD	primary=grabber-epg	also_in=urls-epg
 ESPNDeportes.us@HD	primary=grabber-epg	also_in=urls-epg
+ESPNU.us@HD	primary=grabber-epg	also_in=urls-epg
 ESPNews.us@SD	primary=grabber-epg	also_in=urls-epg
-EWTN.us@Spanish	primary=grabber-epg	also_in=urls-epg
+EWTN.us@English	primary=grabber-epg	also_in=urls-epg
 EbonyTVbyLionsgate.us@SD	primary=grabber-epg	also_in=urls-epg
 ElectricNow.us@SD	primary=grabber-epg	also_in=urls-epg
 EstrellaNews.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -102,7 +103,7 @@ FilmRiseWestern.us@SD	primary=grabber-epg	also_in=urls-epg
 FlicksofFury.us@SD	primary=grabber-epg	also_in=urls-epg
 ForensicFiles.us@SD	primary=grabber-epg	also_in=urls-epg
 ForeverKids.us@SD	primary=grabber-epg	also_in=urls-epg
-Fox.us@East	primary=grabber-epg	also_in=urls-epg
+Fox.us@West	primary=grabber-epg	also_in=urls-epg
 FoxDeportes.us@SD	primary=grabber-epg	also_in=urls-epg
 FoxNewsChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 FoxSoul.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -122,7 +123,7 @@ GolfChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 GravitasMovies.us@SD	primary=grabber-epg	also_in=urls-epg
 GritXtra.us@SD	primary=grabber-epg	also_in=urls-epg
 Gunsmoke.us@SD	primary=grabber-epg	also_in=urls-epg
-HSN.us@East	primary=grabber-epg	also_in=urls-epg
+HSN.us@West	primary=grabber-epg	also_in=urls-epg
 HSN2.us@SD	primary=grabber-epg	also_in=urls-epg
 HallmarkChannel.us@East	primary=grabber-epg	also_in=urls-epg
 HappyDays.us@SD	primary=grabber-epg	also_in=urls-epg
