@@ -44,7 +44,6 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
 AMGATV.us@SD
 AMGTV.us@SD
 AMP1.us@SD
@@ -54,6 +53,7 @@ ATL26.us@SD
 ATXN1.us@SD
 ATXN2.us@SD
 ATXN3.us@SD
+AVIRewind.us@SD
 AWE.us@SD
 AWEInternational.us@SD
 AWEPlus.us@SD
@@ -141,8 +141,8 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
+BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
-BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -260,8 +260,7 @@ Dynasty.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESPNU.us@HD
-ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -281,6 +280,7 @@ FaithTV.us@SD
 FashionFinds.us@SD
 FeelGoodDrama.us@SD
 FernandinaBeachChannel.us@SD
+FierroaFondoTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
 Fox.us@East
@@ -321,7 +321,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
@@ -462,6 +462,7 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
+NBC.us@East
 NBCLXHome.us@HD
 NBCSportsBayArea.us@SD
 NBCSportsPhiladelphia.us@SD
@@ -501,7 +502,7 @@ NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
 NorCastWeather.us@HD
-OANPlus.us@SD
+OANPlus.us@KPVMLD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -511,7 +512,6 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -579,7 +579,7 @@ RadioyTelevisionMarti.us@SD
 RaiWorldPremium.it@SD
 RallyTV.us@SD
 Rawhide.us@SD
-RealAmericasVoice.us@SD
+RealAmericasVoice.us@KPVMLD
 RedApple21.us@SD
 RetroTV.us@East
 ReutersTV.us@SD
@@ -755,6 +755,7 @@ YoungHollywood.us@SD
 Yuma77.us@SD
 YumaChannel72.us@SD
 YumaChannel73.us@SD
+ZTV.us@SD
 ZarinTV.us@SD
 ZoomNews.us@SD
 pocketwatch.us@SD

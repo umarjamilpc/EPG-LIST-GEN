@@ -50,6 +50,7 @@ ATL26.us@SD
 ATXN1.us@SD
 ATXN2.us@SD
 ATXN3.us@SD
+AVIRewind.us@SD
 AWEInternational.us@SD
 AbsoluteRealitybyWETV.us@SD
 Access19.us@SD
@@ -109,6 +110,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
+BabyFirst.us@Spanish
 BarkTV.us@SD
 BattlestarGalactica.us@SD
 BeachTVFloridaAlabama.us@SD
@@ -123,8 +125,8 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
+BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
-BloombergTV.us@US
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
 CANTV21.us@SD
@@ -228,9 +230,7 @@ DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@HD
-ETVTelugu.in@USA
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -248,6 +248,7 @@ FXMovieChannel.us@HD
 FaithTV.us@SD
 FashionFinds.us@SD
 FernandinaBeachChannel.us@SD
+FierroaFondoTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
 Fox.us@East
@@ -284,7 +285,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
@@ -410,6 +411,7 @@ MontgomeryChannel.us@SD
 Movies.us@KPVMLD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
+NBC.us@East
 NBCUniverso.us@West
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -440,7 +442,7 @@ NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
 NorCastWeather.us@HD
-OANPlus.us@SD
+OANPlus.us@KPVMLD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -449,7 +451,6 @@ Olelo55.us@SD
 OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
@@ -509,7 +510,7 @@ RadioTelePuissance.us@SD
 RadioTeleSentinel.us@SD
 RadioTeleWisdom.us@SD
 RadioyTelevisionMarti.us@SD
-RealAmericasVoice.us@SD
+RealAmericasVoice.us@KPVMLD
 RedApple21.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
@@ -531,8 +532,8 @@ SPremium.us@HD
 SUMtvEnglish.us@SD
 SUMtvLatino.us@SD
 SanskarUSA.in@SD
-ScientologyNetwork.us@KSCNTV
 ScientologyNetwork.us@SD
+ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 Shabakeh7.us@SD
@@ -657,6 +658,7 @@ YoungHollywood.us@SD
 Yuma77.us@SD
 YumaChannel72.us@SD
 YumaChannel73.us@SD
+ZTV.us@SD
 ZarinTV.us@SD
 ZoomNews.us@SD
 theDoveTV.us@SD
