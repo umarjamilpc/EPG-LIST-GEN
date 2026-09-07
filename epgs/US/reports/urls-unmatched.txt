@@ -76,7 +76,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@EastHD
+AMC.us@East
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -89,7 +89,7 @@ ATXN2.us@SD
 ATXN3.us@SD
 AVIRewind.us@SD
 AWEInternational.us@SD
-AWEPlus.us@KPVMLD
+AWEPlus.us@SD
 AbsoluteRealitybyWETV.us@SD
 Access19.us@SD
 Access4PAC.us@SD
@@ -247,7 +247,6 @@ CVCGovernment.us@SD
 CVCPublic.us@SD
 CVTVChannel192.us@SD
 CVTVChannel194.us@SD
-CW.us@East
 CW.us@KATU
 CW.us@KCRATV
 CW.us@KOMOTV
@@ -351,7 +350,7 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESPNU.us@SD
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -360,7 +359,7 @@ EntertainmentTonight.us@SD
 EntrepreneurTV.us@SD
 EscambiaCountyTV.us@SD
 EstrellaGames.us@SD
-EstrellaTV.us@SD
+EstrellaTV.us@WMBCTV
 ExtremaTV.us@SD
 FCPublicMedia.us@SD
 FCTV.us@SD
@@ -371,7 +370,6 @@ FMHMovies.us@SD
 FNX.us@KVCRDT
 FNX.us@SD
 FXMovieChannel.us@HD
-FXMovieChannel.us@SD
 FaithTV.us@SD
 Farscape.us@SD
 FashionFinds.us@SD
@@ -385,9 +383,9 @@ Fox.us@East
 Fox.us@KBSI
 Fox.us@KCPQ
 Fox.us@KDFW
-Fox.us@KMPHTV
 Fox.us@KOKHTV
 Fox.us@KRIV
+Fox.us@KSAZTV
 Fox.us@KTBC
 Fox.us@KTTV
 Fox.us@WBFF
@@ -437,6 +435,7 @@ GreensboroTV.us@SD
 GrjngoWesternMovies.de@SD
 GuangdongTVAmerica.us@SD
 GunAzTV.us@SD
+HBOHits.us@EastHD
 HBTV.us@SD
 HCTVEducationalAccessChannel.us@SD
 HCTVGovernmentChannel.us@SD
@@ -451,7 +450,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -603,7 +602,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-Movies.us@SD
+Movies.us@KPVMLD
 MrBeanAnimated.uk@English
 MuslimNetworkTV.us@SD
 MyTimeMovieNetworkEast.us@SD
@@ -638,7 +637,6 @@ NBC.us@WVIT
 NBC.us@West
 NBCComedyVault.us@SD
 NBCLX.us@SD
-NBCUniverso.us@East
 NBCUniverso.us@West
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -656,7 +654,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -686,7 +684,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -695,12 +693,12 @@ PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
 PBS.us@East
 PBS.us@KETS
-PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
+PBS.us@WJXT
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
@@ -783,7 +781,7 @@ RevryQueer.us@SD
 RightNowTV.us@SD
 Roar.us@KCWX
 Roar.us@KOKITV
-Roar.us@WKEF
+Roar.us@SD
 Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
@@ -807,8 +805,8 @@ SUMtvLatino.us@SD
 SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
+ScientologyNetwork.us@KSCNTV
 ScientologyNetwork.us@SD
-ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 SemillitasTV.us@SD
@@ -819,6 +817,7 @@ ShoutFactoryTV.us@SD
 SkwadPlay.us@SD
 SlopesTV.us@SD
 SmartLifeStyleTV.us@SD
+SmurfTV.us@SD
 SonicTV.us@SD
 SonyCanalNovelas.us@SD
 SonyKALHindi.us@SD
@@ -833,7 +832,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@KPVMLD
+StoryTelevision.us@WCIUTV
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -900,8 +899,8 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
+Telemundo.us@KNSD
 Telemundo.us@WCAU
-Telemundo.us@WTMOCD
 Telemundo.us@West
 Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
@@ -944,12 +943,12 @@ USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Central
 UniMas.us@KFTRDT
-UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WFUTDT
+UniMas.us@WXTVDT
 UniversalComedy.us@SD
 Univision.us@East
-Univision.us@KMEXDT
+Univision.us@EastHD
 Univision.us@WGBODT
 Univision.us@WLTVDT
 VBSTV.us@SD
@@ -1024,7 +1023,6 @@ ZTV.us@SD
 ZarinTV.us@SD
 ZoomNews.us@SD
 beINSPORTSXTRAenEspanol.us@SD
-beINSportsUSA.us@SD
 iCarly.us@SD
 iHolyfieldTV.us@WHPSCD
 theDoveTV.us@SD
