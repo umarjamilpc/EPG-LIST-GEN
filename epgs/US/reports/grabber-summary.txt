@@ -1,6 +1,6 @@
 kind=grabber
-matched_channels=556
-unmatched_channels=921
+matched_channels=555
+unmatched_channels=920
 duplicate_channels=0
-channel_nodes=556
-programmes=28060
+channel_nodes=555
+programmes=26055
