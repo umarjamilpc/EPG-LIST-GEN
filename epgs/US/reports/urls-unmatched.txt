@@ -89,7 +89,7 @@ ATXN2.us@SD
 ATXN3.us@SD
 AVIRewind.us@SD
 AWEInternational.us@SD
-AWEPlus.us@KPVMLD
+AWEPlus.us@SD
 AbsoluteRealitybyWETV.us@SD
 Access19.us@SD
 Access4PAC.us@SD
@@ -100,7 +100,7 @@ AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
 AccuWeatherNOW.us@SD
-AceTV.us@KCKSLD
+AceTV.us@SD
 AdrenalinaPuraTV.us@SD
 AfroLandTV.us@SD
 Akaku53.us@SD
@@ -167,7 +167,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@Spanish
+BabyFirst.us@US
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -186,7 +186,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -275,7 +275,6 @@ CheersPlusFrasier.us@SD
 ChefChampion.us@SD
 ChefRocShow.us@SD
 ChristianYouthChannelCYC.us@SD
-CineMexicano.us@SD
 CinePride.us@SD
 CineRomantico.us@SD
 Cineenespanol.us@SD
@@ -337,7 +336,7 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyChannel.us@East
+DisneyChannel.us@HDEast
 DistrictofColumbiaNetwork.us@SD
 DiyaTV.us@SD
 DocumentaryPlus.us@US
@@ -350,7 +349,7 @@ DungeonTV.us@SD
 E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@HD
+ESPNU.us@SD
 EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
@@ -380,6 +379,7 @@ FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
 Fox.us@East
+Fox.us@KBSI
 Fox.us@KCPQ
 Fox.us@KDFW
 Fox.us@KMPHTV
@@ -398,7 +398,6 @@ Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
-Fox.us@WXXVTV
 Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsRadio.us@SD
@@ -604,7 +603,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-Movies.us@SD
+Movies.us@KPVMLD
 MrBeanAnimated.uk@English
 MuslimNetworkTV.us@SD
 MyTimeMovieNetworkEast.us@SD
@@ -665,7 +664,7 @@ News12PlusHudsonValley.us@HD
 News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
-Newsmax2.us@KPVMLD
+Newsmax2.us@SD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -676,7 +675,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -686,17 +685,17 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
 Overtime.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
+PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
-PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
@@ -782,9 +781,9 @@ RevandRoll.us@SD
 RevryLatinX.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
+Roar.us@KCWX
 Roar.us@KOKITV
 Roar.us@SD
-Roar.us@WKEF
 Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
@@ -810,7 +809,7 @@ SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
 ScientologyNetwork.us@KSCNTV
-ScientologyNetwork.us@WFTTTV
+ScientologyNetwork.us@SD
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 SemillitasTV.us@SD
@@ -837,7 +836,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@WCIUTV
+StoryTelevision.us@KPVMLD
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -904,10 +903,10 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
+Telemundo.us@KNSD
 Telemundo.us@WCAU
 Telemundo.us@WTMOCD
 Telemundo.us@West
-Telemundo.us@WestHD
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -939,15 +938,15 @@ TinTV.us@SD
 TomAndJerry.do@HD
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
-TrueCrimeNetwork.us@SD
+TrueCrimeNetwork.us@WCVBTV
 TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
+UniMas.us@Central
 UniMas.us@KFTRDT
-UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WFUTDT
 UniMas.us@WXTVDT
@@ -955,8 +954,8 @@ UniversalComedy.us@SD
 Univision.us@East
 Univision.us@EastHD
 Univision.us@KMEXDT
-Univision.us@WGBODT
 Univision.us@WLTVDT
+Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
