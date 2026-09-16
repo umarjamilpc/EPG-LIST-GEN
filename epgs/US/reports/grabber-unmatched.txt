@@ -19,11 +19,11 @@
 3ABNProclaimNetwork.us@SD
 90sKids.us@SD
 90sKidsTV2.us@SD
+ABC.us@East
 ABC.us@KAAL
 ABC.us@KATC
 ABC.us@KEROTV
 ABC.us@KGTV
-ABC.us@KGUNTV
 ABC.us@KITV
 ABC.us@KMGHTV
 ABC.us@KOATTV
@@ -43,6 +43,7 @@ ABC.us@WMURTV
 ABC.us@WPDETV
 ABC.us@WSOCTV
 ABC.us@WSYX
+ABC.us@WTNH
 ABC.us@WTVQDT
 ABC.us@WTXLTV
 ABC.us@WWAY
@@ -71,7 +72,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMGATV.us@SD
 AMGTV.us@SD
 AMP1.us@SD
@@ -172,7 +173,7 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
@@ -183,10 +184,12 @@ CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
 CBNNews.us@SD
+CBS.us@East
 CBS.us@KCCI
 CBS.us@KDBCTV
 CBS.us@KEYETV
 CBS.us@KIROTV
+CBS.us@KMOV
 CBS.us@KMTVTV
 CBS.us@KUTV
 CBS.us@KWTVDT
@@ -194,7 +197,6 @@ CBS.us@KZTV
 CBS.us@WCBITV
 CBS.us@WDEFTV
 CBS.us@WHIOTV
-CBS.us@WJAXTV
 CBS.us@WKRCTV
 CBS.us@WPEC
 CBS.us@WTVRTV
@@ -307,7 +309,7 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyChannel.us@HDEast
+DisneyChannel.us@East
 DistrictofColumbiaNetwork.us@SD
 DiyaTV.us@SD
 Docurama.us@SD
@@ -484,7 +486,7 @@ LLBNTVSouthAsia.us@SD
 LaQueBuenaAtlanta.us@SD
 LaVozdeJesusHD.do@HD
 LacrosseTV.us@SD
-Laff.us@SD
+Laff.us@WJLP
 LakeFrontTV.us@SD
 LakeHavasuCity4.us@SD
 LakewoodChannel8.us@SD
@@ -557,8 +559,9 @@ Movies.us@SD
 MuslimNetworkTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
+NBC.us@East
 NBC.us@KNTV
-NBC.us@KRISTV
+NBC.us@KSBW
 NBC.us@KSBY
 NBC.us@KSHBTV
 NBC.us@KSNV
@@ -568,6 +571,7 @@ NBC.us@WBTSCD
 NBC.us@WGAL
 NBC.us@WGBATV
 NBC.us@WHECTV
+NBC.us@WJACTV
 NBC.us@WJAR
 NBC.us@WLIO
 NBC.us@WMAQTV
@@ -599,7 +603,6 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
 News12Bronx.us@SD
 News12Brooklyn.us@SD
 News12Conneticut.us@SD
@@ -629,12 +632,13 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@SD
 Outlaw.us@WGGSTV
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
+PBS.us@East
 PBS.us@KETS
-PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
@@ -812,13 +816,15 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
+Telemundo.us@East
 Telemundo.us@EastHD
 Telemundo.us@KNSD
-Telemundo.us@WCAU
 Telemundo.us@WTMOCD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
+TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
 TheBurbankChannel.us@SD
@@ -896,7 +902,7 @@ WhiplashII.us@SD
 WhitePlainsCommunityMedia.us@SD
 Willow.us@SD
 WindowTV.us@SD
-WorldChannel.us@WGTV
+WorldChannel.us@SD
 WorldHarvestTV.us@SD
 YTATV.us@SD
 YouDotGov.us@SD
