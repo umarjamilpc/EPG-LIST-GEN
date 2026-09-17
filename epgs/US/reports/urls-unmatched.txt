@@ -49,7 +49,6 @@ ABC.us@WTNH
 ABC.us@WTVQDT
 ABC.us@WTXLTV
 ABC.us@WWAY
-ABC.us@West
 ABCNewsLive1.us@SD
 ABCNewsLive10.us@SD
 ABCNewsLive2.us@SD
@@ -186,7 +185,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -337,7 +336,7 @@ DetroitChannel21.us@SD
 DetroitChannel22.us@SD
 DetroitChannel68.us@SD
 DidgahTV.us@SD
-DisneyChannel.us@HDEast
+DisneyChannel.us@East
 DistrictofColumbiaNetwork.us@SD
 DiyaTV.us@SD
 DocumentaryPlus.us@US
@@ -350,7 +349,7 @@ DungeonTV.us@SD
 E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPNU.us@SD
+ESPNU.us@HD
 EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
@@ -385,6 +384,7 @@ Fox.us@KCPQ
 Fox.us@KDFW
 Fox.us@KMPHTV
 Fox.us@KOKHTV
+Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KTBC
 Fox.us@KTTV
@@ -397,7 +397,6 @@ Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
-Fox.us@WTXFTV
 Fox.us@WXXVTV
 Fox.us@West
 FoxBusinessNetwork.us@SD
@@ -443,7 +442,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -531,7 +530,7 @@ LLBNTVSouthAsia.us@SD
 LaQueBuenaAtlanta.us@SD
 LaVozdeJesusHD.do@HD
 LacrosseTV.us@SD
-Laff.us@WJLP
+Laff.us@SD
 LakeFrontTV.us@SD
 LakeHavasuCity4.us@SD
 LakewoodChannel8.us@SD
@@ -657,7 +656,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
+NationalGeographic.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -666,7 +665,7 @@ News12PlusHudsonValley.us@HD
 News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
-Newsmax2.us@KPVMLD
+Newsmax2.us@SD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -677,7 +676,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -697,8 +696,8 @@ PBCTapeshTV.us@SD
 PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
-PBS.us@KMOSTV
 PBS.us@KQED
+PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
@@ -785,8 +784,8 @@ RevryQueer.us@SD
 RightNowTV.us@SD
 Roar.us@KCWX
 Roar.us@KOKITV
+Roar.us@SD
 Roar.us@WKEF
-Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
 RuntimeEspanol.us@SD
@@ -811,7 +810,7 @@ SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
 ScientologyNetwork.us@KSCNTV
-ScientologyNetwork.us@SD
+ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 SemillitasTV.us@SD
@@ -838,7 +837,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@KPVMLD
+StoryTelevision.us@WCIUTV
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -905,14 +904,14 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@KNSD
 Telemundo.us@WCAU
+Telemundo.us@WTMOCD
 Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@Plus2
+TennisChannel.us@SD
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -946,16 +945,16 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Central
 UniMas.us@KFTRDT
 UniMas.us@KUVNDT
 UniMas.us@Mountain
+UniMas.us@WFUTDT
 UniMas.us@WXTVDT
 UniversalComedy.us@SD
 Univision.us@East
 Univision.us@EastHD
-Univision.us@KMEXDT
 Univision.us@WGBODT
+Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
