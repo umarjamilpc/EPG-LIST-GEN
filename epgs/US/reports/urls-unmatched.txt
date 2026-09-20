@@ -75,7 +75,7 @@ AFVEspanol.us@SD
 AKCTV.us@SD
 AKCTVMeettheBreeds.us@SD
 AKCTVPuppies.us@SD
-AMC.us@East
+AMC.us@EastHD
 AMCenEspanol.us@SD
 AMGATV.us@SD
 AMP1.us@SD
@@ -359,7 +359,7 @@ EntertainmentTonight.us@SD
 EntrepreneurTV.us@SD
 EscambiaCountyTV.us@SD
 EstrellaGames.us@SD
-EstrellaTV.us@WMBCTV
+EstrellaTV.us@SD
 ExtremaTV.us@SD
 FCPublicMedia.us@SD
 FCTV.us@SD
@@ -369,6 +369,7 @@ FMHKids.us@SD
 FMHMovies.us@SD
 FNX.us@KVCRDT
 FNX.us@SD
+FX.us@East
 FaithTV.us@SD
 Farscape.us@SD
 FashionFinds.us@SD
@@ -383,7 +384,6 @@ Fox.us@KBSI
 Fox.us@KCPQ
 Fox.us@KDFW
 Fox.us@KMPHTV
-Fox.us@KOKHTV
 Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KTBC
@@ -394,6 +394,7 @@ Fox.us@WFXT
 Fox.us@WHBQTV
 Fox.us@WITI
 Fox.us@WJBK
+Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
@@ -410,7 +411,8 @@ GCOtv.us@SD
 GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@West
+Galavision.us@EastHD
+Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
 GanjeHozourTV.us@SD
@@ -435,7 +437,7 @@ GreensboroTV.us@SD
 GrjngoWesternMovies.de@SD
 GuangdongTVAmerica.us@SD
 GunAzTV.us@SD
-HBOHits.us@East
+HBOHits.us@EastHD
 HBTV.us@SD
 HCTVEducationalAccessChannel.us@SD
 HCTVGovernmentChannel.us@SD
@@ -450,7 +452,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -529,7 +531,7 @@ LLBNTVSouthAsia.us@SD
 LaQueBuenaAtlanta.us@SD
 LaVozdeJesusHD.do@HD
 LacrosseTV.us@SD
-Laff.us@SD
+Laff.us@WJLP
 LakeFrontTV.us@SD
 LakeHavasuCity4.us@SD
 LakewoodChannel8.us@SD
@@ -685,7 +687,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -694,11 +696,11 @@ PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
 PBS.us@East
 PBS.us@KETS
+PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
-PBS.us@WEDQ
 PBS.us@WJXT
 PBS.us@WNET
 PBS.us@WNJT
@@ -781,8 +783,8 @@ RevryLatinX.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
 Roar.us@KCWX
-Roar.us@KOKITV
 Roar.us@SD
+Roar.us@WKEF
 Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
@@ -808,7 +810,7 @@ SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
 ScientologyNetwork.us@KSCNTV
-ScientologyNetwork.us@SD
+ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 SemillitasTV.us@SD
@@ -900,7 +902,7 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@East
+Telemundo.us@EastHD
 Telemundo.us@KNSD
 Telemundo.us@WCAU
 Telemundo.us@WTMOCD
@@ -945,13 +947,13 @@ USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Central
 UniMas.us@KFTRDT
+UniMas.us@KUVNDT
 UniMas.us@Mountain
-UniMas.us@WFUTDT
 UniMas.us@WXTVDT
 UniversalComedy.us@SD
 Univision.us@East
 Univision.us@EastHD
-Univision.us@KMEXDT
+Univision.us@WGBODT
 Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
