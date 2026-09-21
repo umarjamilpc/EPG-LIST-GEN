@@ -88,7 +88,7 @@ ATXN2.us@SD
 ATXN3.us@SD
 AVIRewind.us@SD
 AWEInternational.us@SD
-AWEPlus.us@KPVMLD
+AWEPlus.us@SD
 AbsoluteRealitybyWETV.us@SD
 Access19.us@SD
 Access4PAC.us@SD
@@ -379,7 +379,6 @@ FierroaFondoTV.us@SD
 FilAmTVNetwork.us@HD
 FilmRiseForensicFiles.us@SD
 FlowersTVUSA.us@SD
-Fox.us@East
 Fox.us@KBSI
 Fox.us@KCPQ
 Fox.us@KDFW
@@ -393,6 +392,7 @@ Fox.us@WBFF
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
+Fox.us@WITI
 Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
@@ -437,7 +437,7 @@ GreensboroTV.us@SD
 GrjngoWesternMovies.de@SD
 GuangdongTVAmerica.us@SD
 GunAzTV.us@SD
-HBOHits.us@EastHD
+HBOHits.us@East
 HBTV.us@SD
 HCTVEducationalAccessChannel.us@SD
 HCTVGovernmentChannel.us@SD
@@ -605,7 +605,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-Movies.us@SD
+Movies.us@KPVMLD
 MrBeanAnimated.uk@English
 MuslimNetworkTV.us@SD
 MyTimeMovieNetworkEast.us@SD
@@ -677,7 +677,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -695,6 +695,7 @@ Overtime.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
 PBS.us@East
+PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
@@ -702,7 +703,6 @@ PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
-PBS.us@WNET
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
@@ -782,9 +782,9 @@ RevryLatinX.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
 Roar.us@KCWX
-Roar.us@KOKITV
 Roar.us@SD
 Roar.us@WKEF
+Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
 RuntimeEspanol.us@SD
@@ -811,8 +811,8 @@ SUMtvLatino.us@SD
 SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
+ScientologyNetwork.us@KSCNTV
 ScientologyNetwork.us@SD
-ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 SemillitasTV.us@SD
@@ -839,7 +839,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@KPVMLD
+StoryTelevision.us@WCIUTV
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -907,8 +907,8 @@ TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
 Telemundo.us@KNSD
-Telemundo.us@WCAU
 Telemundo.us@WTMOCD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -940,7 +940,7 @@ TinTV.us@SD
 TomAndJerry.do@HD
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
-TrueCrimeNetwork.us@SD
+TrueCrimeNetwork.us@WCVBTV
 TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
@@ -948,14 +948,14 @@ UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@Central
-UniMas.us@KFTRDT
 UniMas.us@KUVNDT
 UniMas.us@Mountain
+UniMas.us@WFUTDT
 UniMas.us@WXTVDT
 UniversalComedy.us@SD
 Univision.us@East
-Univision.us@EastHD
 Univision.us@KMEXDT
+Univision.us@WGBODT
 Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
