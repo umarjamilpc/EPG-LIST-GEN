@@ -1,6 +1,6 @@
 kind=urls
-matched_channels=439
-unmatched_channels=1033
+matched_channels=436
+unmatched_channels=1035
 duplicate_channels=0
-channel_nodes=439
-programmes=81764
+channel_nodes=436
+programmes=80936
