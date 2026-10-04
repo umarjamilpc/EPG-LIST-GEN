@@ -25,6 +25,7 @@ ABC.us@KGTV
 ABC.us@KGUNTV
 ABC.us@KITV
 ABC.us@KMGHTV
+ABC.us@KOATTV
 ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
@@ -41,7 +42,6 @@ ABC.us@WPDETV
 ABC.us@WSOCTV
 ABC.us@WSYX
 ABC.us@WTNH
-ABC.us@WTVQDT
 ABC.us@WTXLTV
 ABC.us@WWAY
 ABCNewsLive1.us@SD
@@ -102,7 +102,6 @@ AlFadyTV.us@SD
 AlHorreyaTV.us@SD
 AlMahdiTV.us@SD
 AlabamaWeatherNetwork.us@SD
-AlbanianTVAmerica.us@SD
 AlhurraIraq.us@SD
 AlkarmaTVAustralia.us@SD
 AlkarmaTVFamily.us@SD
@@ -169,8 +168,8 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@PoliticsLiveEvent
-BloombergTV.us@US
 Bonanza.us@SD
 BrevardGovernmentAccessTV.us@SD
 CANTV19.us@SD
@@ -183,12 +182,12 @@ CBNNews.us@SD
 CBS.us@KCCI
 CBS.us@KIROTV
 CBS.us@KMTVTV
-CBS.us@KUTV
 CBS.us@KWTVDT
 CBS.us@KZTV
 CBS.us@WCBITV
 CBS.us@WDEFTV
 CBS.us@WHIOTV
+CBS.us@WJAXTV
 CBS.us@WKRCTV
 CBS.us@WPEC
 CBS.us@WTVRTV
@@ -472,7 +471,6 @@ LLBNTVSouthAsia.us@SD
 LaQueBuenaAtlanta.us@SD
 LaVozdeJesusHD.do@HD
 LacrosseTV.us@SD
-Laff.us@WJLP
 LakeFrontTV.us@SD
 LakeHavasuCity4.us@SD
 LakewoodChannel8.us@SD
@@ -549,7 +547,6 @@ NBC.us@KRISTV
 NBC.us@KSBW
 NBC.us@KSBY
 NBC.us@KSHBTV
-NBC.us@KSNV
 NBC.us@KXASTV
 NBC.us@WBALTV
 NBC.us@WBTSCD
@@ -560,6 +557,7 @@ NBC.us@WJACTV
 NBC.us@WJAR
 NBC.us@WLIO
 NBC.us@WMAQTV
+NBC.us@WMGTTV
 NBC.us@WNYT
 NBC.us@WOAITV
 NBC.us@WPTVTV
@@ -569,7 +567,6 @@ NBC.us@WTLV
 NBC.us@WTMJTV
 NBC.us@WTOVTV
 NBC.us@WTVJ
-NBC.us@WVIT
 NBC.us@West
 NBCLXHome.us@HD
 NCMEducationalKidsChannel.us@SD
@@ -588,7 +585,6 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
 NewChannel.ca@SD
 NewChannelPop.ca@SD
 News12Bronx.us@SD
@@ -611,7 +607,7 @@ NewsoftheWorld.us@USA
 NickJr.us@EastHD
 Nickelodeonenespanol.us@SD
 NorCastWeather.us@HD
-OANPlus.us@SD
+OANPlus.us@KPVMLD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -621,20 +617,18 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
-OutdoorChannel.us@HD
 Outlaw.us@WGGSTV
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
+PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
-PBS.us@WNET
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
@@ -700,7 +694,7 @@ RadioyTelevisionMarti.us@SD
 RaiWorldPremium.it@SD
 RallyTV.us@SD
 Rawhide.us@SD
-RealAmericasVoice.us@SD
+RealAmericasVoice.us@KPVMLD
 RedADvenirTV.bo@KSCE
 RedApple21.us@SD
 RetroTV.us@East
@@ -810,10 +804,10 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TeleXitos.us@SD
+Telemundo.us@EastHD
 Telemundo.us@KNSD
 Telemundo.us@WCAU
 Telemundo.us@WTMOCD
-Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -854,8 +848,7 @@ UniMas.us@KFTRDT
 UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WAMIDT
-UniMas.us@WXTVDT
-Univision.us@East
+UniMas.us@WFUTDT
 Univision.us@EastHD
 Univision.us@KMEXDT
 Univision.us@WGBODT
@@ -898,7 +891,7 @@ WhiplashII.us@SD
 WhitePlainsCommunityMedia.us@SD
 Willow.us@SD
 WindowTV.us@SD
-WorldChannel.us@SD
+WorldChannel.us@WGTV
 WorldHarvestTV.us@SD
 YTATV.us@SD
 YouDotGov.us@SD
