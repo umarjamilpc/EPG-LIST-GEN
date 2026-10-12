@@ -369,7 +369,6 @@ Fox.us@KMPHTV
 Fox.us@KOKHTV
 Fox.us@KRIV
 Fox.us@KSAZTV
-Fox.us@KTBC
 Fox.us@KTTV
 Fox.us@WBFF
 Fox.us@WFTXTV
@@ -377,6 +376,7 @@ Fox.us@WFXT
 Fox.us@WHBQTV
 Fox.us@WITI
 Fox.us@WJBK
+Fox.us@WNYW
 Fox.us@WSVN
 Fox.us@WTTG
 Fox.us@WTVT
@@ -662,7 +662,7 @@ NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Newsy.us@SD
-NickJr.us@East
+NickJr.us@EastHD
 NickJrPlutoTV.us@US
 Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
@@ -678,7 +678,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -686,6 +686,7 @@ Overtime.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
 PBS.us@East
+PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
@@ -693,7 +694,6 @@ PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
-PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
 PBSKidsHawaii.us@SD
@@ -800,7 +800,7 @@ SUMtvLatino.us@SD
 SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
-ScientologyNetwork.us@SD
+ScientologyNetwork.us@KSCNTV
 ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
@@ -841,7 +841,7 @@ TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
 TBS.us@East
-TCM.us@East
+TCM.us@West
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
@@ -895,8 +895,8 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
+Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@KNSD
 Telemundo.us@WCAU
 Telemundo.us@WTMOCD
 Telemundo.us@West
@@ -904,7 +904,7 @@ TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@Plus2
+TennisChannel.us@SD
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -933,14 +933,14 @@ ToonamiAftermath.us@West
 Tooncast.us@SD
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
-TrueCrimeNetwork.us@SD
+TrueCrimeNetwork.us@WCVBTV
 TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@KFTRDT
+UniMas.us@Central
 UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WAMIDT
@@ -951,8 +951,8 @@ UniversalComedy.us@SD
 Univision.us@East
 Univision.us@EastHD
 Univision.us@KMEXDT
-Univision.us@WGBODT
 Univision.us@WLTVDT
+Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
@@ -1029,4 +1029,4 @@ beINSPORTSXTRAenEspanol.us@SD
 iCarly.us@SD
 iHolyfieldTV.us@WHPSCD
 theDoveTV.us@SD
-truTV.us@East
+truTV.us@West
