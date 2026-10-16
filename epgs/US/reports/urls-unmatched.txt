@@ -84,7 +84,7 @@ ATXN2.us@SD
 ATXN3.us@SD
 AVIRewind.us@SD
 AWEInternational.us@SD
-AWEPlus.us@SD
+AWEPlus.us@KPVMLD
 AbsoluteRealitybyWETV.us@SD
 Access19.us@SD
 Access4PAC.us@SD
@@ -95,7 +95,7 @@ AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
 AccuWeatherNOW.us@SD
-AceTV.us@KCKSLD
+AceTV.us@SD
 AdrenalinaPuraTV.us@SD
 AfroLandTV.us@SD
 Akaku53.us@SD
@@ -160,7 +160,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@US
+BabyFirst.us@Spanish
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -221,7 +221,7 @@ CMAPChannel18.us@SD
 CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
-CNN.us@HD
+CNN.us@SD
 CNNChile.cl@SD
 CNNenEspanol.us@SD
 COStv.us@SD
@@ -345,7 +345,7 @@ EntertainmentTonight.us@SD
 EntrepreneurTV.us@SD
 EscambiaCountyTV.us@SD
 EstrellaGames.us@SD
-EstrellaTV.us@SD
+EstrellaTV.us@WMBCTV
 ExtremaTV.us@SD
 FCPublicMedia.us@SD
 FCTV.us@SD
@@ -372,6 +372,7 @@ Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KTBC
 Fox.us@KTTV
+Fox.us@WBFF
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
@@ -379,7 +380,6 @@ Fox.us@WITI
 Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WSVN
-Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
 Fox.us@WXXVTV
@@ -396,7 +396,7 @@ GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
 Galavision.us@EastHD
-Galavision.us@West
+Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
 GanjeHozourTV.us@SD
@@ -593,7 +593,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-Movies.us@SD
+Movies.us@KPVMLD
 MrBeanAnimated.uk@English
 MuslimNetworkTV.us@SD
 MyTimeMovieNetworkEast.us@SD
@@ -668,7 +668,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@SD
+OANPlus.us@KPVMLD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -678,7 +678,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -689,9 +689,9 @@ PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
+PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
-PBS.us@WEDQ
 PBS.us@WJXT
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
@@ -774,8 +774,8 @@ RevryQueer.us@SD
 RightNowTV.us@SD
 Roar.us@KCWX
 Roar.us@KOKITV
-Roar.us@SD
 Roar.us@WKEF
+Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
 RuntimeEspanol.us@SD
@@ -801,7 +801,7 @@ SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
 ScientologyNetwork.us@KSCNTV
-ScientologyNetwork.us@WFTTTV
+ScientologyNetwork.us@SD
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 SemillitasTV.us@SD
@@ -840,12 +840,12 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@East
+TBS.us@West
 TCM.us@East
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@West
+TNT.us@East
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -895,8 +895,8 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
+Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@KNSD
 Telemundo.us@WCAU
 Telemundo.us@WTMOCD
 Telemundo.us@West
@@ -944,13 +944,13 @@ UniMas.us@Central
 UniMas.us@KFTRDT
 UniMas.us@KUVNDT
 UniMas.us@Mountain
+UniMas.us@WAMIDT
 UniMas.us@WFUTDT
-UniMas.us@WXTVDT
 UniversalCinema.us@SD
 UniversalComedy.us@SD
 Univision.us@East
+Univision.us@EastHD
 Univision.us@KMEXDT
-Univision.us@WGBODT
 Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
