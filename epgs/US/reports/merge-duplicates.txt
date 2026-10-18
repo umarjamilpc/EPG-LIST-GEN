@@ -54,6 +54,7 @@ CBSSportsHQ.us@SD	primary=grabber-epg	also_in=urls-epg
 CMT.us@East	primary=grabber-epg	also_in=urls-epg
 CMTEqualPlay.us@SD	primary=grabber-epg	also_in=urls-epg
 CNBC.us@SD	primary=grabber-epg	also_in=urls-epg
+CNN.us@HD	primary=grabber-epg	also_in=urls-epg
 CNNOriginals.us@SD	primary=grabber-epg	also_in=urls-epg
 CSI.us@SD	primary=grabber-epg	also_in=urls-epg
 CartoonNetwork.us@East	primary=grabber-epg	also_in=urls-epg
@@ -83,7 +84,6 @@ DealorNoDeal.us@SD	primary=grabber-epg	also_in=urls-epg
 Degrassi.us@US	primary=grabber-epg	also_in=urls-epg
 DestinationAmerica.us@SD	primary=grabber-epg	also_in=urls-epg
 DiscoveryChannel.us@East	primary=grabber-epg	also_in=urls-epg
-DisneyChannel.us@East	primary=grabber-epg	also_in=urls-epg
 DisneyJunior.us@East	primary=grabber-epg	also_in=urls-epg
 DisneyXD.us@East	primary=grabber-epg	also_in=urls-epg
 DoctorWhoClassic.us@US	primary=grabber-epg	also_in=urls-epg
@@ -95,10 +95,10 @@ ESPN.us@SD	primary=grabber-epg	also_in=urls-epg
 ESPN2.us@HD	primary=grabber-epg	also_in=urls-epg
 ESPNDeportes.us@HD	primary=grabber-epg	also_in=urls-epg
 ESPNU.us@SD	primary=grabber-epg	also_in=urls-epg
-EWTN.us@English	primary=grabber-epg	also_in=urls-epg
 EbonyTVbyLionsgate.us@SD	primary=grabber-epg	also_in=urls-epg
 ElectricNow.us@SD	primary=grabber-epg	also_in=urls-epg
 EstrellaNews.us@SD	primary=grabber-epg	also_in=urls-epg
+EstrellaTV.us@SD	primary=grabber-epg	also_in=urls-epg
 F1Channel.ie@US	primary=grabber-epg	also_in=urls-epg
 FTFSports.us@SD	primary=grabber-epg	also_in=urls-epg
 FailArmy.us@US	primary=grabber-epg	also_in=urls-epg
@@ -108,7 +108,7 @@ FlicksofFury.us@SD	primary=grabber-epg	also_in=urls-epg
 FoodNetwork.us@East	primary=grabber-epg	also_in=urls-epg
 ForensicFiles.us@SD	primary=grabber-epg	also_in=urls-epg
 ForeverKids.us@SD	primary=grabber-epg	also_in=urls-epg
-Fox.us@KSAZTV	primary=grabber-epg	also_in=urls-epg
+Fox.us@WFXT	primary=grabber-epg	also_in=urls-epg
 FoxDeportes.us@SD	primary=grabber-epg	also_in=urls-epg
 FoxNewsChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 FoxSoul.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -183,14 +183,13 @@ Naruto.us@US	primary=grabber-epg	also_in=urls-epg
 NashBridges.us@SD	primary=grabber-epg	also_in=urls-epg
 NationalGeographicWild.us@HDEast	primary=grabber-epg	also_in=urls-epg
 News12NewYork.us@SD	primary=grabber-epg	also_in=urls-epg
-Newsmax2.us@SD	primary=grabber-epg	also_in=urls-epg
 NewsmaxTV.us@SD	primary=grabber-epg	also_in=urls-epg
-NickJr.us@East	primary=grabber-epg	also_in=urls-epg
+NickJr.us@EastHD	primary=grabber-epg	also_in=urls-epg
 Nickelodeon.us@East	primary=grabber-epg	also_in=urls-epg
 NickelodeonPlutoTV.us@SD	primary=grabber-epg	also_in=urls-epg
 Nicktoons.us@East	primary=grabber-epg	also_in=urls-epg
 Nosey.us@US	primary=grabber-epg	also_in=urls-epg
-OANPlus.us@KPVMLD	primary=grabber-epg	also_in=urls-epg
+OANPlus.us@SD	primary=grabber-epg	also_in=urls-epg
 OWN.us@East	primary=grabber-epg	also_in=urls-epg
 OneAmericaNewsNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 OnePiece.us@US	primary=grabber-epg	also_in=urls-epg
@@ -264,8 +263,7 @@ StarzComedy.us@East	primary=grabber-epg	also_in=urls-epg
 StoriesbyAMC.us@SD	primary=grabber-epg	also_in=urls-epg
 Survivor.us@SD	primary=grabber-epg	also_in=urls-epg
 TBN.us@East	primary=grabber-epg	also_in=urls-epg
-TBS.us@West	primary=grabber-epg	also_in=urls-epg
-TCM.us@West	primary=grabber-epg	also_in=urls-epg
+TBS.us@East	primary=grabber-epg	also_in=urls-epg
 TED.us@SD	primary=grabber-epg	also_in=urls-epg
 TGJunior.us@SD	primary=grabber-epg	also_in=urls-epg
 TMZ.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -278,9 +276,9 @@ Tastemade.us@US	primary=grabber-epg	also_in=urls-epg
 TastemadeTravel.us@SD	primary=grabber-epg	also_in=urls-epg
 TeenMom.us@SD	primary=grabber-epg	also_in=urls-epg
 TeenNick.us@East	primary=grabber-epg	also_in=urls-epg
-Telemundo.us@West	primary=grabber-epg	also_in=urls-epg
+Telemundo.us@WTMOCD	primary=grabber-epg	also_in=urls-epg
 TelemundoAlDia.us@HD	primary=grabber-epg	also_in=urls-epg
-TennisChannel.us@Plus2	primary=grabber-epg	also_in=urls-epg
+TennisChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 TheAddamsFamily.us@SD	primary=grabber-epg	also_in=urls-epg
 TheAmazingRace.us@SD	primary=grabber-epg	also_in=urls-epg
 TheAndyGriffithShow.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -306,10 +304,9 @@ TotallyTurtles.us@US	primary=grabber-epg	also_in=urls-epg
 TribecaChannel.us@SD	primary=grabber-epg	also_in=urls-epg
 TrueCrimeNow.us@SD	primary=grabber-epg	also_in=urls-epg
 USANetwork.us@East	primary=grabber-epg	also_in=urls-epg
-UniMas.us@WXTVDT	primary=grabber-epg	also_in=urls-epg
 Unidentified.us@SD	primary=grabber-epg	also_in=urls-epg
 UniversalCrime.us@East	primary=grabber-epg	also_in=urls-epg
-Univision.us@West	primary=grabber-epg	also_in=urls-epg
+Univision.us@East	primary=grabber-epg	also_in=urls-epg
 UnivisionTlnovelas.us@SD	primary=grabber-epg	also_in=urls-epg
 UnsolvedMysteries.us@US	primary=grabber-epg	also_in=urls-epg
 VICETV.us@SD	primary=grabber-epg	also_in=urls-epg
@@ -336,4 +333,4 @@ YahooFinance.us@SD	primary=grabber-epg	also_in=urls-epg
 YesNetwork.us@SD	primary=grabber-epg	also_in=urls-epg
 beINSPORTSXTRA.us@SD	primary=grabber-epg	also_in=urls-epg
 bonappetit.us@SD	primary=grabber-epg	also_in=urls-epg
-truTV.us@East	primary=grabber-epg	also_in=urls-epg
+truTV.us@West	primary=grabber-epg	also_in=urls-epg
