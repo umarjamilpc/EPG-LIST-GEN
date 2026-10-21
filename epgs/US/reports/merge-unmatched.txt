@@ -21,7 +21,6 @@ ABC.us@KAAL
 ABC.us@KEROTV
 ABC.us@KGTV
 ABC.us@KGUNTV
-ABC.us@KITV
 ABC.us@KMGHTV
 ABC.us@KOATTV
 ABC.us@KRGVTV
@@ -29,6 +28,7 @@ ABC.us@KSTPTV
 ABC.us@KXXV
 ABC.us@WBBJTV
 ABC.us@WBRZTV
+ABC.us@WDIODT
 ABC.us@WFTV
 ABC.us@WISNTV
 ABC.us@WJLATV
@@ -87,7 +87,7 @@ AccessSacramentoChannel17.us@SD
 AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
-AceTV.us@SD
+AceTV.us@KCKSLD
 Akaku53.us@SD
 Akaku54.us@SD
 Akaku55.us@SD
@@ -152,7 +152,7 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BotflixRadioo.us@HD
@@ -172,7 +172,7 @@ CBS.us@KWTVDT
 CBS.us@KZTV
 CBS.us@WCBITV
 CBS.us@WDEFTV
-CBS.us@WHIOTV
+CBS.us@WJAXTV
 CBS.us@WKRCTV
 CBS.us@WPEC
 CBS.us@WTVRTV
@@ -190,7 +190,7 @@ CMAPChannel18.us@SD
 CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
-CNN.us@HD
+CNN.us@SD
 COStv.us@SD
 CSIMiami.us@SD
 CSIMiamienespanol.us@SD
@@ -273,9 +273,8 @@ DrGeneScott.us@SD
 DuckHuntingTV.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
-ESPN.us@HD
-ESPNU.us@SD
-EWTN.us@English
+ESPN.us@SD
+EWTN.us@Spanish
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -309,12 +308,13 @@ Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
 Fox.us@WITI
+Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WSVN
 Fox.us@WTTG
-Fox.us@WTVT
 Fox.us@WTXFTV
 Fox.us@WXXVTV
+Fox.us@West
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
 FunRoads.us@SD
@@ -325,7 +325,7 @@ GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
 Galavision.us@EastHD
-Galavision.us@West
+Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GanjeHozourTV.us@SD
 GenesisScienceNetwork.us@SD
@@ -352,13 +352,13 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
-Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -514,7 +514,7 @@ NBC.us@WRDELD
 NBC.us@WTLV
 NBC.us@WTMJTV
 NBC.us@WTOVTV
-NBC.us@WVIT
+NBC.us@WTVJ
 NBC.us@West
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -541,6 +541,7 @@ News12PlusHudsonValley.us@HD
 News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
+Newsmax2.us@KPVMLD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -562,9 +563,9 @@ PBCTapeshTV.us@SD
 PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
+PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
-PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
 PBS.us@WNJT
@@ -625,7 +626,7 @@ RadioTelePuissance.us@SD
 RadioTeleSentinel.us@SD
 RadioTeleWisdom.us@SD
 RadioyTelevisionMarti.us@SD
-RealAmericasVoice.us@KPVMLD
+RealAmericasVoice.us@SD
 RedADvenirTV.bo@KSCE
 RedApple21.us@SD
 RevryQueer.us@SD
@@ -684,7 +685,8 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@East
+TBS.us@West
+TCM.us@East
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
@@ -693,7 +695,7 @@ TSTV.us@SD
 TUTV.us@SD
 TV4.us@SD
 TVDaja.do@SD
-TVEInternacionalAmerica.es@HD
+TVEInternacionalAmerica.es@SD
 TVHispanic.us@SD
 TVPanou.ht@SD
 TVSAGovernmentChannel.us@SD
@@ -720,11 +722,10 @@ Telemundo.us@East
 Telemundo.us@EastHD
 Telemundo.us@KNSD
 Telemundo.us@WCAU
-Telemundo.us@West
+Telemundo.us@WTMOCD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
 TeveVidaNetwork.us@SD
 TheBurbankChannel.us@SD
 TheChatShowChannel.uk@SD
@@ -748,13 +749,10 @@ TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
 UniMas.us@Central
-UniMas.us@KFTRDT
-UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WAMIDT
 UniMas.us@WFUTDT
-Univision.us@East
-Univision.us@EastHD
+UniMas.us@WXTVDT
 Univision.us@KMEXDT
 Univision.us@WGBODT
 Univision.us@WLTVDT
@@ -795,7 +793,7 @@ WhiplashII.us@SD
 WhitePlainsCommunityMedia.us@SD
 WillametteFallsMediaCenter.us@SD
 WindowTV.us@SD
-WorldChannel.us@SD
+WorldChannel.us@WGTV
 WorldHarvestTV.us@SD
 YTATV.us@SD
 YouDotGov.us@SD
