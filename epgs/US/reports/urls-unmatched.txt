@@ -95,7 +95,7 @@ AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
 AccuWeatherNOW.us@SD
-AceTV.us@KCKSLD
+AceTV.us@SD
 AdrenalinaPuraTV.us@SD
 AfroLandTV.us@SD
 Akaku53.us@SD
@@ -181,7 +181,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -338,7 +338,7 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESNETV.us@SD
-ESPN.us@SD
+ESPN.us@HD
 EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
@@ -348,7 +348,7 @@ EntertainmentTonight.us@SD
 EntrepreneurTV.us@SD
 EscambiaCountyTV.us@SD
 EstrellaGames.us@SD
-EstrellaTV.us@SD
+EstrellaTV.us@WMBCTV
 ExtremaTV.us@SD
 FCPublicMedia.us@SD
 FCTV.us@SD
@@ -380,9 +380,9 @@ Fox.us@WFXT
 Fox.us@WHBQTV
 Fox.us@WITI
 Fox.us@WJBK
+Fox.us@WNYW
 Fox.us@WSVN
 Fox.us@WTTG
-Fox.us@WTVT
 Fox.us@WTXFTV
 Fox.us@WXXVTV
 Fox.us@West
@@ -429,7 +429,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -672,7 +672,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@SD
+OANPlus.us@KPVMLD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -682,7 +682,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -696,8 +696,8 @@ PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
+PBS.us@WEDQ
 PBS.us@WJXT
-PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
 PBSKidsHawaii.us@SD
@@ -831,7 +831,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@WCIUTV
+StoryTelevision.us@KPVMLD
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -844,7 +844,7 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@West
+TBS.us@East
 TCM.us@West
 TCT.us@SD
 TLNMediaChicago.us@SD
@@ -908,7 +908,7 @@ TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -937,7 +937,7 @@ ToonamiAftermath.us@East
 Tooncast.us@SD
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
-TrueCrimeNetwork.us@SD
+TrueCrimeNetwork.us@WCVBTV
 TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
@@ -954,8 +954,8 @@ UniversalCinema.us@SD
 UniversalComedy.us@SD
 Univision.us@East
 Univision.us@EastHD
+Univision.us@KMEXDT
 Univision.us@WGBODT
-Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
