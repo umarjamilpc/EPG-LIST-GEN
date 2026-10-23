@@ -27,7 +27,6 @@ BeverlyHills90210.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 BilliardTV.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 BlackInkCrew.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 BlazeLive.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-BloombergOriginals.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 BlueBloods.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 Boomerang.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 BounceXL.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
@@ -51,7 +50,6 @@ CBSSportsHQ.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 CMT.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 CMTEqualPlay.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 CNBC.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-CNN.us@HD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 CNNOriginals.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 CSI.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 CartoonNetwork.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
@@ -97,7 +95,7 @@ FlicksofFury.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 FoodNetwork.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 ForensicFiles.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 ForeverKids.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-Fox.us@WHBQTV	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
+Fox.us@KOKHTV	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 FoxNewsChannel.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 FoxSports1.us@HD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 FoxSports2.us@HD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
@@ -161,10 +159,9 @@ NFLNetwork.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 NHLNetwork.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 Naruto.us@US	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 NashBridges.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-NationalGeographic.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 NationalGeographicWild.us@HDEast	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 News12NewYork.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-Newsmax2.us@KPVMLD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
+Newsmax2.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 NewsmaxTV.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 NickJr.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 Nickelodeon.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
@@ -174,9 +171,8 @@ Nosey.us@US	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 OANPlus.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 OWN.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 OnePiece.us@US	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-OutdoorChannel.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
+OutdoorChannel.us@HD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 PBRRidePass.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-PBS.us@KUONTV	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 PBSAntiquesRoadshow.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 PBSNature.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 PGATour.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
@@ -237,11 +233,10 @@ StarzCinema.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 StarzComedy.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 StoriesbyAMC.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 Survivor.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-TBS.us@West	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
+TBS.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 TCM.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 TGJunior.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 TMZ.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
-TNT.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 TODAYAllDay.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 TVLandDrama.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 TVLandSitcoms.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
@@ -276,6 +271,7 @@ TrueCrimeNow.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 USANetwork.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 Unidentified.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 UniversalCrime.us@East	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
+Univision.us@WLTVDT	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 UnsolvedMysteries.us@US	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 VICETV.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
 Vevo2K.us@SD	primary=epg-xdbezrvvbu.xml.gz	also_in=guide.xml.gz
