@@ -29,7 +29,6 @@ ABC.us@KOATTV
 ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
-ABC.us@WBBJTV
 ABC.us@WBRZTV
 ABC.us@WDIODT
 ABC.us@WFTV
@@ -37,6 +36,7 @@ ABC.us@WISNTV
 ABC.us@WJLATV
 ABC.us@WLOS
 ABC.us@WMARTV
+ABC.us@WMURTV
 ABC.us@WPDETV
 ABC.us@WSOCTV
 ABC.us@WSYX
@@ -151,6 +151,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
+BabyFirst.us@Spanish
 BabyTV.uk@LatinAmerica
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -169,9 +170,8 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@PoliticsLiveEvent
-BloombergTV.us@US
 Bonanza.us@SD
 BotflixRadioo.us@HD
 BotflixTV.us@HD
@@ -321,6 +321,7 @@ FGTV.us@SD
 FITE247.us@SD
 FNX.us@KVCRDT
 FNX.us@SD
+FairgroundAICreatorTV.us@SD
 FaithTV.us@SD
 FashionFinds.us@SD
 FeelGoodDrama.us@SD
@@ -329,7 +330,6 @@ FierroaFondoTV.us@SD
 FilAmTVNetwork.us@HD
 FlowersTVUSA.us@SD
 Fox.us@KBSI
-Fox.us@KCPQ
 Fox.us@KDFW
 Fox.us@KMPHTV
 Fox.us@KOKHTV
@@ -342,6 +342,7 @@ Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
 Fox.us@WITI
+Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WSVN
 Fox.us@WTTG
@@ -504,7 +505,7 @@ MCN6MusicChannel.us@SD
 MCPSSTV.us@SD
 MLBStrikeZone.us@SD
 MMATV.us@SD
-MNT.us@WFLD
+MNT.us@WCIV
 MRVTVChannel44.us@SD
 MRVTVChannel45.us@SD
 MSTV.us@SD
@@ -548,6 +549,7 @@ MysteryScienceTheater3000.us@SD
 NATTV.us@SD
 NBC.us@KNTV
 NBC.us@KRISTV
+NBC.us@KSBW
 NBC.us@KSBY
 NBC.us@KSHBTV
 NBC.us@KSNV
@@ -558,7 +560,6 @@ NBC.us@WGAL
 NBC.us@WGBATV
 NBC.us@WHECTV
 NBC.us@WJACTV
-NBC.us@WJAR
 NBC.us@WLIO
 NBC.us@WMAQTV
 NBC.us@WMGTTV
@@ -589,6 +590,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
+NationalGeographic.us@East
 NewChannel.ca@SD
 NewChannelPop.ca@SD
 News12Bronx.us@SD
@@ -603,7 +605,7 @@ News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
 News12Westchester.us@SD
-Newsmax2.us@KPVMLD
+Newsmax2.us@SD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -624,7 +626,7 @@ Outlaw.us@WGGSTV
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBS.us@KETS
+PBS.us@East
 PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
@@ -770,7 +772,6 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@West
 TCM.us@West
 TCT.us@SD
 TLN.ca@KQSL
@@ -806,10 +807,10 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 TeleXitos.us@SD
-Telemundo.us@EastHD
 Telemundo.us@KNSD
 Telemundo.us@WCAU
 Telemundo.us@WTMOCD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -845,15 +846,16 @@ TrueCrimeNetwork.us@WCVBTV
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-UniMas.us@Central
 UniMas.us@KFTRDT
 UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WAMIDT
 UniMas.us@WFUTDT
+UniMas.us@WXTVDT
+Univision.us@East
 Univision.us@EastHD
-Univision.us@KMEXDT
 Univision.us@WGBODT
+Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
@@ -895,7 +897,7 @@ WhitePlainsCommunityMedia.us@SD
 WillametteFallsMediaCenter.us@SD
 Willow.us@SD
 WindowTV.us@SD
-WorldChannel.us@WGTV
+WorldChannel.us@SD
 WorldHarvestTV.us@SD
 YTATV.us@SD
 YouDotGov.us@SD
@@ -910,3 +912,4 @@ ZoomNews.us@SD
 iHolyfieldTV.us@WHPSCD
 pocketwatch.us@SD
 theDoveTV.us@SD
+truTV.us@West
