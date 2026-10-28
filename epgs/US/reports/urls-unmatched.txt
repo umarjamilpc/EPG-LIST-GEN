@@ -162,7 +162,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@US
+BabyFirst.us@Spanish
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -181,7 +181,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -338,8 +338,9 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESNETV.us@SD
-ESPN.us@SD
-EWTN.us@Spanish
+ESPN.us@HD
+ESTV.us@SD
+EWTN.us@English
 ElRey.us@SD
 ElSembradorNuevaEvangelizacionESNE.us@SD
 ElbesharaGTV.us@SD
@@ -374,7 +375,6 @@ Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KTBC
 Fox.us@KTTV
-Fox.us@WBFF
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
@@ -384,6 +384,7 @@ Fox.us@WNYW
 Fox.us@WSVN
 Fox.us@WTTG
 Fox.us@WTVT
+Fox.us@WTXFTV
 Fox.us@WXXVTV
 Fox.us@West
 FoxBusinessNetwork.us@SD
@@ -397,8 +398,8 @@ GCOtv.us@SD
 GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@EastHD
 Galavision.us@West
+Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
 GanjeHozourTV.us@SD
@@ -469,6 +470,7 @@ JusHindi.us@SD
 JusOne.us@SD
 JusPunjabi.us@SD
 JustforLaughsGags.us@SD
+JusticeCentralTV.us@SD
 KBEV.us@SD
 KBRI8.us@SD
 KBSV231.us@SD
@@ -561,6 +563,7 @@ MCPSSTV.us@SD
 MMATV.us@SD
 MNT.us@WCIV
 MNT.us@WFLD
+MNT.us@WOIO
 MRVTVChannel44.us@SD
 MRVTVChannel45.us@SD
 MSG.us@SD
@@ -648,7 +651,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 NewChannel.ca@SD
 NewChannelPop.ca@SD
 News12Conneticut.us@SD
@@ -689,13 +692,13 @@ PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
 PBS.us@East
 PBS.us@KETS
-PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
+PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
 PBSKidsHawaii.us@SD
@@ -774,9 +777,9 @@ RevandRoll.us@SD
 RevryLatinX.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
-Roar.us@KCWX
 Roar.us@KOKITV
 Roar.us@SD
+Roar.us@WKEF
 Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
@@ -829,7 +832,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@WCIUTV
+StoryTelevision.us@KPVMLD
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -842,8 +845,8 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@East
-TCM.us@West
+TBS.us@West
+TCM.us@East
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
@@ -899,14 +902,14 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@East
 Telemundo.us@EastHD
-Telemundo.us@KNSD
+Telemundo.us@WCAU
 Telemundo.us@WTMOCD
 Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -916,6 +919,7 @@ TheChatShowChannel.uk@SD
 TheCityofMarina.us@SD
 TheDoctors.us@HD
 TheFirstTV.us@SD
+TheGrioTV.us@SD
 TheHillTV.us@SD
 TheLoop.us@SD
 TheMontereyChannel.us@SD
@@ -931,7 +935,7 @@ ThreesCompany.us@SD
 TimelessTV.us@SD
 TinTV.us@SD
 TomAndJerry.do@HD
-ToonamiAftermath.us@East
+ToonamiAftermath.us@West
 Tooncast.us@SD
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
@@ -942,7 +946,7 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
-UniMas.us@Central
+UniMas.us@KFTRDT
 UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WAMIDT
@@ -952,7 +956,7 @@ UniversalCinema.us@SD
 UniversalComedy.us@SD
 Univision.us@East
 Univision.us@EastHD
-Univision.us@WGBODT
+Univision.us@KMEXDT
 Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
