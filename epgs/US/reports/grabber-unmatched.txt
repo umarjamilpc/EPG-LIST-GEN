@@ -26,10 +26,10 @@ ABC.us@KGUNTV
 ABC.us@KITV
 ABC.us@KMGHTV
 ABC.us@KOATTV
+ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
 ABC.us@WBBJTV
-ABC.us@WBRZTV
 ABC.us@WDIODT
 ABC.us@WFTV
 ABC.us@WISNTV
@@ -151,6 +151,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
+BabyFirst.us@Spanish
 BabyTV.uk@LatinAmerica
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -183,6 +184,7 @@ CANTV36.us@SD
 CBNEspanol.us@SD
 CBNFamily.us@SD
 CBNNews.us@SD
+CBS.us@KCCI
 CBS.us@KIROTV
 CBS.us@KMTVTV
 CBS.us@KUTV
@@ -191,7 +193,6 @@ CBS.us@KZTV
 CBS.us@WCBITV
 CBS.us@WDEFTV
 CBS.us@WHIOTV
-CBS.us@WJAXTV
 CBS.us@WKRCTV
 CBS.us@WPEC
 CBS.us@WTVRTV
@@ -346,11 +347,11 @@ Fox.us@WHBQTV
 Fox.us@WITI
 Fox.us@WJBK
 Fox.us@WNYW
-Fox.us@WSVN
 Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
 Fox.us@WXXVTV
+Fox.us@West
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
 FreebieTV.us@SD
@@ -394,7 +395,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@West
+HSN.us@East
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMystery.us@East
@@ -511,7 +512,7 @@ MCPSSTV.us@SD
 MLBStrikeZone.us@SD
 MMATV.us@SD
 MNT.us@WCIV
-MNT.us@WOIO
+MNT.us@WFLD
 MRVTVChannel44.us@SD
 MRVTVChannel45.us@SD
 MSTV.us@SD
@@ -600,7 +601,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 NewChannel.ca@SD
 NewChannelPop.ca@SD
 News12Bronx.us@SD
@@ -637,12 +638,12 @@ Outlaw.us@WGGSTV
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
+PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
-PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
 PBS.us@WNJT
@@ -789,7 +790,6 @@ TCT.us@SD
 TLN.ca@KQSL
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@West
 TNTInternational.ru@SD
 TNTSports4.uk@SD
 TSTV.us@SD
@@ -828,7 +828,7 @@ Telemundo.us@WTMOCD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TennisChannel2.us@SD
 TeveVidaNetwork.us@SD
 TheArchive.us@SD
@@ -837,7 +837,6 @@ TheChatShowChannel.uk@SD
 TheCityofMarina.us@SD
 TheCountryNetwork.us@SD
 TheDoctors.us@HD
-TheFilmDetective.us@SD
 TheLoop.us@SD
 TheMontereyChannel.us@SD
 TheNowNetwork.us@SD
@@ -863,14 +862,15 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 UniMas.us@Central
 UniMas.us@KFTRDT
-UniMas.us@KUVNDT
 UniMas.us@Mountain
+UniMas.us@WAMIDT
 UniMas.us@WFUTDT
 UniMas.us@WXTVDT
-Univision.us@East
 Univision.us@EastHD
 Univision.us@KMEXDT
+Univision.us@WGBODT
 Univision.us@WLTVDT
+Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD
