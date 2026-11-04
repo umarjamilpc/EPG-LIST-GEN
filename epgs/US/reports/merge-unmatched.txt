@@ -28,6 +28,7 @@ ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
 ABC.us@WBBJTV
+ABC.us@WBRZTV
 ABC.us@WDIODT
 ABC.us@WFTV
 ABC.us@WISNTV
@@ -36,7 +37,6 @@ ABC.us@WLOS
 ABC.us@WMARTV
 ABC.us@WMURTV
 ABC.us@WPDETV
-ABC.us@WSOCTV
 ABC.us@WSYX
 ABC.us@WTNH
 ABC.us@WTVQDT
@@ -87,7 +87,7 @@ AccessSacramentoChannel17.us@SD
 AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
-AceTV.us@KCKSLD
+AceTV.us@SD
 Akaku53.us@SD
 Akaku54.us@SD
 Akaku55.us@SD
@@ -138,7 +138,6 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@Spanish
 BarkTV.us@SD
 BattlestarGalactica.us@SD
 BeachTVFloridaAlabama.us@SD
@@ -153,7 +152,6 @@ BetterLifeTV.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BotflixRadioo.us@HD
@@ -174,7 +172,7 @@ CBS.us@KZTV
 CBS.us@WCBITV
 CBS.us@WDEFTV
 CBS.us@WHIOTV
-CBS.us@WKRCTV
+CBS.us@WJAXTV
 CBS.us@WPEC
 CBS.us@WTVRTV
 CBS.us@WWMT
@@ -191,6 +189,7 @@ CMAPChannel18.us@SD
 CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
+CNN.us@HD
 COStv.us@SD
 CSIMiami.us@SD
 CSIMiamienespanol.us@SD
@@ -308,13 +307,11 @@ Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
 Fox.us@WITI
-Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
 Fox.us@WXXVTV
-Fox.us@West
 FoxNewsRadio.us@SD
 FreebieTV.us@SD
 FunRoads.us@SD
@@ -352,14 +349,13 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HappyKids.us@SD
 HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
-Heartland.us@Eastern
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -490,7 +486,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-Movies.us@SD
+Movies.us@KPVMLD
 MuslimNetworkTV.us@SD
 NATTV.us@SD
 NBC.us@KNTV
@@ -517,11 +513,9 @@ NBC.us@WPTVTV
 NBC.us@WPXI
 NBC.us@WRDELD
 NBC.us@WTLV
-NBC.us@WTMJTV
 NBC.us@WTOVTV
 NBC.us@WTVJ
 NBC.us@WVIT
-NBC.us@West
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
 NCMMainChannel.us@SD
@@ -567,12 +561,11 @@ OutdoorChannel.us@HD
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
-PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
+PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
 PBS.us@WNJT
@@ -638,9 +631,9 @@ RedADvenirTV.bo@KSCE
 RedApple21.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
+Roar.us@KCWX
 Roar.us@KOKITV
 Roar.us@SD
-Roar.us@WKEF
 Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 SCCurrents.us@SD
@@ -659,7 +652,7 @@ SPTV.us@SD
 SUMtvEnglish.us@SD
 SUMtvLatino.us@SD
 SanskarUSA.in@SD
-ScientologyNetwork.us@SD
+ScientologyNetwork.us@KSCNTV
 ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
@@ -679,7 +672,7 @@ StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
 StarTrekVoyager.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@WCIUTV
+StoryTelevision.us@KPVMLD
 StrykTV.us@HD
 SwamijiTVAmerican.at@SD
 TAPTVChannel23.us@SD
@@ -690,10 +683,11 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@West
+TCM.us@West
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
+TNT.us@West
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -723,13 +717,11 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
-Telemundo.us@KNSD
 Telemundo.us@WCAU
 Telemundo.us@WTMOCD
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@Plus2
 TeveVidaNetwork.us@SD
 TheBurbankChannel.us@SD
 TheChatShowChannel.uk@SD
@@ -746,7 +738,7 @@ Thornton8.us@SD
 TimelessTV.us@SD
 TinTV.us@SD
 TomAndJerry.do@HD
-ToonamiAftermath.us@West
+ToonamiAftermath.us@East
 TopStoriesbyNewsy.us@SD
 TrueCrimeNetwork.us@SD
 TurismoHD.do@HD
@@ -754,10 +746,9 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 UniMas.us@Central
 UniMas.us@KFTRDT
+UniMas.us@KUVNDT
 UniMas.us@Mountain
 UniMas.us@WAMIDT
-UniMas.us@WFUTDT
-UniMas.us@WXTVDT
 Univision.us@EastHD
 Univision.us@KMEXDT
 Univision.us@WGBODT
@@ -813,4 +804,4 @@ ZarinTV.us@SD
 ZoomNews.us@SD
 iHolyfieldTV.us@WHPSCD
 theDoveTV.us@SD
-truTV.us@West
+truTV.us@East
