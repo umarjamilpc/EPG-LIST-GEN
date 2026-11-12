@@ -29,12 +29,12 @@ ABC.us@KOATTV
 ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
-ABC.us@WBBJTV
 ABC.us@WBRZTV
 ABC.us@WDIODT
 ABC.us@WFTV
 ABC.us@WISNTV
 ABC.us@WJLATV
+ABC.us@WLOS
 ABC.us@WMARTV
 ABC.us@WMURTV
 ABC.us@WPDETV
@@ -172,9 +172,7 @@ Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
-BloombergTV.us@LiveEvent
-BloombergTV.us@PoliticsLiveEvent
+BloombergTV.us@US
 Bonanza.us@SD
 BotflixRadioo.us@HD
 BotflixTV.us@HD
@@ -194,9 +192,9 @@ CBS.us@KWTVDT
 CBS.us@KZTV
 CBS.us@WCBITV
 CBS.us@WDEFTV
-CBS.us@WHIOTV
 CBS.us@WJAXTV
 CBS.us@WKRCTV
+CBS.us@WPEC
 CBS.us@WTVRTV
 CBS.us@WWMT
 CBSenespanol.us@SD
@@ -213,7 +211,7 @@ CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
 CMTV.us@SD
-CNN.us@HD
+CNN.us@SD
 COStv.us@SD
 CSIMiami.us@SD
 CSIMiamienespanol.us@SD
@@ -342,6 +340,7 @@ Fox.us@KOKHTV
 Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KTBC
+Fox.us@KTTV
 Fox.us@WBFF
 Fox.us@WFTXTV
 Fox.us@WFXT
@@ -352,7 +351,7 @@ Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
-Fox.us@WXXVTV
+Fox.us@West
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FreeSpeechTV.us@SD
@@ -560,10 +559,9 @@ MuslimNetworkTV.us@SD
 MyDestinationTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
-NBC.us@East
+NBC.us@KNTV
 NBC.us@KRISTV
 NBC.us@KSBW
-NBC.us@KSBY
 NBC.us@KSHBTV
 NBC.us@KSNV
 NBC.us@KXASTV
@@ -623,7 +621,7 @@ NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
 NorCastWeather.us@HD
-OANPlus.us@SD
+OANPlus.us@KPVMLD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -633,11 +631,12 @@ OmideIranTV.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@HD
 Outlaw.us@WGGSTV
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBS.us@KETS
+PBS.us@East
 PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
@@ -785,12 +784,12 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TCM.us@East
+TBS.us@West
+TCM.us@West
 TCT.us@SD
 TLN.ca@KQSL
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@East
 TNTInternational.ru@SD
 TNTSports4.uk@SD
 TSTV.us@SD
@@ -861,7 +860,7 @@ TrueCrimeNetwork.us@WCVBTV
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
 UCTV.us@SD
-UniMas.us@KUVNDT
+UniMas.us@KFTRDT
 UniMas.us@Mountain
 UniMas.us@WFUTDT
 UniMas.us@WXTVDT
@@ -909,7 +908,7 @@ WhitePlainsCommunityMedia.us@SD
 WillametteFallsMediaCenter.us@SD
 Willow.us@SD
 WindowTV.us@SD
-WorldChannel.us@WGTV
+WorldChannel.us@SD
 WorldHarvestTV.us@SD
 YTATV.us@SD
 YouDotGov.us@SD
@@ -923,4 +922,3 @@ ZoomNews.us@SD
 iHolyfieldTV.us@WHPSCD
 pocketwatch.us@SD
 theDoveTV.us@SD
-truTV.us@East
