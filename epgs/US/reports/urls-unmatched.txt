@@ -182,7 +182,7 @@ BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -226,7 +226,7 @@ CMAPChannel18.us@SD
 CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
-CNN.us@SD
+CNN.us@HD
 CNNenEspanol.us@SD
 COStv.us@SD
 CSIMiami.us@SD
@@ -251,7 +251,7 @@ CampSpoopy.us@SD
 CanaldelaFe.us@SD
 CanelaTV.us@SD
 CapitalCityConnectionMontgomery.us@SD
-CartoonNetwork.us@East
+CartoonNetwork.us@West
 CatholicFaithNetwork.us@SD
 CelebrityNameGame.us@SD
 CelebritySceneTV.us@SD
@@ -340,7 +340,7 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESNETV.us@SD
-ESPN.us@HD
+ESPN.us@SD
 ESTV.us@SD
 EWTN.us@Spanish
 ElRey.us@SD
@@ -381,12 +381,12 @@ Fox.us@WBFF
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
-Fox.us@WITI
 Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
+Fox.us@WXXVTV
 Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
@@ -433,7 +433,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -604,7 +604,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-Movies.us@SD
+Movies.us@KPVMLD
 MrBeanAnimated.uk@English
 MuslimNetworkTV.us@SD
 MyTimeMovieNetworkEast.us@SD
@@ -694,7 +694,7 @@ Overtime.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
 PBS.us@East
-PBS.us@KHET
+PBS.us@KETS
 PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
@@ -780,10 +780,10 @@ RevandRoll.us@SD
 RevryLatinX.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
+Roar.us@KCWX
 Roar.us@KOKITV
 Roar.us@SD
 Roar.us@WKEF
-Roar.us@WSBTTV
 RockyHillChannel16.us@SD
 Runtime.us@SD
 RuntimeEspanol.us@SD
@@ -806,7 +806,7 @@ SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
 ScientologyNetwork.us@KSCNTV
-ScientologyNetwork.us@SD
+ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
 SemillitasTV.us@SD
@@ -848,11 +848,11 @@ TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
 TBS.us@West
-TCM.us@East
+TCM.us@West
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@West
+TNT.us@East
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -902,9 +902,9 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@EastHD
 Telemundo.us@KNSD
 Telemundo.us@WCAU
+Telemundo.us@WTMOCD
 Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
@@ -937,10 +937,10 @@ TimelessTV.us@SD
 TinTV.us@SD
 TomAndJerry.do@HD
 TomSingsTV.us@HD
-ToonamiAftermath.us@East
+ToonamiAftermath.us@West
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
-TrueCrimeNetwork.us@SD
+TrueCrimeNetwork.us@WCVBTV
 TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
@@ -954,9 +954,9 @@ UniMas.us@WXTVDT
 UniversalCinema.us@SD
 UniversalComedy.us@SD
 Univision.us@East
-Univision.us@KMEXDT
 Univision.us@WGBODT
 Univision.us@WLTVDT
+Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
@@ -1034,4 +1034,4 @@ beINSportsUSA.us@SD
 iCarly.us@SD
 iHolyfieldTV.us@WHPSCD
 theDoveTV.us@SD
-truTV.us@West
+truTV.us@East
