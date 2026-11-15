@@ -83,7 +83,7 @@ ATXN2.us@SD
 ATXN3.us@SD
 AVIRewind.us@SD
 AWEInternational.us@SD
-AWEPlus.us@KPVMLD
+AWEPlus.us@SD
 AasthaInternational.in@SD
 AbsoluteRealitybyWETV.us@SD
 Access19.us@SD
@@ -181,8 +181,7 @@ BetterLifeTV.us@SD
 BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
-BlackNewsChannel.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -226,7 +225,7 @@ CMAPChannel18.us@SD
 CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
-CNN.us@HD
+CNN.us@SD
 CNNenEspanol.us@SD
 COStv.us@SD
 CSIMiami.us@SD
@@ -251,7 +250,7 @@ CampSpoopy.us@SD
 CanaldelaFe.us@SD
 CanelaTV.us@SD
 CapitalCityConnectionMontgomery.us@SD
-CartoonNetwork.us@East
+CartoonNetwork.us@West
 CatholicFaithNetwork.us@SD
 CelebrityNameGame.us@SD
 CelebritySceneTV.us@SD
@@ -340,9 +339,9 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESNETV.us@SD
-ESPN.us@HD
+ESPN.us@SD
 ESTV.us@SD
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElbesharaGTV.us@SD
 ElevationChurchNetwork.us@HD
@@ -372,7 +371,6 @@ Fox.us@KBSI
 Fox.us@KCPQ
 Fox.us@KDFW
 Fox.us@KMPHTV
-Fox.us@KOKHTV
 Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KTBC
@@ -388,6 +386,7 @@ Fox.us@WTTG
 Fox.us@WTVT
 Fox.us@WTXFTV
 Fox.us@WXXVTV
+Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
@@ -400,7 +399,7 @@ GCOtv.us@SD
 GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@EastHD
+Galavision.us@West
 Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
@@ -604,7 +603,7 @@ MonroeCommunityMediaEducationChannel.us@SD
 MonroeCommunityMediaPublicAccessChannel.us@SD
 MonroeCountyTV.us@SD
 MontgomeryChannel.us@SD
-Movies.us@KPVMLD
+Movies.us@SD
 MrBeanAnimated.uk@English
 MuslimNetworkTV.us@SD
 MyTimeMovieNetworkEast.us@SD
@@ -656,7 +655,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@East
+NationalGeographic.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -665,7 +664,7 @@ News12PlusHudsonValley.us@HD
 News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
-Newsmax2.us@KPVMLD
+Newsmax2.us@SD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -676,7 +675,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -693,8 +692,8 @@ OvercomersTV.us@SD
 Overtime.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBS.us@East
 PBS.us@KETS
+PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
@@ -780,7 +779,7 @@ RevandRoll.us@SD
 RevryLatinX.us@SD
 RevryQueer.us@SD
 RightNowTV.us@SD
-Roar.us@KCWX
+Roar.us@KOKITV
 Roar.us@SD
 Roar.us@WKEF
 Roar.us@WSBTTV
@@ -805,7 +804,7 @@ SUMtvLatino.us@SD
 SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
-ScientologyNetwork.us@KSCNTV
+ScientologyNetwork.us@SD
 ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
@@ -826,6 +825,7 @@ SonyMovies.us@SD
 SoundViewCommunityMedia.us@SD
 SpiritTV.us@SD
 StLuciePublicSchools.us@SD
+StarAction.us@SD
 StarChannelInternational.gr@HD
 StarTrekDeepSpaceNine.us@SD
 StarTrekTheNextGeneration.us@SD
@@ -904,8 +904,8 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
 Telemundo.us@KNSD
-Telemundo.us@WCAU
 Telemundo.us@WTMOCD
+Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
@@ -920,6 +920,7 @@ TheChatShowChannel.uk@SD
 TheCityofMarina.us@SD
 TheDoctors.us@HD
 TheFirstTV.us@SD
+TheGrioTV.us@FAST
 TheGrioTV.us@SD
 TheHillTV.us@SD
 TheLoop.us@SD
@@ -937,10 +938,10 @@ TimelessTV.us@SD
 TinTV.us@SD
 TomAndJerry.do@HD
 TomSingsTV.us@HD
-ToonamiAftermath.us@West
+ToonamiAftermath.us@East
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
-TrueCrimeNetwork.us@WCVBTV
+TrueCrimeNetwork.us@SD
 TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
@@ -950,7 +951,7 @@ Unbeaten.us@SD
 UniMas.us@KFTRDT
 UniMas.us@KUVNDT
 UniMas.us@Mountain
-UniMas.us@WXTVDT
+UniMas.us@WFUTDT
 UniversalCinema.us@SD
 UniversalComedy.us@SD
 Univision.us@East
