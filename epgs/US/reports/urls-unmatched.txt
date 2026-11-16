@@ -181,7 +181,7 @@ BetterLifeTV.us@SD
 BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -225,7 +225,7 @@ CMAPChannel18.us@SD
 CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
-CNN.us@SD
+CNN.us@HD
 CNNenEspanol.us@SD
 COStv.us@SD
 CSIMiami.us@SD
@@ -339,7 +339,7 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESNETV.us@SD
-ESPN.us@SD
+ESPN.us@HD
 ESTV.us@SD
 EWTN.us@English
 ElRey.us@SD
@@ -375,11 +375,11 @@ Fox.us@KOKHTV
 Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KTBC
-Fox.us@KTTV
 Fox.us@WBFF
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
+Fox.us@WITI
 Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
@@ -399,7 +399,7 @@ GCOtv.us@SD
 GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@West
+Galavision.us@EastHD
 Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
@@ -440,7 +440,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -664,7 +664,7 @@ News12PlusHudsonValley.us@HD
 News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
-Newsmax2.us@KPVMLD
+Newsmax2.us@SD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -675,7 +675,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -685,7 +685,7 @@ OmideIranTV.us@SD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -695,10 +695,10 @@ PBCTapeshTV.us@SD
 PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
-PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
+PBS.us@WEDQ
 PBS.us@WJXT
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
@@ -804,7 +804,7 @@ SUMtvLatino.us@SD
 SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
-ScientologyNetwork.us@KSCNTV
+ScientologyNetwork.us@SD
 ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
@@ -847,12 +847,12 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@East
+TBS.us@West
 TCM.us@East
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@East
+TNT.us@West
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -904,7 +904,7 @@ TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
 Telemundo.us@KNSD
-Telemundo.us@WTMOCD
+Telemundo.us@WCAU
 Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
@@ -938,10 +938,10 @@ TimelessTV.us@SD
 TinTV.us@SD
 TomAndJerry.do@HD
 TomSingsTV.us@HD
-ToonamiAftermath.us@West
+ToonamiAftermath.us@East
 TopStoriesbyNewsy.us@SD
 Tosh0.us@SD
-TrueCrimeNetwork.us@SD
+TrueCrimeNetwork.us@WCVBTV
 TrueHistory.us@SD
 TurismoHD.do@HD
 TyCSportsUSA.ar@SD
@@ -957,7 +957,7 @@ UniversalComedy.us@SD
 Univision.us@East
 Univision.us@KMEXDT
 Univision.us@WGBODT
-Univision.us@West
+Univision.us@WLTVDT
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
@@ -1035,4 +1035,4 @@ beINSportsUSA.us@SD
 iCarly.us@SD
 iHolyfieldTV.us@WHPSCD
 theDoveTV.us@SD
-truTV.us@West
+truTV.us@East
