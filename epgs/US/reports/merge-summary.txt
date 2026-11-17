@@ -1,6 +1,6 @@
 kind=merge
 matched_channels=688
-unmatched_channels=809
-duplicate_channels=342
+unmatched_channels=810
+duplicate_channels=341
 channel_nodes=688
-programmes=58352
+programmes=55887
