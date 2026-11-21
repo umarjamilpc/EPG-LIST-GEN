@@ -273,7 +273,7 @@ CampSpoopy.us@SD
 CanaldelaFe.us@SD
 CanelaTV.us@SD
 CapitalCityConnectionMontgomery.us@SD
-CartoonNetwork.us@West
+CartoonNetwork.us@East
 CatholicFaithNetwork.us@SD
 CelebrityNameGame.us@SD
 CelebritySceneTV.us@SD
@@ -364,7 +364,7 @@ EBSMusika.us@SD
 ESNETV.us@SD
 ESPN.us@SD
 ESTV.us@SD
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElbesharaGTV.us@SD
 ElevationChurchNetwork.us@HD
@@ -404,7 +404,6 @@ Fox.us@KTTV
 Fox.us@KVVUTV
 Fox.us@WAGATV
 Fox.us@WALATV
-Fox.us@WBFF
 Fox.us@WBRC
 Fox.us@WFTXTV
 Fox.us@WFXT
@@ -419,16 +418,17 @@ Fox.us@WTXFTV
 Fox.us@WVUEDT
 Fox.us@WXIXTV
 Fox.us@WXMI
+Fox.us@WXXVTV
 Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FoxWeather.us@KTVU
 FoxWeather.us@SD
-FoxWeather.us@WOFL
+FoxWeather.us@WFLD
 FreebieTV.us@SD
 FrightFlix.us@SD
-FuboSportsNetwork.us@SD
+FuboSportsNetwork.us@HD
 FunRoads.us@SD
 G10TV.us@SD
 GCNAmerica.us@SD
@@ -436,8 +436,8 @@ GCOtv.us@SD
 GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
+Galavision.us@EastHD
 Galavision.us@West
-Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
 GanjeHozourTV.us@SD
@@ -477,7 +477,7 @@ HappyKids.us@SD
 HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
-Heartland.us@Eastern
+Heartland.us@Web
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -701,7 +701,7 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
+NationalGeographic.us@East
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -710,7 +710,7 @@ News12PlusHudsonValley.us@HD
 News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
-Newsmax2.us@KPVMLD
+Newsmax2.us@SD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -721,7 +721,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -743,10 +743,10 @@ PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
-PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
+PBS.us@WJXT
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
@@ -830,8 +830,8 @@ RightNowTV.us@SD
 Roar.us@KCWX
 Roar.us@KOKITV
 Roar.us@SD
-Roar.us@WKEF
 Roar.us@WSBTTV
+Roar.us@WTVF
 RockyHillChannel16.us@SD
 Runtime.us@SD
 RuntimeEspanol.us@SD
@@ -902,7 +902,7 @@ TCM.us@East
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@East
+TNT.us@West
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -953,7 +953,7 @@ TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
 Telemundo.us@EastHD
-Telemundo.us@WCAU
+Telemundo.us@KNSD
 Telemundo.us@WTMOCD
 Telemundo.us@West
 TelemundoCorpusChristi.us@SD
@@ -1002,14 +1002,14 @@ UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
 UniMas.us@KFTRDT
-UniMas.us@KUVNDT
+UniMas.us@Mountain
 UniMas.us@WFUTDT
 UniMas.us@WXTVDT
 UniversalCinema.us@SD
 UniversalComedy.us@SD
 Univision.us@East
+Univision.us@KMEXDT
 Univision.us@WGBODT
-Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
@@ -1089,4 +1089,4 @@ beINSportsUSA.us@SD
 iCarly.us@SD
 iHolyfieldTV.us@WHPSCD
 theDoveTV.us@SD
-truTV.us@West
+truTV.us@East
