@@ -30,27 +30,18 @@ ABC.us@KGUNTV
 ABC.us@KITV
 ABC.us@KIVITV
 ABC.us@KMGHTV
-ABC.us@KOATTV
 ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
 ABC.us@WBAYTV
-ABC.us@WBBJTV
 ABC.us@WBRZTV
 ABC.us@WCPOTV
 ABC.us@WDIODT
 ABC.us@WEWSTV
 ABC.us@WFTV
-ABC.us@WISNTV
-ABC.us@WJLATV
-ABC.us@WLOS
 ABC.us@WMARTV
-ABC.us@WMURTV
-ABC.us@WPDETV
 ABC.us@WSBTV
 ABC.us@WSOCTV
-ABC.us@WSYX
-ABC.us@WTNH
 ABC.us@WTVQDT
 ABC.us@WTXLTV
 ABC.us@WWAY
@@ -105,7 +96,7 @@ AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
 AccuWeatherNOW.us@SD
-AceTV.us@SD
+AceTV.us@KCKSLD
 AdrenalinaPuraTV.us@SD
 AfroLandTV.us@SD
 Akaku53.us@SD
@@ -174,7 +165,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@Spanish
+BabyFirst.us@US
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -226,7 +217,6 @@ CBS.us@WDEFTV
 CBS.us@WFSB
 CBS.us@WHIOTV
 CBS.us@WJAXTV
-CBS.us@WKRCTV
 CBS.us@WKYTTV
 CBS.us@WPEC
 CBS.us@WTKR
@@ -248,7 +238,7 @@ CMAPChannel18.us@SD
 CMAPChannel19.us@SD
 CMAPChannel20.us@SD
 CMCUSACountryMusicChannel.us@SD
-CNN.us@HD
+CNN.us@SD
 CNNenEspanol.us@SD
 COStv.us@SD
 CSIMiami.us@SD
@@ -273,7 +263,7 @@ CampSpoopy.us@SD
 CanaldelaFe.us@SD
 CanelaTV.us@SD
 CapitalCityConnectionMontgomery.us@SD
-CartoonNetwork.us@East
+CartoonNetwork.us@West
 CatholicFaithNetwork.us@SD
 CelebrityNameGame.us@SD
 CelebritySceneTV.us@SD
@@ -406,6 +396,7 @@ Fox.us@KVVUTV
 Fox.us@WAGATV
 Fox.us@WALATV
 Fox.us@WBFF
+Fox.us@WBRC
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
@@ -415,7 +406,6 @@ Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
-Fox.us@WTXFTV
 Fox.us@WVUEDT
 Fox.us@WXIXTV
 Fox.us@WXMI
@@ -437,7 +427,7 @@ GCOtv.us@SD
 GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@EastHD
+Galavision.us@West
 Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
@@ -469,7 +459,7 @@ HCTVGovernmentChannel.us@SD
 HCTVPublicAccessChannel.us@SD
 HKTV.us@SD
 HMIPROMZNEWS.us@SD
-HSN.us@East
+HSN.us@West
 HTV1HoustonTelevision.us@SD
 HTV2HoustonTelevision.us@SD
 HallmarkMoviesMore.us@SD
@@ -571,7 +561,6 @@ LeominsterTVEducational.us@SD
 LeominsterTVGovernment.us@SD
 LeominsterTVPublic.us@SD
 LexTV.us@SD
-LifetimeMovies.us@East
 LifevisionTV.us@SD
 LindellTV.us@SD
 LittleGuyanaTV.us@SD
@@ -609,7 +598,6 @@ MNT.us@WFLD
 MNT.us@WOIO
 MRVTVChannel44.us@SD
 MRVTVChannel45.us@SD
-MSG.us@SD
 MSTV.us@SD
 MTC.us@SD
 MTVSpankinNew.us@US
@@ -701,7 +689,6 @@ NashuaETV.us@SD
 NatickEducationChannel.us@SD
 NatickGovernmentChannel.us@SD
 NatickPublicAccessChannel.us@SD
-NationalGeographic.us@HDEast
 News12Conneticut.us@SD
 News12LongIsland.us@SD
 News12NewJersey.us@SD
@@ -710,7 +697,7 @@ News12PlusHudsonValley.us@HD
 News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
-Newsmax2.us@SD
+Newsmax2.us@KPVMLD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -732,7 +719,7 @@ OnPatrolLive.us@HD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@HD
+OutdoorChannel.us@SD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
@@ -746,7 +733,7 @@ PBS.us@KMOSTV
 PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
-PBS.us@WEDQ
+PBS.us@WJXT
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
@@ -824,7 +811,6 @@ RealAmericasVoice.us@SD
 RealWild.uk@SD
 RedADvenirTV.bo@KSCE
 RedApple21.us@SD
-Reelz.us@SD
 ReelzFamousInfamous.us@HD
 RetroCrush.us@SD
 RetrovisionTV.do@HD
@@ -889,7 +875,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@WCIUTV
+StoryTelevision.us@KPVMLD
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -902,12 +888,12 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@East
+TBS.us@West
 TCM.us@West
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@East
+TNT.us@West
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -956,15 +942,11 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@EastHD
-Telemundo.us@WCAU
-Telemundo.us@WTMOCD
-Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@Plus2
+TennisChannel.us@SD
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -1012,8 +994,8 @@ UniMas.us@WFUTDT
 UniMas.us@WXTVDT
 UniversalCinema.us@SD
 UniversalComedy.us@SD
-Univision.us@East
 Univision.us@KMEXDT
+Univision.us@WGBODT
 Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD

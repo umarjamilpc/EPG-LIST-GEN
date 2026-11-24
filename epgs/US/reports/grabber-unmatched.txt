@@ -28,26 +28,17 @@ ABC.us@KGUNTV
 ABC.us@KITV
 ABC.us@KIVITV
 ABC.us@KMGHTV
-ABC.us@KOATTV
 ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
 ABC.us@WBAYTV
-ABC.us@WBBJTV
 ABC.us@WBRZTV
 ABC.us@WCPOTV
 ABC.us@WDIODT
 ABC.us@WEWSTV
-ABC.us@WISNTV
-ABC.us@WJLATV
-ABC.us@WLOS
+ABC.us@WFTV
 ABC.us@WMARTV
-ABC.us@WMURTV
-ABC.us@WPDETV
 ABC.us@WSBTV
-ABC.us@WSOCTV
-ABC.us@WSYX
-ABC.us@WTNH
 ABC.us@WTVQDT
 ABC.us@WTXLTV
 ABC.us@WWAY
@@ -122,6 +113,7 @@ AlkarmaTVYouthEnglish.us@SD
 AlmagdTVMiddleEast.us@SD
 AlmagdTVNorthAmerica.us@SD
 AmazingFactsTV.us@SD
+AmericaTeVe.us@SD
 AmericanHorrors.us@SD
 AmericanNinjaWarrior.us@SD
 AmericasNextTopModel.us@SD
@@ -161,6 +153,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
+BabyFirst.us@Spanish
 BabyTV.uk@LatinAmerica
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -178,8 +171,8 @@ BigBrother.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
-BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
+BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
 BotflixRadioo.us@HD
 BotflixTV.us@HD
@@ -213,7 +206,6 @@ CBS.us@WJAXTV
 CBS.us@WKYTTV
 CBS.us@WPEC
 CBS.us@WTKR
-CBS.us@WTVRTV
 CBS.us@WVLTTV
 CBS.us@WWMT
 CBSenespanol.us@SD
@@ -254,7 +246,6 @@ CanaldelaFe.us@SD
 CanelaTV.us@SD
 CapitalCityConnectionMontgomery.us@SD
 CarChase.us@SD
-CartoonNetwork.us@East
 CatholicFaithNetwork.us@SD
 CatholicTV.us@SD
 CelebritySceneTV.us@SD
@@ -330,7 +321,7 @@ Dynasty.us@SD
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESPN.us@HD
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElbesharaGTV.us@SD
 ElevationChurchNetwork.us@HD
@@ -368,6 +359,7 @@ Fox.us@KVVUTV
 Fox.us@WAGATV
 Fox.us@WALATV
 Fox.us@WBFF
+Fox.us@WBRC
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
@@ -377,7 +369,6 @@ Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
-Fox.us@WTXFTV
 Fox.us@WVUEDT
 Fox.us@WXIXTV
 Fox.us@WXMI
@@ -439,6 +430,7 @@ HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
+Heartland.us@Web
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
 HisGloryTV.us@SD
@@ -545,9 +537,8 @@ MCN6ArtsChannel.us@SD
 MCN6MainChannel.us@SD
 MCN6MusicChannel.us@SD
 MCPSSTV.us@SD
-MLBStrikeZone.us@SD
 MMATV.us@SD
-MNT.us@KPTV
+MNT.us@KCTV
 MNT.us@WCIV
 MNT.us@WFLD
 MNT.us@WOIO
@@ -597,7 +588,6 @@ MysteryScienceTheater3000.us@SD
 NATTV.us@SD
 NBC.us@East
 NBC.us@KJRHTV
-NBC.us@KNTV
 NBC.us@KOAATV
 NBC.us@KRISTV
 NBC.us@KSBW
@@ -605,7 +595,6 @@ NBC.us@KSBY
 NBC.us@KSHBTV
 NBC.us@KSNV
 NBC.us@KTVHDT
-NBC.us@KXASTV
 NBC.us@WBALTV
 NBC.us@WBTSCD
 NBC.us@WGAL
@@ -626,8 +615,8 @@ NBC.us@WRDELD
 NBC.us@WSMVTV
 NBC.us@WTMJTV
 NBC.us@WTOVTV
+NBC.us@WTVJ
 NBC.us@WVIT
-NBC.us@West
 NBCLXHome.us@HD
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -657,7 +646,7 @@ News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
 News12Westchester.us@SD
-Newsmax2.us@SD
+Newsmax2.us@KPVMLD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
@@ -675,11 +664,11 @@ OnPatrolLive.us@HD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@SD
 Outlaw.us@WGGSTV
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
@@ -687,6 +676,7 @@ PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
+PBS.us@WJXT
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
 PBSKidsEasternCentral.us@SD
@@ -833,11 +823,13 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
+TBS.us@West
 TCM.us@West
 TCT.us@SD
 TLN.ca@KQSL
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
+TNT.us@West
 TNTInternational.ru@SD
 TNTSports4.uk@SD
 TSTV.us@SD
@@ -867,10 +859,6 @@ Tapesh2.us@SD
 TeleBoston.us@SD
 TeleMIX.us@SD
 TelePam.us@SD
-Telemundo.us@EastHD
-Telemundo.us@WCAU
-Telemundo.us@WTMOCD
-Telemundo.us@West
 TelemundoCorpusChristi.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
@@ -880,12 +868,12 @@ TheArchive.us@SD
 TheBurbankChannel.us@SD
 TheCW.us@KTNVTV
 TheCW.us@KWCHDT
-TheCW.us@WAVE
+TheCW.us@WWBT
 TheChatShowChannel.uk@SD
 TheCityofMarina.us@SD
 TheCountryNetwork.us@SD
 TheDoctors.us@HD
-TheGrioTV.us@FAST
+TheGrioTV.us@SD
 TheLoop.us@SD
 TheMontereyChannel.us@SD
 TheNowNetwork.us@SD
@@ -914,8 +902,8 @@ UniMas.us@Mountain
 UniMas.us@WFUTDT
 UniMas.us@WXTVDT
 Univision.us@KMEXDT
+Univision.us@WGBODT
 Univision.us@WLTVDT
-Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
 VH1QueensofReality.us@SD
@@ -970,3 +958,4 @@ ZoomNews.us@SD
 iHolyfieldTV.us@WHPSCD
 pocketwatch.us@SD
 theDoveTV.us@SD
+truTV.us@East
