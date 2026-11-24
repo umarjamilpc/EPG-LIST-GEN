@@ -84,7 +84,7 @@ ATXN2.us@SD
 ATXN3.us@SD
 AVIRewind.us@SD
 AWEInternational.us@SD
-AWEPlus.us@SD
+AWEPlus.us@KPVMLD
 AasthaInternational.in@SD
 AbsoluteRealitybyWETV.us@SD
 Access19.us@SD
@@ -165,7 +165,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@US
+BabyFirst.us@Spanish
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -183,7 +183,7 @@ BetterLifeTV.us@SD
 BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
-BloombergOriginals.us@US
+BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -352,9 +352,9 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESNETV.us@SD
-ESPN.us@SD
+ESPN.us@HD
 ESTV.us@SD
-EWTN.us@English
+EWTN.us@Spanish
 ElRey.us@SD
 ElbesharaGTV.us@SD
 ElevationChurchNetwork.us@HD
@@ -386,7 +386,6 @@ Fox.us@KCPQ
 Fox.us@KDFW
 Fox.us@KMPHTV
 Fox.us@KMSPTV
-Fox.us@KOKHTV
 Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KSTU
@@ -406,6 +405,7 @@ Fox.us@WJBK
 Fox.us@WNYW
 Fox.us@WTTG
 Fox.us@WTVT
+Fox.us@WTXFTV
 Fox.us@WVUEDT
 Fox.us@WXIXTV
 Fox.us@WXMI
@@ -414,8 +414,8 @@ Fox.us@West
 FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
-FoxWeather.us@KTVU
 FoxWeather.us@SD
+FoxWeather.us@WFLD
 FoxWeather.us@WOFL
 FreebieTV.us@SD
 FrightFlix.us@SD
@@ -427,7 +427,7 @@ GCOtv.us@SD
 GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
-Galavision.us@West
+Galavision.us@EastHD
 Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
@@ -708,7 +708,7 @@ Nickelodeonenespanol.us@SD
 NinjaKidzTV.us@SD
 NorCastWeather.us@HD
 Novelisima.us@SD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -731,8 +731,8 @@ PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
-PBS.us@KUONTV
 PBS.us@KVIE
+PBS.us@WEDQ
 PBS.us@WJXT
 PBS.us@WNJT
 PBSKidsAlaska.us@SD
@@ -820,8 +820,8 @@ RevryQueer.us@SD
 RightNowTV.us@SD
 Roar.us@KCWX
 Roar.us@KOKITV
-Roar.us@SD
 Roar.us@WKEF
+Roar.us@WSBTTV
 Roar.us@WTVF
 RockyHillChannel16.us@SD
 Runtime.us@SD
@@ -893,7 +893,7 @@ TCM.us@West
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@West
+TNT.us@East
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -946,7 +946,7 @@ TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -988,15 +988,15 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 USATODAY.us@SD
 Unbeaten.us@SD
+UniMas.us@KFTRDT
 UniMas.us@KUVNDT
-UniMas.us@Mountain
 UniMas.us@WFUTDT
 UniMas.us@WXTVDT
 UniversalCinema.us@SD
 UniversalComedy.us@SD
+Univision.us@East
 Univision.us@KMEXDT
 Univision.us@WGBODT
-Univision.us@WLTVDT
 Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
