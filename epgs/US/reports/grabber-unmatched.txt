@@ -20,6 +20,7 @@
 3TV.us@KTVK
 90sKids.us@SD
 90sKidsTV2.us@SD
+ABC.us@East
 ABC.us@KAAL
 ABC.us@KATC
 ABC.us@KEROTV
@@ -28,7 +29,6 @@ ABC.us@KGUNTV
 ABC.us@KITV
 ABC.us@KIVITV
 ABC.us@KMGHTV
-ABC.us@KRGVTV
 ABC.us@KSTPTV
 ABC.us@KXXV
 ABC.us@WBAYTV
@@ -38,6 +38,7 @@ ABC.us@WDIODT
 ABC.us@WEWSTV
 ABC.us@WFTV
 ABC.us@WMARTV
+ABC.us@WSBTV
 ABC.us@WSOCTV
 ABC.us@WTVQDT
 ABC.us@WTXLTV
@@ -153,6 +154,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
+BabyFirst.us@Spanish
 BabyTV.uk@LatinAmerica
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -170,9 +172,7 @@ BigBrother.us@SD
 Binge.us@SD
 BizTV.us@SD
 BlackFamilySitcoms.us@SD
-BloombergOriginals.us@SD
 BloombergTV.us@LiveEvent
-BloombergTV.us@PoliticsLiveEvent
 Bonanza.us@SD
 BotflixRadioo.us@HD
 BotflixTV.us@HD
@@ -194,7 +194,6 @@ CBS.us@KPAXTV
 CBS.us@KRTV
 CBS.us@KTVQ
 CBS.us@KUTV
-CBS.us@KWTVDT
 CBS.us@KZTV
 CBS.us@WANF
 CBS.us@WCBITV
@@ -205,6 +204,7 @@ CBS.us@WHIOTV
 CBS.us@WJAXTV
 CBS.us@WKYTTV
 CBS.us@WPEC
+CBS.us@WTKR
 CBS.us@WTVRTV
 CBS.us@WVLTTV
 CBS.us@WWMT
@@ -299,7 +299,7 @@ DCCouncilHearingRoom120.us@SD
 DKN.us@SD
 DareToDreamNetwork.us@SD
 DatingDisasters.us@SD
-DaystarTV.us@WSLFLD
+DaystarTV.us@SD
 DePeliculaUS.us@SD
 DegaTV.us@SD
 Denver8TV.us@SD
@@ -349,6 +349,7 @@ Fox.us@KCPQ
 Fox.us@KDFW
 Fox.us@KMPHTV
 Fox.us@KMSPTV
+Fox.us@KOKHTV
 Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KSTU
@@ -358,7 +359,6 @@ Fox.us@KVVUTV
 Fox.us@WAGATV
 Fox.us@WALATV
 Fox.us@WBFF
-Fox.us@WBRC
 Fox.us@WFTXTV
 Fox.us@WFXT
 Fox.us@WHBQTV
@@ -538,9 +538,9 @@ MCN6MusicChannel.us@SD
 MCPSSTV.us@SD
 MMATV.us@SD
 MNT.us@KCTV
+MNT.us@KPTV
 MNT.us@WCIV
 MNT.us@WFLD
-MNT.us@WOIO
 MRVTVChannel44.us@SD
 MRVTVChannel45.us@SD
 MSTV.us@SD
@@ -585,6 +585,7 @@ MuslimNetworkTV.us@SD
 MyDestinationTV.us@SD
 MysteryScienceTheater3000.us@SD
 NATTV.us@SD
+NBC.us@East
 NBC.us@KJRHTV
 NBC.us@KNTV
 NBC.us@KOAATV
@@ -596,7 +597,7 @@ NBC.us@KSNV
 NBC.us@KTVHDT
 NBC.us@KXASTV
 NBC.us@WBALTV
-NBC.us@WBTSCD
+NBC.us@WGAL
 NBC.us@WGBATV
 NBC.us@WHECTV
 NBC.us@WJACTV
@@ -616,6 +617,7 @@ NBC.us@WTMJTV
 NBC.us@WTOVTV
 NBC.us@WTVJ
 NBC.us@WVIT
+NBC.us@West
 NBCLXHome.us@HD
 NCMEducationalKidsChannel.us@SD
 NCMGovernmentPoliticsChannel.us@SD
@@ -645,14 +647,14 @@ News12PlusLongIsland.us@HD
 News12PlusNewJersey.us@HD
 News12PlusNewYork.us@HD
 News12Westchester.us@SD
-Newsmax2.us@KPVMLD
+Newsmax2.us@SD
 NewsmaxSpanish.us@SD
 NewsoftheWorld.us@Arabic
 NewsoftheWorld.us@Spanish
 NewsoftheWorld.us@USA
 Nickelodeonenespanol.us@SD
 NorCastWeather.us@HD
-OANPlus.us@KPVMLD
+OANPlus.us@SD
 OCNTV.us@SD
 Olelo49.us@SD
 Olelo53.us@SD
@@ -663,15 +665,16 @@ OnPatrolLive.us@HD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
 OutdoorAmerica.us@SD
+OutdoorChannel.us@HD
 Outlaw.us@WGGSTV
 OvercomersTV.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
 PBS.us@East
-PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
 PBS.us@KQED
+PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
 PBS.us@WJXT
@@ -821,12 +824,12 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TCM.us@West
+TCM.us@East
 TCT.us@SD
 TLN.ca@KQSL
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@East
+TNT.us@West
 TNTInternational.ru@SD
 TNTSports4.uk@SD
 TSTV.us@SD
@@ -865,7 +868,7 @@ TheArchive.us@SD
 TheBurbankChannel.us@SD
 TheCW.us@KTNVTV
 TheCW.us@KWCHDT
-TheCW.us@WWBT
+TheCW.us@WAVE
 TheChatShowChannel.uk@SD
 TheCityofMarina.us@SD
 TheCountryNetwork.us@SD
@@ -896,10 +899,10 @@ TyCSportsUSA.ar@SD
 UCTV.us@SD
 UniMas.us@KFTRDT
 UniMas.us@KUVNDT
-UniMas.us@WFUTDT
+UniMas.us@Mountain
 UniMas.us@WXTVDT
+Univision.us@East
 Univision.us@KMEXDT
-Univision.us@WGBODT
 Univision.us@WLTVDT
 VBSTV.us@SD
 VCAT.us@SD
@@ -941,7 +944,7 @@ WhitePlainsCommunityMedia.us@SD
 WillametteFallsMediaCenter.us@SD
 Willow.us@SD
 WindowTV.us@SD
-WorldChannel.us@WGTV
+WorldChannel.us@SD
 WorldHarvestTV.us@SD
 YTATV.us@SD
 YouDotGov.us@SD
@@ -955,3 +958,4 @@ ZoomNews.us@SD
 iHolyfieldTV.us@WHPSCD
 pocketwatch.us@SD
 theDoveTV.us@SD
+truTV.us@West
