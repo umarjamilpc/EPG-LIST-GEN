@@ -96,7 +96,7 @@ AccessTuolumne.us@SD
 AccessVisionChannel16.us@SD
 AccessVisionChannel17.us@SD
 AccuWeatherNOW.us@SD
-AceTV.us@KCKSLD
+AceTV.us@SD
 AdrenalinaPuraTV.us@SD
 AfroLandTV.us@SD
 Akaku53.us@SD
@@ -165,7 +165,7 @@ BXCulture.us@SD
 BXInform.us@SD
 BXInspire.us@SD
 BXOmni.us@SD
-BabyFirst.us@US
+BabyFirst.us@Spanish
 Backstage.us@SD
 BarkTV.us@SD
 BattlestarGalactica.us@SD
@@ -183,7 +183,7 @@ BetterLifeTV.us@SD
 BigTenNetwork.us@SD
 Binge.us@SD
 BizTV.us@SD
-BloombergOriginals.us@SD
+BloombergOriginals.us@US
 BloombergTV.us@LiveEvent
 BloombergTV.us@PoliticsLiveEvent
 BloombergTV.us@US
@@ -259,7 +259,7 @@ CampSpoopy.us@SD
 CanaldelaFe.us@SD
 CanelaTV.us@SD
 CapitalCityConnectionMontgomery.us@SD
-CartoonNetwork.us@East
+CartoonNetwork.us@West
 CatholicFaithNetwork.us@SD
 CelebrityNameGame.us@SD
 CelebritySceneTV.us@SD
@@ -348,9 +348,9 @@ E.us@East
 EBSCinema.us@SD
 EBSMusika.us@SD
 ESNETV.us@SD
-ESPN.us@SD
+ESPN.us@HD
 ESTV.us@SD
-EWTN.us@Spanish
+EWTN.us@English
 ElRey.us@SD
 ElbesharaGTV.us@SD
 ElevationChurchNetwork.us@HD
@@ -380,6 +380,7 @@ FlowersTVUSA.us@SD
 Fox.us@KBSI
 Fox.us@KCPQ
 Fox.us@KDFW
+Fox.us@KMSPTV
 Fox.us@KRIV
 Fox.us@KSAZTV
 Fox.us@KSTU
@@ -391,7 +392,6 @@ Fox.us@WALATV
 Fox.us@WBRC
 Fox.us@WDRB
 Fox.us@WFTXTV
-Fox.us@WFXT
 Fox.us@WHBQTV
 Fox.us@WHNS
 Fox.us@WITI
@@ -409,7 +409,7 @@ FoxBusinessNetwork.us@SD
 FoxNewsInternational.us@SD
 FoxNewsRadio.us@SD
 FoxWeather.us@KTVU
-FoxWeather.us@WFLD
+FoxWeather.us@SD
 FoxWeather.us@WOFL
 FreebieTV.us@SD
 FrightFlix.us@SD
@@ -422,7 +422,7 @@ GEBNetwork.us@KBPXLD
 GMTV.us@SD
 Gagsnetwork.us@SD
 Galavision.us@EastHD
-Galavision.us@West
+Galavision.us@WestHD
 GalvestonCountyTV.us@SD
 GalxyTV.us@SD
 GanjeHozourTV.us@SD
@@ -462,7 +462,7 @@ HarPalGeo.pk@SD
 HarmonyGospelMusicTV.us@SD
 HarvestUSA.in@SD
 HasbroLegends.us@SD
-Heartland.us@Web
+Heartland.us@Eastern
 HiYAH.us@SD
 HighVisionTV.us@SD
 HillsboroughTV.us@SD
@@ -703,17 +703,17 @@ OnPatrolLive.us@HD
 OnTV4U.us@SD
 OntarioPublicAccessChannel.us@SD
 OrangeGovernmentAccessTV.us@SD
-OutdoorChannel.us@SD
+OutdoorChannel.us@HD
 OuterSphere.us@SD
 OutsideTV.us@SD
 OvercomersTV.us@SD
 Overtime.us@SD
 PBCTVChannel20.us@SD
 PBCTapeshTV.us@SD
-PBS.us@East
 PBS.us@KETS
 PBS.us@KHET
 PBS.us@KMOSTV
+PBS.us@KQED
 PBS.us@KUONTV
 PBS.us@KVIE
 PBS.us@WEDQ
@@ -828,7 +828,7 @@ SUMtvLatino.us@SD
 SamsungWildlife.us@SD
 SanskarUSA.in@SD
 SchwabNetwork.us@SD
-ScientologyNetwork.us@KSCNTV
+ScientologyNetwork.us@SD
 ScientologyNetwork.us@WFTTTV
 ScottsdaleChannel11.us@SD
 ScreenDreams.us@SD
@@ -859,7 +859,7 @@ StarzEncoreSpanish.us@East
 StarzKidsFamily.us@East
 StingrayGreatestHolidayHits.us@SD
 StocktonGovTV.us@SD
-StoryTelevision.us@KPVMLD
+StoryTelevision.us@WCIUTV
 StrykTV.us@HD
 SuperSimpleSongs.us@SD
 SwamijiTVAmerican.at@SD
@@ -872,12 +872,12 @@ TBNArmenia.us@SD
 TBNInspire.us@SD
 TBNPacific.us@SD
 TBNUkraine.us@SD
-TBS.us@West
-TCM.us@East
+TBS.us@East
+TCM.us@West
 TCT.us@SD
 TLNMediaChicago.us@SD
 TLNMediaSanFrancisco.us@SD
-TNT.us@West
+TNT.us@East
 TNTInternational.ru@SD
 TSTV.us@SD
 TUTV.us@SD
@@ -930,7 +930,7 @@ TelemundoCorpusChristi.us@SD
 TelemundoTelenovelasClasicas.us@SD
 TemeculaTV.us@SD
 Tempe11.us@SD
-TennisChannel.us@SD
+TennisChannel.us@Plus2
 TerraMaterWILD.de@English
 TeveVidaNetwork.us@SD
 TheAsylum.us@US
@@ -978,7 +978,7 @@ UniversalComedy.us@SD
 Univision.us@East
 Univision.us@KMEXDT
 Univision.us@WGBODT
-Univision.us@WLTVDT
+Univision.us@West
 VBSTV.us@SD
 VCAT.us@SD
 VSCTV.us@SD
@@ -1057,4 +1057,4 @@ beINSportsUSA.us@SD
 iCarly.us@SD
 iHolyfieldTV.us@WHPSCD
 theDoveTV.us@SD
-truTV.us@East
+truTV.us@West
